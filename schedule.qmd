@@ -1,0 +1,457 @@
+---
+title: "Course Schedule"
+subtitle: "Mondays & Wednesdays, 9:35–10:50 AM · GISB 1112"
+toc: false
+---
+
+This course runs **August 24 – December 9, 2026**, meeting **Mondays and Wednesdays**. Mondays use lecture to the week's concepts; **Wednesdays are in-class group case write-ups, which are turned in at the end of class** — come having done the reading.
+
+::: {.info-box}
+### {{< fa book >}} Readings & course pack
+Readings marked **©** are in the Harvard Business Publishing course pack; all others are on Canvas or linked directly. Complete each reading **before** the day they are listed.
+:::
+
+---
+
+## Module 1 · Introduction & scene-setting
+
+### Week 1 — Global firms & global powers
+
+<table class="schedule-table">
+<thead>
+<tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Aug 24</td><td>Mon</td>
+<td>
+<p><strong>Welcome; what is global business?; the case method; team formation.</strong></p>
+<ul><li>Read the course syllabus</li></ul>
+<p><a href="content/day01.qmd">{{< fa calendar-day >}} Day 1 page & slides</a></p>
+</td>
+<td>
+<ul>
+<li>Lecture & discussion</li>
+<li>Syllabus quiz</li>
+<li>Student questionnaire</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Aug 26</td><td>Wed</td>
+<td>
+<p><strong>Case (practice): Nike, the NBA, China & Free Speech.</strong></p>
+<ul>
+<li>Tao et al., <em>Nike, the NBA, China, and Free Speech: A Zone Defense</em> © (course pack)</li>
+<li>"China's fight with the NBA, explained" (Vox, video)</li>
+<li>NYT Editorial Board, "The Chinese Threat to American Speech" (Oct 19, 2019)</li>
+</ul>
+<p><a href="content/day02.qmd">{{< fa file-pen >}} Day 2 page</a></p>
+</td>
+<td>Practice case write-up — ungraded</td>
+</tr>
+</tbody>
+</table>
+
+### Week 2 — Power, multinationals & why countries want FDI
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Aug 31</td><td>Mon</td>
+<td>
+<p><strong>Framing the semester: who has power?</strong> MNCs as political actors, and why countries want FDI in.</p>
+<ul>
+<li>Gilpin 1976, "The Political Economy of the Multinational Corporation"</li>
+<li>Ruggie 2018, "Multinationals as Global Institution"</li>
+<li>Alfaro & Clavell 2007, "Foreign Direct Investment," HBS Note ©</li>
+</ul>
+<p><a href="content/day03.qmd">{{< fa arrow-right >}} Day 3 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Sep 2</td><td>Wed</td>
+<td>
+<p><strong>Worksheet: reading power in Gilpin & Ruggie.</strong> Applies Monday's readings to the Nike–NBA–China case.</p>
+<ul><li>No new readings, but will discuss Monday's readings</li></ul>
+<p><a href="content/day04.qmd">{{< fa file-pen >}} Day 4 page</a></p>
+</td>
+<td>Case write-up (actually, on theoretical readings)</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Module 2 · Political risk
+
+### Week 3 — Everybody wants some! (FDI)
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr class="no-class"><td>Sep 7</td><td>Mon</td><td><em>No class — Labor Day</em></td><td>—</td></tr>
+<tr>
+<td>Sep 9</td><td>Wed</td>
+<td>
+<p><strong>Case: FDI and Ireland's Tiger Economy.</strong></p>
+<ul><li>Foreign Direct Investment and Ireland's Tiger Economy (A) © (course pack)</li></ul>
+<p><a href="content/day05.qmd">{{< fa arrow-right >}} Day 5 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+### Week 4 — Political risk & overseas investment: Exxon in Aceh
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Sep 14</td><td>Mon</td>
+<td>
+<p><strong>Managing political risk.</strong></p>
+<ul><li>Rice & Zegart 2018, "Managing 21st-Century Political Risk," <em>HBR</em></li></ul>
+<p><a href="content/day06.qmd">{{< fa arrow-right >}} Day 6 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Sep 16</td><td>Wed</td>
+<td>
+<p><strong>Case: Exxon in Aceh.</strong></p>
+<ul><li>Coll 2013, <em>Private Empire: ExxonMobil and American Power</em>, ch. 4 & 18</li></ul>
+<p><a href="content/day07.qmd">{{< fa arrow-right >}} Day 7 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+### Week 5 — Corruption at Siemens
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Sep 21</td><td>Mon</td>
+<td>
+<p><strong>The political economy of corruption.</strong></p>
+<ul><li>Rodriguez 2019, "A Technical Note on Corruption," Darden ©</li></ul>
+<p><a href="content/day08.qmd">{{< fa arrow-right >}} Day 8 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Sep 23</td><td>Wed</td>
+<td>
+<p><strong>Case: Fighting Corruption at Siemens.</strong></p>
+<ul><li>Fighting Corruption at Siemens © </li></ul>
+<p><a href="content/day09.qmd">{{< fa arrow-right >}} Day 9 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+### Week 6 — Legal remedies? Investment treaties & political risk
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Sep 28</td><td>Mon</td>
+<td>
+<p><strong>Finish Siemens; introduce investor–state dispute settlement (ISDS) and investment treaties.</strong></p>
+<ul>
+<li>Jones & Rahmani 2022, "In Search of Global Regulation," HBS ©</li>
+<li><em>Optional:</em> Hamby 2016, "Inside the Global 'Club' That Helps Executives Escape Their Crimes," BuzzFeed News</li>
+</ul>
+<p><a href="content/day10.qmd">{{< fa arrow-right >}} Day 10 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Sep 30</td><td>Wed</td>
+<td>
+<p><strong>Case: Philip Morris Asia v. Australia (ISDS).</strong></p>
+<ul><li>Hepburn & Nottage 2016, "Case Note: Philip Morris Asia v. Australia"</li></ul>
+<p><a href="content/day11.qmd">{{< fa arrow-right >}} Day 11 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Assessment
+
+### Week 7 — Synthesis & midterm
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Oct 5</td><td>Mon</td>
+<td>
+<p>Synthesis & midterm review. Revisit the semester's power question across Modules 1–2.</p>
+<ul><li>No new reading</li></ul>
+<p><a href="content/day12.qmd">{{< fa arrow-right >}} Day 12 page</a></p>
+</td>
+<td>Review</td>
+</tr>
+<tr>
+<td>Oct 7</td><td>Wed</td>
+<td>
+<p><strong>Midterm exam (in class).</strong></p>
+<p><a href="content/day13.qmd">{{< fa arrow-right >}} Day 13 page</a></p>
+</td>
+<td>Midterm</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Module 3 · Holding global firms accountable
+
+### Week 8 — International tax policy & tax avoidance: Apple
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Oct 12</td><td>Mon</td>
+<td>
+<p><strong>International tax & avoidance.</strong></p>
+<ul><li>Shaxson 2019, "Tackling Tax Havens," <em>F&D</em></li></ul>
+<p><a href="content/day14.qmd">{{< fa arrow-right >}} Day 14 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Oct 14</td><td>Wed</td>
+<td>
+<p><strong>Case: Did Apple Pay Too Little Tax? (A).</strong> Appealing the EU ruling on illegal state aid.</p>
+<ul><li>Bennedsen, Henry & Stabile © (INSEAD)</li></ul>
+<p><a href="content/day15.qmd">{{< fa arrow-right >}} Day 15 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+<small>*IU fall break (Thu–Fri, ~Oct 15–16) falls this week but does not affect M/W meetings.*</small>
+
+### Week 9 — Private power over supply chains: social pressure & self-regulation
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Oct 19</td><td>Mon</td>
+<td>
+<p><strong>Transnational advocacy networks & corporate self-regulation.</strong></p>
+<ul>
+<li>Keck & Sikkink 1999, "Transnational Advocacy Networks in International and Regional Politics"</li>
+<li>Villena & Gioia 2020, "A More Sustainable Supply Chain," <em>HBR</em></li>
+</ul>
+<p><a href="content/day16.qmd">{{< fa arrow-right >}} Day 16 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Oct 21</td><td>Wed</td>
+<td>
+<p><strong>Case: Patagonia — Tackling Human Trafficking in Global Supply Chains.</strong></p>
+<ul><li>Bishop & Milenova 2021, HKU/ACRC ©</li></ul>
+<p><a href="content/day17.qmd">{{< fa file-pen >}} Day 17 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+### Week 10 — Tariffs, sourcing & the power to redraw supply chains
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Oct 26</td><td>Mon</td>
+<td>
+<p><strong>Tariffs, economic statecraft & the retreat of the WTO trading order.</strong></p>
+<ul>
+<li>Harvard Kennedy School, "Explainer: How Do Tariffs Work"</li>
+<li>HBR, "Understanding the Global Macroeconomic Impacts of Trump's Tariffs" (Apr 2025)</li>
+</ul>
+<p><a href="content/day18.qmd">{{< fa arrow-right >}} Day 18 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Oct 28</td><td>Wed</td>
+<td>
+<p><strong>Case: LeapFive Technology — RISC in the Chip Supply Chain.</strong></p>
+<ul><li>Ivey/CUHK, 2023 ©</li></ul>
+<p><a href="content/day19.qmd">{{< fa file-pen >}} Day 19 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+### Week 11 — Public regulation & ethical supply chains: apparel
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Nov 2</td><td>Mon</td>
+<td>
+<p><strong>Apparel supply chains & labor.</strong></p>
+<ul><li>Distelhorst & Locke 2018, "Does Compliance Pay? Social Standards and Firm-Level Trade," <em>AJPS</em></li></ul>
+<p><a href="content/day20.qmd">{{< fa arrow-right >}} Day 20 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Nov 4</td><td>Wed</td>
+<td>
+<p><strong>Case: H&M, Rana Plaza, and Beyond.</strong></p>
+<ul><li>Hoffman 2021 © (course pack)</li></ul>
+<p><a href="content/day21.qmd">{{< fa arrow-right >}} Day 21 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Module 4 · Geoeconomics & MNEs
+
+### Week 12 — National security & FDI
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Nov 9</td><td>Mon</td>
+<td>
+<p><strong>National security & inward investment screening (CFIUS).</strong></p>
+<ul><li>Congressional Research Service, <em>CFIUS</em> report</li></ul>
+<p><a href="content/day22.qmd">{{< fa arrow-right >}} Day 22 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Nov 11</td><td>Wed</td>
+<td>
+<p><strong>Case: TikTok.</strong></p>
+<ul><li>Friedman & Bauerle Danzman 2021 ©</li></ul>
+<p><a href="content/day23.qmd">{{< fa arrow-right >}} Day 23 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+### Week 13 — Culture, labor rights & U.S. inward FDI
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Nov 16</td><td>Mon</td>
+<td>
+<p><strong>Cross-cultural management.</strong></p>
+<ul>
+<li>Meyer 2017, "Being the Boss in Brussels, Boston, and Beijing," <em>HBR</em></li>
+<li>Hsu et al. 2019, excerpt from "Fuyao Glass: Global Strategy for U.S. Country Risk" © (Ivey/CUHK)</li>
+<li><em>American Factory</em> (documentary, 110 min) — assigned to watch outside class</li>
+</ul>
+<p><a href="content/day24.qmd">{{< fa arrow-right >}} Day 24 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Nov 18</td><td>Wed</td>
+<td>
+<p><strong><em>American Factory</em> discussion / culture case write-up.</strong></p>
+<p><a href="content/day25.qmd">{{< fa arrow-right >}} Day 25 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+### Week 14 — Thanksgiving break
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr class="no-class"><td>Nov 23</td><td>Mon</td><td><em>No class — Thanksgiving break</em></td><td>—</td></tr>
+<tr class="no-class"><td>Nov 25</td><td>Wed</td><td><em>No class — Thanksgiving break</em></td><td>—</td></tr>
+</tbody>
+</table>
+
+### Week 15 — Regulating MNE activity in a geoeconomic age
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Nov 30</td><td>Mon</td>
+<td>
+<p><strong>Lecture — geoeconomics & the regulation of MNEs.</strong></p>
+<ul><li>Farrell, Henry, and Abraham Newman. "<a href="https://www.foreignaffairs.com/united-states/economic-security-state-farrell-newman">The New Economic Security State: How De-Risking Will Remake Geopolitics</a>," <em>Foreign Affairs</em>, Nov/Dec 2023.</li></ul>
+<p><a href="content/day26.qmd">{{< fa arrow-right >}} Day 26 page</a></p>
+</td>
+<td>Lecture & discussion</td>
+</tr>
+<tr>
+<td>Dec 2</td><td>Wed</td>
+<td>
+<p><strong>Case: The Uyghur Forced Labor Prevention Act.</strong></p>
+<ul><li>Friedman & Lane 2022 © (HBS)</li></ul>
+<p><a href="content/day27.qmd">{{< fa arrow-right >}} Day 27 page</a></p>
+</td>
+<td>Case write-up</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Module 5 · Conclusion
+
+### Week 16 — Conclusion
+
+<table class="schedule-table">
+<thead><tr><th>Date</th><th>Day</th><th>Topic & readings</th><th>In class / deadlines</th></tr></thead>
+<tbody>
+<tr>
+<td>Dec 7</td><td>Mon</td>
+<td>
+<p>Course synthesis; final exam review.</p>
+<p><a href="content/day28.qmd">{{< fa arrow-right >}} Day 28 page</a></p>
+</td>
+<td>Review</td>
+</tr>
+<tr>
+<td>Dec 9</td><td>Wed</td>
+<td>
+<p><strong>Last day of class</strong> — flex / wrap-up.</p>
+<p><a href="content/day29.qmd">{{< fa arrow-right >}} Day 29 page</a></p>
+</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+**Final exam** — finals week (Dec 14–18, 2026); day/time set by the registrar (**TBD**).

@@ -1,0 +1,16 @@
+---
+title: "Day 13 — Midterm exam"
+subtitle: "Wednesday, Oct 7 · Midterm"
+date: "2026-10-07"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+**In-class midterm exam.** Covers Modules 1–2 and the synthesis reading. Review materials posted on Canvas.
+:::
+
+## Materials for today
+
+

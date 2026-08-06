@@ -1,0 +1,22 @@
+---
+title: "Day 27 — The Uyghur Forced Labor Prevention Act"
+subtitle: "Wednesday, Dec 2 · In-class case"
+date: "2026-12-02"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- Friedman & Lane 2022, *The Uyghur Forced Labor Prevention Act* © (HBS)
+
+**Overview.** The UFLPA creates a rebuttable presumption that goods manufactured wholly or in part in China's Xinjiang region involve forced labor, effectively barring their import into the U.S. unless a company can prove otherwise — a much more aggressive enforcement posture than prior withhold-release-order practice. The case sits at the close of the semester's geoeconomics module, alongside CFIUS/TikTok, as an example of public power reaching deep into supply chains for reasons that mix human-rights concern with strategic competition.
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

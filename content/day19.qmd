@@ -1,0 +1,22 @@
+---
+title: "Day 19 — LeapFive Technology: RISC in the Chip Supply Chain"
+subtitle: "Wednesday, Oct 28 · In-class case"
+date: "2026-10-28"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- Thomas, Hugh, and Shilu Tong. *LeapFive Technology Co. Ltd.: RISC in the Chip Supply Chain.* Ivey Publishing / CUHK Business School © (2023)
+
+**Overview.** LeapFive is a Chinese fabless chip-design company — it designs semiconductors but doesn't manufacture them, relying on a global supply chain of fabrication, packaging, and testing partners across China, India, Germany, Korea, and elsewhere. CEO Aglaia Kong describes the frustration bluntly: *"In design, I have ways to control, but I can't control anything else. . . . Once it gets to manufacturing and fabrication and packaging, I am just in the hands of the market."* The two dominant chip architectures — Intel's proprietary **x86** and the UK-based, SoftBank-owned **ARM** — both leave a Chinese fabless firm dependent on foreign-controlled intellectual property. LeapFive's answer is **RISC-V**: an open-source instruction-set architecture, free for any company to build on, that doesn't require licensing IP from a single controlling firm. Backed by China's industrial policy (including state "Big Fund" investment in the domestic chip sector) and built against the backdrop of a U.S.–China trade war and a global chip shortage, LeapFive is a bet that **open, decentralized technology standards** can substitute for supply-chain and IP control that no single Chinese firm can otherwise secure.
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

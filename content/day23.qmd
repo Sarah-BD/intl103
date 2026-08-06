@@ -1,0 +1,20 @@
+---
+title: "Day 23 — TikTok"
+subtitle: "Wednesday, Nov 11 · In-class case"
+date: "2026-11-11"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- Friedman & Bauerle Danzman 2021, *TikTok* © (HBS case)
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

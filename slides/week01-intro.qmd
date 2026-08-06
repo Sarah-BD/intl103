@@ -1,0 +1,196 @@
+---
+title: "Global Business"
+subtitle: "INTL-I103 | Week 1 — Introduction"
+author: "Prof. Sarah Bauerle Danzman"
+date: "2026-08-24"
+date-format: long
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    preview-links: auto
+    footer: "INTL-I103 | Global Business"
+    transition: fade
+    width: 1600
+    height: 900
+    margin: 0.15
+    fig-align: center
+    auto-stretch: false
+    logo: iu-trident.png
+    title-slide-attributes:
+      data-background-image: iu-trident.png
+      data-background-size: 15%
+      data-background-position: 2% 2%
+---
+
+## Today's Plan
+
+::: {.callout-important icon=false title="Today's Big Question"}
+**When a global company gets caught between a foreign government and its own customers, who actually holds the power — and what should the company do?**
+:::
+
+<table class="plan-table">
+<thead><tr><th>Section</th><th>What we'll cover</th></tr></thead>
+<tbody>
+<tr><td class="sec">1 · Welcome</td><td>What this course is, who I am, and how we'll work together</td></tr>
+<tr><td class="sec">2 · What you'll learn</td><td>The substantive and skill-based outcomes for the semester</td></tr>
+<tr><td class="sec">3 · How the course works</td><td>The Monday/Wednesday rhythm, case write-ups, and grading</td></tr>
+<tr><td class="sec">4 · This week's case</td><td>Nike, the NBA & China — our practice case for Wednesday</td></tr>
+</tbody>
+</table>
+
+# Welcome {background-color="#990000"}
+
+## What this class is about
+
+Global business sits at the intersection of **politics, policy, and practice.**
+
+- What dilemmas do firms face operating across very different political, cultural, and regulatory landscapes?
+- Who holds power in the global economy — and how does that shape what companies can and can't do?
+- How can communities capture the benefits of global business while managing its risks?
+
+We answer these with **real cases** — Nike, ExxonMobil, Siemens, Apple, Patagonia, H&M, TikTok, and more.
+
+## Your Instructor
+
+::: {.columns}
+::: {.column width="30%"}
+
+![](sarah-headshot.jpeg){fig-alt="Professor Sarah Bauerle Danzman" width="90%"}
+
+:::
+::: {.column width="70%"}
+
+**Professor Sarah Bauerle Danzman**
+
+**Research interests:**
+
+- Multinational Firms as Political Actors
+- The Politics & Welfare Effects of Investment Regulation
+- National Security and Economic Policy (especially investment screening)
+- Economic Statecraft & Geoeconomics
+- Political Business Connections
+
+I co-authored the **TikTok** case we'll study in Week 12.
+
+**Office Hours:** TBD, and by appointment
+
+**Best way to reach me:** Canvas messages or sbauerle@indiana.edu
+
+:::
+:::
+
+# What you'll learn {background-color="#990000"}
+
+## Substantive outcomes
+
+By the end of the term you'll be able to:
+
+- Describe the global production structure, the history of the MNE, and the controversies around it
+- Explain competing IR approaches to **power in the global economy** and how actors turn power into influence
+- Assess the **political, institutional, and cultural** roots of firms' operational challenges
+- Evaluate MNEs' environmental, social, and governance impact
+- Judge when "responsible business conduct" works — and when structures undermine it
+- Identify the **national-security** concerns MNEs create and the tools states use to manage them
+
+## Skill outcomes: the analytic move
+
+Every case in this course asks you to make the same three-step move:
+
+::: {.columns}
+::: {.column width="33%"}
+### 1 · Assess
+State the concrete problem the firm faces, using the evidence in the case.
+:::
+::: {.column width="33%"}
+### 2 · Diagnose
+Identify the root causes — political, economic, institutional, cultural.
+:::
+::: {.column width="34%"}
+### 3 · Propose
+Recommend a defensible course of action and name the tradeoffs.
+:::
+:::
+
+This is the structure of every **case write-up.**
+
+# How the course works {background-color="#990000"}
+
+## The weekly rhythm
+
+::: {.columns}
+::: {.column width="50%"}
+### Mondays
+Reading discussion, lecture, and framing. We build the concepts and set up the week's case.
+:::
+::: {.column width="50%"}
+### Wednesdays
+**In-class group case write-ups.** You work in your team to analyze the case and produce a written deliverable — *during class.*
+:::
+:::
+
+Come to Wednesday having done the reading. The in-class time is for **analysis**, not first contact with the material.
+
+## How you're graded
+
+<table class="plan-table">
+<thead><tr><th>Component</th><th>Weight</th></tr></thead>
+<tbody>
+<tr><td class="sec">Group case write-ups</td><td>40% — in class, Wednesdays, in rotating teams</td></tr>
+<tr><td class="sec">Midterm exam</td><td>20% — in class, ~Oct 7</td></tr>
+<tr><td class="sec">Cumulative final</td><td>25% — finals week (Dec 14–18)</td></tr>
+<tr><td class="sec">Attendance &amp; participation</td><td>10%</td></tr>
+<tr><td class="sec">Community participation</td><td>5% — five academic events</td></tr>
+</tbody>
+</table>
+
+The case write-ups are the heart of the course — and because they happen in class, they also reward showing up prepared.
+
+## Case write-ups: the format
+
+- Assigned to a **small team** (4–5 people); teams **reshuffle** a few times across the term
+- Each case Wednesday: read the prompt, work the case, produce a written deliverable together
+- **The first one (this Wednesday, Nike) is a practice round** — it's how you learn the format before it counts
+- Graded on quality of analysis, use of evidence and concepts, clarity, and the soundness of your recommendation — **not** on reaching a "right" answer
+
+## How to do well
+
+- Come to class
+- Do the readings *before* Wednesday
+- Contribute fully to your team's write-ups
+- Participate in Monday discussion
+- Tell me early when something isn't working
+- Put in the time
+
+# This week's case {background-color="#990000"}
+
+## Nike, the NBA & China
+
+In 2019, a single tweet by an NBA general manager supporting Hong Kong protesters set off a crisis: China retaliated against the league, and companies with deep stakes in the Chinese market — including Nike — had to decide how to respond.
+
+**For Wednesday, read:**
+
+- Tao et al., *Nike, the NBA, China, and Free Speech: A Zone Defense* ©
+- "China's fight with the NBA, explained" (Vox, ~10-min video)
+- NYT Editorial Board, "The Chinese Threat to American Speech" (Oct 19, 2019)
+
+## What to think about before Wednesday
+
+- Who are the **actors**, and what does each one want?
+- Where does the **power** lie — with China, the NBA, Nike, consumers?
+- What are Nike's **options**, and what does each one cost?
+
+We'll use this case to practice the **assess → diagnose → propose** move you'll use all semester.
+
+## Looking ahead
+
+- **Wednesday (Aug 26):** practice case write-up — Nike, the NBA & China
+- **Next Monday (Aug 31):** theory — *are multinationals political actors?* (Gilpin; Ruggie)
+
+See the full [course schedule](../schedule.qmd) and [syllabus](../syllabus.qmd) on the course site.
+
+## Questions? {background-color="#990000"}
+
+::: {.r-fit-text}
+Let's get started.
+:::

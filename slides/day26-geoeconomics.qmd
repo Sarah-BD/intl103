@@ -1,0 +1,92 @@
+---
+title: "Global Business"
+subtitle: "INTL-I103 | Day 26 — Regulating MNEs in a Geoeconomic Age"
+author: "Prof. Sarah Bauerle Danzman"
+date: "2026-11-30"
+date-format: long
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    preview-links: auto
+    footer: "INTL-I103 | Global Business"
+    transition: fade
+    width: 1600
+    height: 900
+    margin: 0.15
+    fig-align: center
+    auto-stretch: false
+    logo: iu-trident.png
+    title-slide-attributes:
+      data-background-image: iu-trident.png
+      data-background-size: 15%
+      data-background-position: 2% 2%
+---
+
+## Today's Plan
+
+::: {.callout-important icon=false title="Today's Big Question"}
+**When trade and investment become tools of statecraft, what happens to the firms caught in the crossfire?**
+:::
+
+<table class="plan-table">
+<thead><tr><th>Section</th><th>What we'll cover</th></tr></thead>
+<tbody>
+<tr><td class="sec">1 · The shift</td><td>From globalization to geoeconomics</td></tr>
+<tr><td class="sec">2 · The toolkit</td><td>The instruments of economic statecraft</td></tr>
+<tr><td class="sec">3 · Firms in the middle</td><td>As both instruments and targets</td></tr>
+<tr><td class="sec">4 · Setting up the case</td><td>The Uyghur Forced Labor Prevention Act</td></tr>
+</tbody>
+</table>
+
+# The shift {background-color="#990000"}
+
+## From globalization to geoeconomics
+
+- The post–Cold War assumption: keep **economics and security separate**, and let markets liberalize
+- Today: governments deliberately use **economic interdependence as leverage** — what Farrell & Newman call **weaponized interdependence**
+- Chokepoints in finance, technology, and supply chains become **instruments of power**
+
+# The toolkit {background-color="#990000"}
+
+## Instruments of economic statecraft
+
+- **Tariffs** and trade restrictions — the full topic of Day 18
+- **Export controls** (e.g., advanced chips, chip-making tools) — recall LeapFive's chip supply chain from Day 19
+- **Sanctions** and entity lists
+- **Investment screening** (CFIUS — last week)
+- **Industrial policy** (subsidies, domestic-content rules) — recall China's "Big Fund" from the LeapFive case
+- **Forced-labor import bans** (UFLPA)
+
+Many of these target **supply-chain chokepoints** where one country holds disproportionate control — the same dynamic LeapFive's Kong described as "in the hands of the market."
+
+# Firms in the middle {background-color="#990000"}
+
+## Both instrument and target
+
+- **Instrument:** governments enlist firms to comply, decouple, or cut off counterparties
+- **Target:** firms get export-controlled, sanctioned, screened, or banned
+- The result for business: **rising compliance costs**, supply-chain **fragmentation**, and pressure to **"de-risk"** or reshore
+
+# Setting up the case {background-color="#990000"}
+
+## The Uyghur Forced Labor Prevention Act
+
+- **Wednesday's case** examines a **forced-labor import ban** — the Uyghur Forced Labor Prevention Act — as a geoeconomic tool that mixes human-rights enforcement with strategic competition
+- It's the semester's last chance to ask the power question directly: when a government bans an entire category of imports on presumption of forced labor, who ultimately bears the cost of enforcement — and who has the power to contest it?
+
+## Key takeaways
+
+- Geoeconomics **collapses the old line** between commerce and security
+- The state's toolkit is wide — and firms are increasingly **its instruments and its targets**
+- "Where is this made, and who controls it?" is now a strategic question for every global firm
+
+## Looking ahead
+
+- **Wednesday (Day 27):** the UFLPA case write-up
+
+## Questions? {background-color="#990000"}
+
+::: {.r-fit-text}
+See you Wednesday.
+:::

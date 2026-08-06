@@ -1,0 +1,20 @@
+---
+title: "Day 12 — Synthesis & midterm review"
+subtitle: "Monday, Oct 5 · Review"
+date: "2026-10-05"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+No new reading. We revisit the semester's power question — who has power, when, why, and to what effect — across Modules 1 and 2, and review for Wednesday's midterm.
+:::
+
+## Materials for today
+
+*(none — bring your notes from Modules 1–2 and the Day 10 discussion instead)*
+
+## Slides
+
+Lecture slides will be posted here before class.

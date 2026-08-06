@@ -1,0 +1,24 @@
+---
+title: "Day 15 — Did Apple Pay Too Little Tax?"
+subtitle: "Wednesday, Oct 14 · In-class case"
+date: "2026-10-14"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- Bennedsen, Henry & Stabile, *Did Apple Pay Too Little Tax? (A): Appealing the EU Ruling on Illegal State Aid* © (INSEAD)
+
+**Overview.** Ireland gave Apple a tax arrangement that let it book enormous profits at almost no tax rate. The European Commission ruled this amounted to illegal **state aid** — an unfair subsidy Ireland gave one company — and ordered Apple to pay roughly €13 billion in back taxes. Both Apple *and* Ireland appealed, because Ireland didn't want the money either: it wanted to keep being able to offer this kind of deal. The case puts you inside that appeal, sitting at the intersection of **sovereignty, corporate power, and the limits of cooperation on tax.**
+
+By 2026 we know how the appeal ultimately turned out — the EU Court of Justice ruled decisively against Apple and Ireland in September 2024, upholding the full back-tax order. Work the case as of the moment it's set (before that ruling), then use the actual outcome to test your own reasoning.
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

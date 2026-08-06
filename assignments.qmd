@@ -1,0 +1,105 @@
+---
+title: "Assignments & Assessment"
+subtitle: "What you'll do and how you'll be evaluated"
+toc: false
+---
+
+This course is built around in-class, team-based analysis. The group case write-ups are the heart of it; the midterm and final check your command of the concepts; and participation rewards consistent, prepared engagement.
+
+---
+
+## Grade Distribution
+
+| Component | Weight | Detail |
+|-----------|--------|--------|
+| Group case write-ups | **40%** | In class, Wednesdays · rotating teams |
+| Cumulative final exam | **25%** | Finals week (Dec 14–18) · day TBD |
+| Midterm exam | **20%** | In class · ~Oct 7 |
+| Attendance & participation | **10%** | Tracked all term |
+| Community participation | **5%** | Five academic events |
+| **Total** | **100%** | |
+
+Because the case write-ups (40%) can only be completed in class, they also serve as a strong measure of engaged participation — so attendance is weighted lightly and more weight sits on the midterm and final.
+
+---
+
+::: {.assignment-card}
+### {{< fa users >}} Group Case Write-Ups (40%)
+
+The core of the course. Instead of writing alone outside class, you do your analytic thinking **together, in the room, on Wednesdays.**
+
+::: {.assignment-meta}
+**Format:** In class, in assigned teams (~4–5 students) · teams reshuffle twice across the term (after Sep 23 and after Oct 28)
+**Cadence:** ~12 graded write-ups (including one structured worksheet), plus a practice round (Aug 26, Nike)
+**Turn-in:** Submitted before the end of the period, same day — not due Monday
+:::
+
+Each case Wednesday, your team reads the prompt, works the case, and produces one written deliverable **during class, turning it in before you leave the room.** There is no take-home draft, finish-up, or revision step — the write-up is due at the end of that Wednesday's class, full stop. Come having completed the reading — the in-class time is for analysis, not first contact.
+
+One write-up (Sep 2) takes the form of a structured worksheet rather than an open case prompt — same in-class, same-day rules apply, and it counts toward the 40% like every other write-up.
+
+Every write-up moves through three steps:
+
+1. **Assess** the concrete problem the firm faces, using the evidence in the case.
+2. **Diagnose** the root causes — political, economic, institutional, cultural.
+3. **Propose** a defensible course of action and explain the tradeoffs.
+
+Graded on quality of analysis, use of evidence and course concepts, clarity, and the soundness of the recommendation — **not** on reaching a "right" answer. A rubric is posted on Canvas. [See the Day 2 practice case guide](content/day02.qmd).
+:::
+
+---
+
+::: {.assignment-card}
+### {{< fa scroll >}} Cumulative Final Exam (25%)
+
+A cumulative exam covering the full term's concepts, cases, and discussions.
+
+::: {.assignment-meta}
+**Date:** Finals week, December 14–18, 2026 · day/time set by the registrar
+**Format:** Posted to Canvas before the exam period
+:::
+:::
+
+---
+
+::: {.assignment-card}
+### {{< fa clipboard-check >}} Midterm Exam (20%)
+
+An in-class midterm covering Modules 1–2 and the Oct 5 synthesis discussion.
+
+::: {.assignment-meta}
+**Date:** ~October 7, in class
+**Format:** Review materials posted on Canvas
+:::
+:::
+
+---
+
+::: {.assignment-card}
+### {{< fa hand >}} Attendance & Participation (10%)
+
+Attendance is taken in class. You may miss **two meetings without penalty** (your "absence bank"). Because the case write-ups are produced in class, attendance — especially on Wednesdays — directly affects your team. Prepared participation in Monday discussion counts here too.
+
+::: {.assignment-meta}
+**Note:** Contact me as early as possible if circumstances make attendance difficult.
+:::
+:::
+
+---
+
+::: {.assignment-card}
+### {{< fa calendar-check >}} Community Participation (5%)
+
+Attend **five University-sanctioned academic events** (in person or virtual) over the semester — or equivalent events at other universities, think tanks, or organizations.
+
+::: {.assignment-meta}
+**Deadline:** Submit an event attendance form (Canvas) within **one week** of each event
+**Note:** Events must have an academic component. If you face barriers, let me know early for an alternative.
+:::
+:::
+
+---
+
+## Late Work
+
+Assignments lose a half-letter grade (5%) per day late unless you've arranged an extension in advance or have extenuating circumstances. Case write-ups have no out-of-class component to be late on — they're turned in during the Wednesday class period itself — so this policy applies to exams and the community participation form, and to any make-up write-up arranged for a documented absence.

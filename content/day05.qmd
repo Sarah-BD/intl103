@@ -1,0 +1,22 @@
+---
+title: "Day 5 — FDI & Ireland's Tiger Economy"
+subtitle: "Wednesday, Sep 9 · In-class case"
+date: "2026-09-09"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- *Foreign Direct Investment and Ireland's Tiger Economy (A)* © (course pack)
+
+**Overview.** Ireland was long a poor country with little indigenous industry, yet it became one of the wealthiest economies in the EU (by GDP per capita, PPP) — a transformation many attribute to government policy designed to attract FDI. This case traces Ireland's investment-promotion history and the domestic debate over the benefits and costs of FDI-led growth. Because it evaluates a historical record rather than a single decision, focus on **the arguments for why FDI helps or harms an economy, and the evidence in the case that supports each.**
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

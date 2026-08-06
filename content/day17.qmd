@@ -1,0 +1,22 @@
+---
+title: "Day 17 — Patagonia: Tackling Human Trafficking in Global Supply Chains"
+subtitle: "Wednesday, Oct 21 · In-class case"
+date: "2026-10-21"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- Bishop, David, and Kalina Milenova. *Patagonia: Tackling Human Trafficking in Global Supply Chains.* HKU Business School / Asia Case Research Centre © (2021)
+
+**Overview.** Patagonia has spent decades building a reputation as the apparel industry's most socially and environmentally serious company — a founding member of the Fair Labor Association, with a supplier code of conduct and a full-time Social and Environmental Responsibility (SER) team auditing its factories since the 1990s. In 2011, prompted by California's new Transparency in Supply Chains Act, the SER team pushed its monitoring a level deeper — from its direct (Tier 1) factories to the Tier 2 mills and material suppliers it doesn't contract with directly. What it found in Taiwan was **debt bondage**: labor brokers charging migrant workers up to $7,000 in illegal placement fees, workers earning $630/month with two years of wages needed just to repay the debt, and passports confiscated to keep them from leaving. Patagonia spent years building remediation programs and new standards in response. Then, in December 2019, its auditors found the *same* pattern of forced labor at a **Tier 1** supplier in Thailand — this time at a factory Patagonia worked with directly. The company that had already "solved" this problem once had to decide how to respond a second time — and whether the answer was more of what it had already tried.
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

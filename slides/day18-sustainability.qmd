@@ -1,0 +1,105 @@
+---
+title: "Global Business"
+subtitle: "INTL-I103 | Day 18 — Tariffs, Economic Statecraft & the Retreat of the WTO Order"
+author: "Prof. Sarah Bauerle Danzman"
+date: "2026-10-26"
+date-format: long
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    preview-links: auto
+    footer: "INTL-I103 | Global Business"
+    transition: fade
+    width: 1600
+    height: 900
+    margin: 0.15
+    fig-align: center
+    auto-stretch: false
+    logo: iu-trident.png
+    title-slide-attributes:
+      data-background-image: iu-trident.png
+      data-background-size: 15%
+      data-background-position: 2% 2%
+---
+
+## Today's Plan
+
+::: {.callout-important icon=false title="Today's Big Question"}
+**When a government uses tariffs to redraw who supplies whom, who actually has the power to decide where production happens — the state that sets the tariff, or the firm that reroutes around it?**
+:::
+
+<table class="plan-table">
+<thead><tr><th>Section</th><th>What we'll cover</th></tr></thead>
+<tbody>
+<tr><td class="sec">1 · A different public power</td><td>Protecting industry/security vs. protecting workers</td></tr>
+<tr><td class="sec">2 · How tariffs work</td><td>The basic mechanics, who pays, and why governments use them anyway</td></tr>
+<tr><td class="sec">3 · The 2025–26 tariff shock</td><td>Scale, macro impact, and firm-level responses</td></tr>
+<tr><td class="sec">4 · The retreating multilateral order</td><td>What the WTO was supposed to do, and why it isn't doing it</td></tr>
+<tr><td class="sec">5 · Setting up LeapFive</td><td>Chips, chokepoints, and a firm trying to build around a supply chain it can't control</td></tr>
+</tbody>
+</table>
+
+# A different public power {background-color="#990000"}
+
+## Not the same "public regulation" as Week 11
+
+- In two weeks, H&M and Rana Plaza will ask: can **public regulation protect workers** in a supply chain that crosses borders?
+- Today asks a related but distinct question: what happens when governments use trade policy to **protect domestic industry and national security** instead?
+- Same tool — public power exercised over trade — **different target, different logic.** Don't conflate the two
+
+# How tariffs work {background-color="#990000"}
+
+## The basic mechanics
+
+- A **tariff** is a tax on imports, paid at the border — usually by the importing firm, which typically passes some or all of the cost on to consumers or absorbs it in margins
+- Governments use tariffs to: raise revenue, protect domestic producers from foreign competition, retaliate in trade disputes, or — increasingly — pursue **national-security and industrial-policy goals** (reshoring critical production, denying rivals access to key inputs)
+- Who actually "pays" a tariff is an empirical question, not a definitional one — it depends on how easily the good can be resourced elsewhere and how price-sensitive the buyer is
+
+## Why governments reach for tariffs anyway
+
+- Tariffs are **visible and fast** — a government can act unilaterally, without needing a trading partner's agreement
+- That speed is also the problem: tariffs imposed quickly invite **retaliation**, and firms on both sides have to react faster than they can actually rebuild supply chains
+
+# The 2025–26 tariff shock {background-color="#990000"}
+
+## Scale and macroeconomic impact
+
+- U.S. tariff actions in 2025 raised effective tariff rates to levels not seen in decades, touching a wide range of trading partners and sectors
+- Effects reach beyond the directly tariffed goods: **exchange rates, inflation expectations, and investment decisions** all move in response, which is why this is a *global* macroeconomic story, not just a trade-policy footnote
+
+## Firm-level responses
+
+- **Reshoring** — moving production back to (or closer to) the home market
+- **Tariff engineering** — redesigning a product or its classification to qualify for a lower tariff rate
+- **Supply-chain rerouting / friend-shoring** — shifting sourcing to countries with better tariff treatment, even at higher production cost
+- Each response has a cost and a time lag — which is exactly why firms that *can't* move fast are the ones most exposed
+
+# The retreating multilateral order {background-color="#990000"}
+
+## What the WTO was supposed to do
+
+- The **World Trade Organization**, and the GATT system before it, was built to make trade **rules-based and predictable** — negotiated tariff bindings, a dispute-settlement process, most-favored-nation treatment for all members
+- That system assumed most disputes would be resolved through adjudication, not unilateral action
+
+## Why it isn't doing that job right now
+
+- The WTO's dispute-settlement **Appellate Body has been non-functional** for years — member states, including the U.S., have blocked new appointments, leaving disputes with no final arbiter
+- Major economies increasingly bypass WTO channels entirely, acting unilaterally (tariffs, export controls) rather than litigating through a system many see as too slow or too weak to enforce its own rulings
+- This is the **public regulation of trade in retreat** — precisely the "who has power" question from Day 1, now playing out at the level of the international system itself: when the multilateral rulebook weakens, power shifts back to whichever states are willing to act unilaterally
+
+## Key takeaways
+
+- Tariffs are a **different face of public power** than labor or environmental regulation — aimed at protecting industry and security, not workers
+- The costs and benefits of a tariff depend on **who can reroute around it** — which is a question about firms' flexibility as much as about government policy
+- The retreat of WTO-style rules-based trade governance means more of this is now settled by **unilateral state power**, not negotiated multilateral process
+
+## Looking ahead
+
+- **Wednesday (Day 19):** *LeapFive Technology — RISC in the Chip Supply Chain* — a firm trying to build its way out of a supply chain it doesn't control
+
+## Questions? {background-color="#990000"}
+
+::: {.r-fit-text}
+See you Wednesday.
+:::

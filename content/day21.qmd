@@ -1,0 +1,20 @@
+---
+title: "Day 21 — H&M, Rana Plaza & beyond"
+subtitle: "Wednesday, Nov 4 · In-class case"
+date: "2026-11-04"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- Hoffman 2021, *H&M, Rana Plaza, and Beyond* © (course pack)
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

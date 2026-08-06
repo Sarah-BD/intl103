@@ -1,0 +1,23 @@
+---
+title: "Day 6 — Political risk & overseas investment"
+subtitle: "Monday, Sep 14 · Lecture"
+date: "2026-09-14"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+Lecture and discussion: Political risk & overseas investment.
+:::
+
+## Materials for today
+
+- Rice & Zegart 2018, "Managing 21st-Century Political Risk," *HBR*
+
+## Slides
+
+[{{< fa expand >}} Open slides in a new tab](../slides/day06-political-risk.html){target="_blank"}
+
+<iframe src="../slides/day06-political-risk.html" width="100%" height="600" style="border:1px solid #ccc;">
+</iframe>

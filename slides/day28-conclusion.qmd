@@ -1,0 +1,88 @@
+---
+title: "Global Business"
+subtitle: "INTL-I103 | Day 28 — Conclusion & Final Review"
+author: "Prof. Sarah Bauerle Danzman"
+date: "2026-12-07"
+date-format: long
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    preview-links: auto
+    footer: "INTL-I103 | Global Business"
+    transition: fade
+    width: 1600
+    height: 900
+    margin: 0.15
+    fig-align: center
+    auto-stretch: false
+    logo: iu-trident.png
+    title-slide-attributes:
+      data-background-image: iu-trident.png
+      data-background-size: 15%
+      data-background-position: 2% 2%
+---
+
+## Today's Plan
+
+::: {.callout-important icon=false title="Today's Big Question"}
+**Across a dozen cases, what have we actually learned about who holds power over global business — and how it can be held accountable?**
+:::
+
+<table class="plan-table">
+<thead><tr><th>Section</th><th>What we'll cover</th></tr></thead>
+<tbody>
+<tr><td class="sec">1 · The arc</td><td>Where we've been this semester</td></tr>
+<tr><td class="sec">2 · Throughlines</td><td>The concepts that recurred across cases</td></tr>
+<tr><td class="sec">3 · The big debates</td><td>Revisited with everything we now know</td></tr>
+<tr><td class="sec">4 · Final exam</td><td>What to expect and how to prepare</td></tr>
+</tbody>
+</table>
+
+# The arc {background-color="#990000"}
+
+## Where we've been
+
+- **Module 1 — Scene-setting:** firms as global and political actors; why countries want FDI in
+- **Module 2 — Political risk:** Aceh, Siemens, ISDS and Philip Morris
+- **Module 3 — Accountability:** tax (Apple), advocacy & self-regulation (Patagonia), tariffs & sourcing (LeapFive), apparel labor (H&M)
+- **Module 4 — Geoeconomics:** CFIUS/TikTok, culture (Fuyao/*American Factory*), forced labor (UFLPA)
+
+# Throughlines {background-color="#990000"}
+
+## The tools we used again and again
+
+- **Power, authority, autonomy** — who can make whom do what
+- **Collective-action problems** (the prisoner's dilemma) — corruption, tax competition, labor standards
+- **Public vs. private regulation** — and the **right to regulate**
+- **The obsolescing bargain** and **weaponized interdependence**
+
+## One organizing question
+
+Almost every case came back to: **where does power sit in this relationship, and what — if anything — can hold it accountable?**
+
+# The big debates {background-color="#990000"}
+
+## Revisited
+
+- Is global business, on balance, a **net positive**? Who gains and who loses?
+- Can firms **self-regulate**, or is public regulation essential?
+- When does **economics become security** — and what does that cost?
+
+You don't have to land in the same place I do. You do have to **reason from evidence**, the way every case write-up asked you to.
+
+# Final exam {background-color="#990000"}
+
+## What to expect
+
+- **Cumulative**, covering the concepts, cases, and discussions across all four modules
+- Review materials posted on **Canvas**; bring questions to office hours
+- During finals week (Dec 14–18) — day and time per the registrar
+
+## Thank you
+
+It's been a pleasure thinking through these cases with you this semester.
+
+::: {.r-fit-text}
+Good luck on the final!
+:::

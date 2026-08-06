@@ -1,0 +1,97 @@
+---
+title: "Global Business"
+subtitle: "INTL-I103 | Day 24 — Culture, Labor Rights & U.S. Inward FDI"
+author: "Prof. Sarah Bauerle Danzman"
+date: "2026-11-16"
+date-format: long
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    preview-links: auto
+    footer: "INTL-I103 | Global Business"
+    transition: fade
+    width: 1600
+    height: 900
+    margin: 0.15
+    fig-align: center
+    auto-stretch: false
+    logo: iu-trident.png
+    title-slide-attributes:
+      data-background-image: iu-trident.png
+      data-background-size: 15%
+      data-background-position: 2% 2%
+---
+
+## Today's Plan
+
+::: {.callout-important icon=false title="Today's Big Question"}
+**When a company crosses borders, whose workplace culture wins — and what happens to the workers caught in between?**
+:::
+
+<table class="plan-table">
+<thead><tr><th>Section</th><th>What we'll cover</th></tr></thead>
+<tbody>
+<tr><td class="sec">1 · Inward FDI & culture</td><td>The other side of globalization</td></tr>
+<tr><td class="sec">2 · Meyer's map</td><td>How leadership norms vary across countries</td></tr>
+<tr><td class="sec">3 · American Factory</td><td>Fuyao Glass comes to Ohio</td></tr>
+<tr><td class="sec">4 · Synthesis</td><td>Culture, labor, and the limits of management</td></tr>
+</tbody>
+</table>
+
+# Inward FDI & culture {background-color="#990000"}
+
+## The other direction
+
+- Most of this course followed **Western firms operating abroad**. Now we flip it: **foreign firms investing in the United States** (inward FDI)
+- Inward FDI brings **jobs and capital** — but also clashes over **norms, labor relations, and expectations**
+- The host workforce, not just the host government, shapes whether a venture succeeds
+
+# Meyer's map {background-color="#990000"}
+
+## Being the boss in Brussels, Boston & Beijing
+
+Erin Meyer's point: leadership expectations are **culturally specific**, and a style that works in one place can fail in another.
+
+| Dimension | One end | Other end |
+|---|---|---|
+| **Leading** | Egalitarian (flat) | Hierarchical (status matters) |
+| **Deciding** | Consensual | Top-down |
+
+The trap: managers read others' behavior through **their own** cultural defaults — and misattribute friction to personality or competence.
+
+# American Factory {background-color="#990000"}
+
+## Fuyao Glass comes to Ohio
+
+- The Chinese glassmaker **Fuyao** reopens a shuttered GM plant near Dayton, employing American workers under Chinese ownership and management
+- Frictions surface over the **pace and intensity of work, safety, and unionization** — and over very different expectations on each side
+- **Automation** looms in the background, raising the question of how durable these jobs are
+
+## From the business side: the Fuyao case
+
+- Today's Hsu et al. excerpt gives you Fuyao's side of the same story the documentary tells — how the firm itself assessed **U.S. country risk** before and during the Ohio investment
+- Read it as a companion, not a duplicate: the documentary shows the shop floor; the case shows the boardroom calculation behind investing in a market whose labor culture and regulatory environment were unfamiliar to Fuyao's Chinese management
+- This is **inward FDI's liability of foreignness** from Day 3 — playing out for a Chinese firm entering the U.S., the mirror image of the Western-firms-abroad cases you've read all term
+
+## Watch before Wednesday
+
+The documentary (110 min) is assigned to watch **outside class**. As you watch, track the specific moments where **cultural and institutional norms collide** — and who pays the price.
+
+# Synthesis {background-color="#990000"}
+
+## What it shows
+
+- Inward FDI delivers jobs, but surfaces deep **cultural and labor-relations frictions**
+- **Culture is not a soft add-on** — it shapes productivity, safety, conflict, and the bottom line
+- The same power/authority/autonomy questions apply *inside the firm*, not just between firm and state
+
+## Looking ahead
+
+- **Wednesday (Day 25):** *American Factory* discussion and case write-up
+
+## Questions? {background-color="#990000"}
+
+::: {.r-fit-text}
+See you Wednesday.
+:::

@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+// INTL-I103 RevealJS theme — matches the INTL 503 deck conventions.
+// IU crimson accents, Source Sans Pro body, crimson section dividers.
+
+$presentation-font-size-root: 32px;
+
+$iu-crimson: #990000;
+$iu-crimson-dark: #660000;
+$iu-cream: #EDEBEB;
+$iu-gray: #535054;
+$iu-light-gray: #7E7E7E;
+$dark-text: #2C3E50;
+
+$body-color: $dark-text;
+$link-color: $iu-crimson;
+$selection-bg: $iu-crimson;
+
+/*-- scss:rules --*/
+
+.reveal h1, .reveal h2, .reveal h3 { color: $iu-crimson; }
+
+// Slide-title underline (matches 503 content slides)
+.reveal h2 {
+  border-bottom: 3px solid rgba($iu-crimson, 0.18);
+  padding-bottom: 0.15em;
+  font-size: 1.5em;
+}
+
+// Title slide: crimson background, white text
+.reveal .title-slide h1.title { color: #fff; }
+#title-slide, .reveal section.title-slide { color: #fff; }
+
+// Full-bleed crimson section dividers are set per-slide with
+// {background-color="#990000"} in the .qmd; ensure white text:
+.reveal section[data-background-color="#990000"] h1,
+.reveal section[data-background-color="#990000"] h2,
+.reveal section[data-background-color="#990000"] h3 { color: #fff; }
+
+.reveal table { font-size: 1.0em; width: 90%; }
+.reveal img { max-height: 70vh; }
+
+// "Today's Plan" section table
+.plan-table { font-size: 22px; margin-left: auto; margin-right: auto; width: 92%; }
+.plan-table thead th {
+  text-align: left; font-weight: bold;
+  color: #fff !important; background-color: $iu-crimson !important;
+}
+.plan-table td { text-align: left; }
+.plan-table td.sec { width: 34%; font-weight: bold; color: $iu-crimson !important; }
+
+.cite { font-size: 0.7em; color: $iu-light-gray; font-style: italic; }

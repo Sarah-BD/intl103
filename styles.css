@@ -1,0 +1,4 @@
+/* Minor layout polish on top of theme.scss */
+.quarto-title-block .description { font-size: 1.05rem; color: #555; }
+ul, ol { line-height: 1.55; }
+.cell-output, pre { border-radius: 6px; }

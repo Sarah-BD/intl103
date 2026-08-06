@@ -1,0 +1,22 @@
+---
+title: "Day 4 — Worksheet: Reading Power in Gilpin & Ruggie"
+subtitle: "Wednesday, Sep 2 · Structured worksheet"
+date: "2026-09-02"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In place of an open case prompt, your team works through a structured worksheet applying Monday's readings (Gilpin and Ruggie) to the Nike–NBA–China case from Week 1. Same in-class, same-day rules as every write-up: complete it in the room, turn it in before you leave, no take-home step. It counts toward the 40% case write-up grade like every other write-up.
+:::
+
+## Materials for today
+
+- Gilpin 1976, "The Political Economy of the Multinational Corporation" *(same as Monday — no new reading)*
+- Ruggie 2018, "Multinationals as Global Institution" *(same as Monday — no new reading)*
+- Your notes on the [Nike–NBA–China case](day02.qmd) from Week 1
+
+## In class
+
+The worksheet questions are distributed at the start of class.

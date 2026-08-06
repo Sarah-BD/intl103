@@ -1,0 +1,13 @@
+---
+title: "Day 29 — Last day — wrap-up"
+subtitle: "Wednesday, Dec 9 · Flex"
+date: "2026-12-09"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+Last day — wrap-up.
+:::
+

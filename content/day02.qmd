@@ -1,0 +1,22 @@
+---
+title: "Day 2 — Nike, the NBA & China (practice)"
+subtitle: "Wednesday, Aug 26 · In-class case"
+date: "2026-08-26"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+Practice round: in-class group case write-up (ungraded). This is how your team learns the case write-up format before write-ups start counting toward your grade. Come having done the reading.
+:::
+
+## Materials for today
+
+- Tao et al., *Nike, the NBA, China, and Free Speech: A Zone Defense* © (course pack)
+- "China's fight with the NBA, explained" — Vox (~10-min video)
+- NYT Editorial Board, "[The Chinese Threat to American Speech](https://www.nytimes.com/2019/10/19/opinion/china-nba-free-speech.html)" (Oct 19, 2019)
+
+## In class
+
+Working in your assigned team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

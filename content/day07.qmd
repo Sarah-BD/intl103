@@ -1,0 +1,22 @@
+---
+title: "Day 7 — Exxon in Aceh"
+subtitle: "Wednesday, Sep 16 · In-class case"
+date: "2026-09-16"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- Coll 2013, *Private Empire: ExxonMobil and American Power*, ch. 4 & 18
+
+**Overview.** In 2001, eleven Indonesian villagers sued ExxonMobil in U.S. federal court, alleging the company was complicit in human-rights abuses (murder, torture, rape) committed by Indonesian security forces that ExxonMobil had hired to protect its natural-gas extraction facility and pipeline in Aceh. The suit, brought under the Alien Tort Statute, has wound through U.S. courts for two decades; Exxon has since sold the Aceh fields to Indonesia's state oil company, Pertamina.
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

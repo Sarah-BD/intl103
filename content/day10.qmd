@@ -1,0 +1,24 @@
+---
+title: "Day 10 — Investment treaties & ISDS"
+subtitle: "Monday, Sep 28 · Lecture"
+date: "2026-09-28"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+Lecture and discussion: finish Siemens; introduce investor–state dispute settlement (ISDS) and investment treaties.
+:::
+
+## Materials for today
+
+- Jones & Rahmani 2022, "In Search of Global Regulation," HBS ©
+- *Optional:* Hamby 2016, "Inside the Global 'Club' That Helps Executives Escape Their Crimes," BuzzFeed News
+
+## Slides
+
+[{{< fa expand >}} Open slides in a new tab](../slides/day10-isds.html){target="_blank"}
+
+<iframe src="../slides/day10-isds.html" width="100%" height="600" style="border:1px solid #ccc;">
+</iframe>

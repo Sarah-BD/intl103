@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - syllabus.qmd
+    - schedule.qmd
+    - assignments.qmd
+    - resources.qmd
+    - "content/day0[1-9].qmd"
+    - "content/day1[0-9].qmd"
+    - "content/day2[0-9].qmd"
+    - slides/week01-intro.qmd
+    - slides/day03-theory.qmd
+    - slides/day06-political-risk.qmd
+    - slides/day08-corruption.qmd
+    - slides/day10-isds.qmd
+    - slides/day14-tax.qmd
+    - slides/day16-advocacy.qmd
+    - slides/day18-sustainability.qmd
+    - slides/day20-apparel.qmd
+    - slides/day22-cfius.qmd
+    - slides/day24-culture.qmd
+    - slides/day26-geoeconomics.qmd
+    - slides/day28-conclusion.qmd
+    # teaching-notes/, _archive/, and the old content/week01.qmd are intentionally excluded
+    # day04-fdi.qmd slides retired 2026-08 — Sep 2 is now a worksheet with no slide deck;
+    # original preserved at _archive/slides/day04-fdi-ORIGINAL.qmd
+
+website:
+  title: "INTL-I103: Global Business"
+  description: "Politics, Policy & Practice — Indiana University, Fall 2026"
+  site-url: ""
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
+      - text: "Schedule"
+        href: schedule.qmd
+      - text: "Assignments"
+        href: assignments.qmd
+      - text: "Resources"
+        href: resources.qmd
+  page-footer:
+    left: "INTL-I103 · Fall 2026 · Prof. Sarah Bauerle Danzman"
+    right: "Hamilton Lugar School of Global and International Studies · Indiana University"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    link-external-newwindow: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

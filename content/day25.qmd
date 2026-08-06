@@ -1,0 +1,20 @@
+---
+title: "Day 25 — American Factory"
+subtitle: "Wednesday, Nov 18 · In-class case"
+date: "2026-11-18"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+In-class group case write-up. Come having done the reading.
+:::
+
+## Materials for today
+
+- *American Factory* (documentary) — watched before class
+
+## In class
+
+Working in your team, you'll apply the course's **assess → diagnose → propose** framework to this case and produce one written response per team. The specific discussion questions are distributed at the start of class.

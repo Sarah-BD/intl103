@@ -1,0 +1,25 @@
+---
+title: "Day 18 — Tariffs, sourcing & the power to redraw supply chains"
+subtitle: "Monday, Oct 26 · Lecture"
+date: "2026-10-26"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+Lecture and discussion: tariffs, economic statecraft, and the retreat of the WTO trading order. A different face of public power than Week 11's H&M case — there, governments regulate to protect workers abroad; here, governments regulate to protect domestic industry and security.
+:::
+
+## Materials for today
+
+- Harvard Kennedy School, "[Explainer: How Do Tariffs Work and How Will They Impact the American and Global Economy?](https://www.hks.harvard.edu/faculty-research/policy-topics/public-finance/explainer-how-do-tariffs-work-and-how-will-they)"
+- HBR, "[Understanding the Global Macroeconomic Impacts of Trump's Tariffs](https://hbr.org/2025/04/understanding-the-global-macroeconomic-impacts-of-trumps-tariffs)" (April 2025)
+- *(Additional context covered in lecture, not an assigned reading: a short framing of the WTO/multilateral trading order's retreat.)*
+
+## Slides
+
+[{{< fa expand >}} Open slides in a new tab](../slides/day18-sustainability.html){target="_blank"}
+
+<iframe src="../slides/day18-sustainability.html" width="100%" height="600" style="border:1px solid #ccc;">
+</iframe>

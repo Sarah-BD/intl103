@@ -1,0 +1,47 @@
+---
+title: "Resources"
+subtitle: "Course materials, support, and study help"
+toc: false
+---
+
+## Course pack & readings
+
+You are required to purchase a **Harvard Business Publishing course pack.** The purchase link and price will be posted here and on Canvas before the semester begins. Readings in the pack are marked **©** on the [schedule](schedule.qmd); all others are on Canvas or linked directly.
+
+If you need financial assistance with the course pack, contact me as early as possible — there are options, and I'd rather sort it out before the term starts.
+
+---
+
+## Reading well in this course
+
+This is a case-based course, and the readings do two different jobs:
+
+- **Conceptual readings** (Monday) give you the framework — theories of corporate power, political risk, regulation, geoeconomics. Read for the argument and the mechanism, not the details.
+- **Cases** (Wednesday) are the raw material. Read actively: identify the decision-maker, the decision, the constraints, and the evidence. Come ready to *use* the case, not just recall it.
+
+The strongest case write-ups consistently **assess** a clearly stated problem, **diagnose** its political/economic/institutional roots, and **propose** a defensible action with explicit tradeoffs. Reasoning well from evidence matters far more than reaching a "right" answer.
+
+---
+
+## Student support at IU Bloomington
+
+::: {.info-box}
+### {{< fa heart >}} Counseling & Psychological Services (CAPS)
+Support for your mental health and well-being. 24/7 crisis line: **812-855-5711** (option 1). You can also schedule a visit through the same number.
+:::
+
+::: {.info-box}
+### {{< fa universal-access >}} Accessible Educational Services (AES)
+If you need disability-related accommodations, establish eligibility with AES as early as possible — accommodations are confidential, can take time to set up, and are not retroactive.
+:::
+
+::: {.info-box}
+### {{< fa shield-halved >}} Title IX & confidential support
+IU prohibits sexual misconduct in any form; confidential support is available. Note that I am required to report disclosures of potential sexual misconduct to the campus Title IX Coordinator. Learn more at [stopsexualviolence.iu.edu](https://stopsexualviolence.iu.edu).
+:::
+
+::: {.info-box}
+### {{< fa flag >}} Bias incident reporting
+If you experience or witness an incident of bias, you can report it through the campus Bias Incident Reporting process.
+:::
+

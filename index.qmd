@@ -1,0 +1,83 @@
+---
+title: "Global Business"
+subtitle: "Politics, Policy & Practice"
+toc: false
+---
+
+::: {.hero-banner}
+# Global Business
+
+::: {.subtitle}
+Politics, Policy & Practice — who holds power in the global economy, and how it shapes corporate behavior
+:::
+
+::: {.course-details}
+INTL-I103 • Fall 2026
+Indiana University • Hamilton Lugar School
+August 24 – December 9, 2026
+:::
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+## Instructor
+
+**Prof. Sarah Bauerle Danzman**
+{{< fa envelope >}} <sbauerle@indiana.edu>
+{{< fa calendar >}} Office hours: M/W 2-3:30, and by appointment
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Course Details
+
+**When:** Mondays & Wednesdays, 9:35–10:50 AM
+**Where:** GISB 1112
+**Format:** In person — Mondays (Concepts/Lecture), Wednesdays (Case Application)
+
+:::
+
+:::
+
+---
+
+## What You'll Learn
+
+What does it mean to be a global corporation in the 21st century? What dilemmas do business leaders face operating across different political, cultural, technological, and environmental landscapes? Who holds power in the global economy, and how does that shape corporate behavior?
+
+This course uses real cases from companies including **Nike, ExxonMobil, Siemens, Apple, Patagonia, H&M, and TikTok** to analyze the opportunities and challenges multinational enterprises (MNEs) create. Working in teams, you'll bring political, economic, historical, and cultural knowledge to bear on real problems that states and firms face— building skills in:
+
+- Political-risk assessment
+- Ethical reasoning about corporate conduct
+- Cross-cultural and institutional analysis
+- Evaluating how regulation affects corporate strategy
+
+By the end of the term you'll be able to analyze how MNEs generate and confront problems in international contexts, and to assess, diagnose, and propose solutions to them.
+
+---
+
+## How the Course Works
+
+This is an in-person, case-based course that mostly follows a weekly structure:
+
+::: {.info-box}
+### {{< fa calendar-day >}} Mondays — framing
+Reading discussion, lecture, and concepts. We set up the week's core theoretical, analytical, and empirical themes.
+:::
+
+::: {.info-box}
+### {{< fa pen-to-square >}} Wednesdays — in-class case write-ups
+You work in your team to analyze the week's case and produce a written deliverable *during class*. Come having done the reading. We will try to supplement group work with class discussion/debriefing.
+:::
+
+---
+
+## Getting Started
+
+- Review the [syllabus](syllabus.qmd) for policies, grading, and expectations
+- Check the [schedule](schedule.qmd) for week-by-week readings, cases, and deadlines
+- See [assignments](assignments.qmd) for the case write-ups, exams, and participation
+- Browse [resources](resources.qmd) for the course pack and student support
+
+All slides, prompts, and supplementary materials are posted on this site. A syllabus and all grades are listed on Canvas, where you'll also submit work.

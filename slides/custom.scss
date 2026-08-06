@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+// Fonts (match the course site)
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600;700&display=swap');
+
+$iu-crimson: #990000;
+$iu-cream: #EDEBEB;
+$iu-gray: #535054;
+$iu-light-gray: #7E7E7E;
+$dark-text: #2C3E50;
+
+$presentation-font-size-root: 32px;
+$body-color: $dark-text;
+$presentation-heading-font: "Roboto Slab", serif;
+$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$presentation-heading-color: $iu-crimson;
+$link-color: $iu-crimson;
+
+/*-- scss:rules --*/
+
+.reveal h1, .reveal h2, .reveal h3 { color: $iu-crimson; font-family: "Roboto Slab", serif; }
+
+.reveal h2 {
+  border-bottom: 3px solid lighten($iu-crimson, 40%);
+  padding-bottom: 0.15em;
+}
+
+// Full-bleed crimson section dividers (# Title {background-color="#990000"})
+.reveal section[data-background-color="#990000"] h1,
+.reveal section[data-background-color="#990000"] h2 { color: #fff; border: none; }
+
+.reveal table { font-size: 0.95em; }
+.reveal img { max-height: 70vh; }
+
+// "Today's Plan" section table
+.plan-table { font-size: 22px; margin: 0 auto; width: 92%; border-collapse: collapse; }
+.plan-table thead th {
+  text-align: left; font-weight: 600;
+  color: #fff !important; background-color: $iu-crimson !important;
+  padding: 0.5rem 0.75rem;
+}
+.plan-table td { text-align: left; padding: 0.4rem 0.75rem; border-bottom: 1px solid lighten($iu-gray, 50%); }
+.plan-table td.sec { width: 34%; font-weight: 600; color: $iu-crimson !important; }
+
+.cite { font-size: 0.7em; color: $iu-light-gray; font-style: italic; }

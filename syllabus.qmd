@@ -1,0 +1,143 @@
+---
+title: "Syllabus"
+subtitle: "INTL-I103: Global Business — Politics, Policy & Practice · Fall 2026"
+toc: true
+---
+
+::: {.info-box}
+### {{< fa circle-info >}} Course at a glance
+**Instructor:** Prof. Sarah Bauerle Danzman · <sbauerle@indiana.edu>
+**Meeting time:** Mondays & Wednesdays, 9:35–10:50 AM
+**Location:** GISB 1112
+**Term:** Aug 24 – Dec 9, 2026
+**Office hours:** M/W 2-3:30 PM (GISB 1013), and by appointment
+:::
+
+*This syllabus is a living document. The schedule and assigned readings are subject to change; the most current version always lives on this site.*
+
+---
+
+## Course description
+
+What does it mean to be a global corporation in the 21st century? What dilemmas do business leaders face operating in countries with varying political, cultural, technological, and environmental landscapes? Who holds power in the global economy and how does this affect corporate behavior? How can communities harness the positive aspects of global business while managing the social, environmental, and security risks they generate?
+
+In this course you will analyze the opportunities and challenges multinational companies generate using real cases from global companies including Nike, ExxonMobil, Siemens, Apple, Patagonia, LeapFive, H&M, and TikTok. Individually and in teams, you will use political, economic, historical, and cultural knowledge to critically analyze, debate, and solve real-world problems business, political, and community leaders face — building skills in risk analysis, ethical reasoning, and cultural competence.
+
+## Aims & outcomes
+
+By the end of this course you will be able to describe, explain, and propose solutions for the problems multinational enterprises (MNEs) confront and create in international contexts. Specifically, you will be able to:
+
+- Describe the global production structure, the history of the MNE, and the major controversies surrounding their operations.
+- Explain and assess major IR approaches to identifying sources of power in the global economy and how actors translate power into influence and authority.
+- Critically assess the political, institutional, and cultural roots of an MNE's operational challenges.
+- Evaluate MNEs' environmental, social, and governance impact on the communities where they operate.
+- Assess when "responsible business conduct" policies such as CSR work — and how political and economic structures can undermine them.
+- Identify the national-security concerns MNEs generate, the tools states use to mitigate them, and the tradeoffs involved.
+
+You will develop transferable analytic skills as you **assess** the concrete problems MNEs create through varied evidence, **diagnose** their root causes, and **propose** solutions. These aims fulfill International Studies Department Learning Outcomes in Global Knowledge, Global Skills, and Global Thinking.
+
+## How this course works
+
+This is an **in-person, case-based course** that meets twice a week with a deliberate rhythm:
+
+::: {.info-box}
+### {{< fa calendar-day >}} Mondays — framing
+Reading discussion, lecture, and concepts. We build the week's ideas and set up the case.
+:::
+
+::: {.info-box}
+### {{< fa pen-to-square >}} Wednesdays — in-class group case write-ups
+You work with your team during class to analyze the week's case and produce a written deliverable, **turned in before the end of the period.** Reading the prompt, discussing, drafting, and submitting all happen in the room that day — there's no take-home component and nothing is due the following Monday. Because this work happens in class, **attendance on Wednesdays is essential.**
+:::
+
+---
+
+## Measurement of progress
+
+| Component | Weight |
+|---|---|
+| Group case write-ups (in class, Wednesdays) | **40%** |
+| Cumulative final exam | **25%** |
+| Midterm exam (in class) | **20%** |
+| Attendance & participation | **10%** |
+| Community participation assignment | **5%** |
+
+Because the group case write-ups (40%) can only be completed in class, they also serve as a strong measure of engaged participation — so attendance & participation is weighted lightly, with more weight on the midterm and final. See the [assignments page](assignments.qmd) for full details on each component.
+
+### Grading scale
+
+| Grade | Range | | Grade | Range |
+|---|---|---|---|---|
+| A+ | ≥ 97% | | C+ | [77, 80) |
+| A | [93, 97) | | C | [73, 77) |
+| A− | [90, 93) | | C− | [70, 73) |
+| B+ | [87, 90) | | D+ | [67, 70) |
+| B | [83, 87) | | D | [63, 67) |
+| B− | [80, 83) | | D− | [60, 63) |
+| | | | F | < 60 |
+
+Assignments lose a half-letter grade (5%) for each day late unless you've been granted an extension in advance or have extenuating circumstances.
+
+### Grading philosophy
+
+Grades are necessary but imperfect assessments of achievement at a moment in time — not a judgment of your worth, character, or potential. I do not entertain requests to "round up" or for ad-hoc extra credit. At the end of the term, if you are within 0.5% of the next higher letter grade **and** have turned in all assignments on time, I will round up; if you have not been timely, I will not. If you email asking for a boost, I will not provide one. If you're concerned about your grade, come to office hours early — the period between the last class and final grade submission is not an appropriate time to discuss grades, except for a potential grading error.
+
+---
+
+## Course policies
+
+### Intellectual diversity
+
+This course examines the intersection of politics, policy, and global business, with materials presenting a variety of arguments about the normative and economic value of global business. Connections to current and historical events will come up; analyzing connections among ideas and events is a core liberal-arts skill. The course is designed for thoughtful, reasoned debate. Four rules help:
+
+1. Frame disagreements as debates rather than conflicts.
+2. Argue as if you are right, but listen as if you are wrong.
+3. Make the most respectful interpretation of the other person's perspective.
+4. Acknowledge where you agree with others and what you've learned from peers with whom you differ.
+
+### Generative AI policy
+
+The central writing in this course — the group case write-ups — is completed **in class, by hand or on a shared document, during our Wednesday meetings, and turned in before class ends.** There is no take-home draft or revision stage, by design: keeping the entire write-up inside the class period is how this course limits generative AI use. You may not use generative AI tools to produce this work; the value is in the analytic effort you and your teammates do together in the room. For exam preparation and reading, likewise develop your own ability to read critically and reason without outsourcing that thinking. If you're ever unsure whether a particular use of an AI tool is permitted, ask first. Unpermitted use, or use without appropriate attribution, violates the IU Code of Student Rights, Responsibilities, and Conduct.
+
+### Accommodations for religious observances
+
+IU respects the right of all students to observe their religion. If you require accommodations for a religious observance, submit a request by the end of the second week (a separate request per absence). I will approve these provided they're filed within the first two weeks, and you'll have an opportunity to make up missed work.
+
+### Email & office hours
+
+Reserve email for clarifying questions or scheduling; office hours are for substantive questions and grade discussions. I try to respond within one business day. Office hours are also a chance for me to get to know you — which works to your advantage (I write much better recommendation letters for students I know). Arrive with specific questions.
+
+### Re-grading requests
+
+After graded material is returned, I maintain a **48-hour reflection period** before discussing grades. When I re-examine work with fresh eyes, I reserve the right to assign a grade lower than the original if appropriate.
+
+### Honor code
+
+As an IU student you are expected to adhere to the Code of Student Rights, Responsibilities, and Conduct. Submitting work with your name on it signifies it is yours unless otherwise cited. Suspected violations are handled per University policy and reported to the Dean of Students.
+
+---
+
+## Student resources
+
+::: {.info-box}
+### {{< fa heart >}} Counseling & Psychological Services (CAPS)
+24/7 crisis line: **812-855-5711** (option 1). Schedule a visit through the same number.
+:::
+
+::: {.info-box}
+### {{< fa universal-access >}} Accessible Educational Services (AES)
+Establish disability-related accommodations through AES as early as possible — services are confidential, take time to set up, and are not retroactive.
+:::
+
+::: {.info-box}
+### {{< fa shield-halved >}} Title IX & nondiscrimination
+IU prohibits sexual misconduct and discrimination. I am required to report disclosures of potential sexual misconduct to the campus Title IX Coordinator. Confidential support is available; learn more at [stopsexualviolence.iu.edu](https://stopsexualviolence.iu.edu).
+:::
+
+
+---
+
+## Required texts
+
+You are required to purchase a **Harvard Business Publishing course pack.** The purchase link and price will be posted on this site and Canvas before the term begins. Readings in the pack are marked **©** in the [schedule](schedule.qmd); all others are on Canvas or linked directly. Let me know as soon as possible if you need financial assistance.
+

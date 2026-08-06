@@ -1,0 +1,23 @@
+---
+title: "Day 26 — Geoeconomics & the regulation of MNEs"
+subtitle: "Monday, Nov 30 · Lecture"
+date: "2026-11-30"
+date-format: long
+toc: false
+---
+
+::: {.info-box}
+### Today
+Lecture and discussion: Geoeconomics & the regulation of MNEs.
+:::
+
+## Materials for today
+
+- [Farrell, Henry, and Abraham Newman. "The New Economic Security State: How De-Risking Will Remake Geopolitics."](https://www.foreignaffairs.com/united-states/economic-security-state-farrell-newman) *Foreign Affairs*, Nov/Dec 2023.
+
+## Slides
+
+[{{< fa expand >}} Open slides in a new tab](../slides/day26-geoeconomics.html){target="_blank"}
+
+<iframe src="../slides/day26-geoeconomics.html" width="100%" height="600" style="border:1px solid #ccc;">
+</iframe>

@@ -1,0 +1,50 @@
+---
+title: "Week 1 — Introduction & the Nike–NBA case"
+subtitle: "Aug 24 (lecture) · Aug 26 (practice case write-up)"
+toc: true
+---
+
+::: {.info-box}
+### {{< fa laptop >}} This week
+[Week 1 lecture slides](../slides/week01-intro.qmd) · [Nike case prompt](../cases/week01-nike.qmd) · [full course schedule](../schedule.qmd)
+:::
+
+## What this week does
+
+Week 1 sets up the whole course. Monday is orientation — what global business *is* as a field, how the Monday/Wednesday rhythm works, and how you'll be graded. Wednesday is your **first case write-up**, run as a practice round so you learn the format before it counts.
+
+The throughline is one question: **when a global firm is caught between a foreign government and its own customers, who actually holds power, and what should the firm do?** We use the Nike–NBA–China episode to start answering it.
+
+## Monday: orientation
+
+**The field.** Global business lives at the intersection of politics, policy, and practice. Firms operating across borders face dilemmas that are not just managerial but political: who sets the rules, who can enforce them, and who bears the costs. Throughout the term we work from real cases rather than abstractions.
+
+**The analytic move.** Every case asks the same three things of you:
+
+1. **Assess** — state the concrete problem the firm faces, grounded in the evidence in the case.
+2. **Diagnose** — identify the root causes (political, economic, institutional, cultural).
+3. **Propose** — recommend a defensible course of action and name the tradeoffs.
+
+That structure *is* the case write-up.
+
+**How the course works.** Mondays are for reading discussion and framing. Wednesdays are in-class group case write-ups: you come having read, and your team produces a written analysis during class. Grading: case write-ups 40%, midterm 20%, final 25%, attendance & participation 10%, community participation 5%.
+
+## Wednesday: the Nike–NBA–China case (practice)
+
+In October 2019, Houston Rockets GM Daryl Morey tweeted support for Hong Kong protesters. China's response was swift — broadcasts pulled, sponsorships frozen, the NBA's enormous Chinese market suddenly at risk. Firms deeply invested in China, Nike among them, had to decide whether and how to respond, balancing domestic expectations about free expression against commercial exposure in an authoritarian market.
+
+**Read before Wednesday:**
+
+- Tao et al., *Nike, the NBA, China, and Free Speech: A Zone Defense* © (course pack)
+- "China's fight with the NBA, explained" — Vox (~10-min video)
+- NYT Editorial Board, "The Chinese Threat to American Speech" (Oct 19, 2019)
+
+**Come ready to work through:**
+
+- Who are the actors, and what does each one want?
+- Where does the power actually sit — China, the league, Nike, consumers?
+- What are Nike's options, and what does each cost?
+
+## Why this case first
+
+It's a clean, accessible episode with no specialized prerequisites, so the practice round can focus on *method* — getting comfortable with assess → diagnose → propose and with working as a team under time — rather than on mastering new theory. We'll add the theoretical vocabulary (are multinationals political actors? where does corporate power come from?) starting next Monday with Gilpin and Ruggie.
