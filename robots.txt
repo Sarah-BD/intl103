@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://Sarah-BD.github.io/intl103/sitemap.xml
