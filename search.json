@@ -1488,98 +1488,154 @@
     "href": "slides/day03-theory.html#todays-plan",
     "title": "Global Business",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWho has power in global business — governments, firms, or society — and when, why, and to what effect? Watch for this question all semester.\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · Framing the semester\n\n\nThe power question that runs through every case\n\n\n\n\n2 · Stylized facts\n\n\nHow big, integrated, and concentrated the global economy is\n\n\n\n\n3 · Why firms go abroad\n\n\nMotives, entry modes, and the liability of foreignness\n\n\n\n\n4 · Three ways of seeing\n\n\nLiberalism, mercantilism/realism, marxism — plus Ruggie’s PAA\n\n\n\n\n5 · Why countries want FDI in\n\n\nThe case for it, the counterpoint, and what the evidence shows"
+    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nHow and why do firms become multinational? And what are their effects on local communities \n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · What is a global business?\n\n\nDefinitions: MNEs, affiliates, and what makes investment “direct”\n\n\n\n\n2 · Going global: how and why\n\n\nEntry strategies — and why firms pick one over another\n\n\n\n\n3 · Who benefits from FDI?\n\n\nWhat theory and evidence show about distributive economic effects\n\n\n\n\n4 · Three ways of seeing\n\n\nGilpin’s three perspectives on what global businesses MEAN for domestic and international politics"
   },
   {
-    "objectID": "slides/day03-theory.html#the-question-underneath-every-case",
-    "href": "slides/day03-theory.html#the-question-underneath-every-case",
+    "objectID": "slides/day03-theory.html#recall-from-day-1-mnes-are-the-global-economy",
+    "href": "slides/day03-theory.html#recall-from-day-1-mnes-are-the-global-economy",
     "title": "Global Business",
-    "section": "The question underneath every case",
-    "text": "The question underneath every case\n\n\nEvery case this semester asks a version of the same question:\nWho has power in this relationship — the government, the firm, or society (consumers, activists, workers) — and what lets them exercise it?\nSometimes these actors fight each other for power. Sometimes they coordinate. Watch for both, all term.\n\n\nToday’s actors:\n\nFirms deciding whether to invest abroad\nGovernments competing to attract them\nThe bargain each side strikes — and who gets the better end of it"
+    "section": "Recall from Day 1: MNEs are the global economy",
+    "text": "Recall from Day 1: MNEs are the global economy\n\n\nMNEs grew from ~7,000 (1970) to over 100,000 (2011), with ~900,000 foreign affiliates\nBy 2016, MNEs and their affiliates accounted for ~36% of global output, ⅔ of exports, and ½ of imports"
   },
   {
-    "objectID": "slides/day03-theory.html#a-vast-integrated-economy",
-    "href": "slides/day03-theory.html#a-vast-integrated-economy",
+    "objectID": "slides/day03-theory.html#definitions",
+    "href": "slides/day03-theory.html#definitions",
     "title": "Global Business",
-    "section": "A vast, integrated economy",
-    "text": "A vast, integrated economy\n\n\n\nTrade is a major driver of global output, and FDI drives trade\nMNEs grew from ~7,000 (1970) to over 100,000 (2011), with ~900,000 affiliates\nBy 2016: ~36% of global output, ⅔ of exports, ½ of imports\n\n\nThese firms aren’t a niche — they are the global economy, which is exactly why the power question matters.\n\n\n\nSource: BCG, “Redrawing the Map of Global Trade”"
+    "section": "Definitions",
+    "text": "Definitions\n\n\n\n\n\n\n\nTerm\nWhat it means\n\n\n\n\nForeign portfolio investment\nCross-border purchase of stocks or bonds purely for a financial return, with no intent to control.\n\n\nMultinational enterprise (MNE)\nA firm that owns and controls production facilities or other income-generating assets in at least two countries. You’ll also see MNC and TNC — same class of entities, slightly different terminology.\n\n\nForeign direct investment (FDI)\nCross-border investment that gives a lasting interest and a measure of control — by convention, a stake of 10% or more in a foreign enterprise.\n\n\nParent & affiliate\nThe home-country parent owns the foreign affiliate — the umbrella term for any foreign operation in which the parent holds a lasting stake. FDI is the financial flow that builds and sustains that relationship.\n\n\nSubsidiary\nAn affiliate the parent majority-owns (&gt;50%) — legally a separate company, but under the parent’s control.\n\n\nHome Country\nThe “nationality,” primary place of business, headquarters, or place of origination of the MNE. How to define home country is contested.\n\n\nHost Country\nThe country receiving the investment.\n\n\n\n\nThe decisive word is control. Buy 5% of Toyota stock for the dividend → portfolio investment. Buy or build a plant you run → direct investment. Control is what turns a flow of money into a multinational firm."
   },
   {
-    "objectID": "slides/day03-theory.html#concentrated-value",
-    "href": "slides/day03-theory.html#concentrated-value",
+    "objectID": "slides/day03-theory.html#the-ladder-of-going-global",
+    "href": "slides/day03-theory.html#the-ladder-of-going-global",
     "title": "Global Business",
-    "section": "Concentrated value",
-    "text": "Concentrated value\n\n\n\nThe world’s most valuable firms are global firms\nEconomic activity is geographically concentrated — a few regions and companies hold an outsized share"
+    "section": "The ladder of going global",
+    "text": "The ladder of going global\nFirms don’t flip a switch from “domestic” to “multinational.” They climb a ladder of rising commitment, cost, and control.\n\n\n\nNon-equity modes (export, license, franchise, subcontract) are “asset-lite” — quicker and less costly, but they cede control.\nEquity modes (FDI) — joint venture, greenfield, M&A — are costlier and slower, but the firm owns and operates the activity.\n\nGoing global isn’t binary; it’s a ladder, and the rungs are ordered by how much commitment, cost, and control each involves. At the bottom, the cheapest and most reversible option is simply to export. One step up, non-equity arrangements let a firm earn from a foreign market without owning anything there: licensing (rent out your IP), franchising (rent out your brand and business model under strict conditions, the way McDonald’s or Marriott expand), and long-term subcontracting. Quick, inexpensive, low-risk — but the firm surrenders control over how the product is made and who captures the value. Then the firm crosses a real threshold into FDI, the equity modes, where it takes an ownership stake and with it managerial control. A joint venture shares equity and risk with a local partner. A wholly-owned subsidiary is full commitment, in two forms that matter for host countries: greenfield (new capacity, new jobs) and M&A (historically the larger share of FDI by value — transfers ownership of assets that already exist). Every step up buys more control and more of the value, but costs more, moves slower, and exposes the firm to more risk."
   },
   {
-    "objectID": "slides/day03-theory.html#four-motives",
-    "href": "slides/day03-theory.html#four-motives",
+    "objectID": "slides/day03-theory.html#why-do-firms-go-global",
+    "href": "slides/day03-theory.html#why-do-firms-go-global",
     "title": "Global Business",
-    "section": "Four motives",
-    "text": "Four motives\n\n\n\nResource-seeking — raw materials, labor, inputs\nMarket-seeking — sell into a new market\nEfficiency-seeking — lower costs by relocating\nExport platforming — produce in one place to export elsewhere\n\n\n\nSource: World Bank GIC survey"
+    "section": "Why do firms go global?",
+    "text": "Why do firms go global?\n\n\n\nResource-seeking — raw materials, labor, inputs\nMarket-seeking — sell into a new market\nEfficiency-seeking — lower costs by relocating\nExport platforming — produce in one place to export elsewhere\nStrategic asset-seeking - acquire strategically beneficial brands, production capabilities, or technologies\n\n\nWhen asked, most investors say markets.\n\n\n\n\nSource: World Bank, Global Investment Competitiveness survey"
   },
   {
-    "objectID": "slides/day03-theory.html#how-firms-enter-a-market",
-    "href": "slides/day03-theory.html#how-firms-enter-a-market",
+    "objectID": "slides/day03-theory.html#two-ways-to-structure-fdi",
+    "href": "slides/day03-theory.html#two-ways-to-structure-fdi",
     "title": "Global Business",
-    "section": "How firms enter a market",
-    "text": "How firms enter a market\n\n\nNon-equity (asset-lite)\n\nExporting / importing\nLicensing (rent your IP)\nFranchising (rent your brand)\nLong-term subcontracting\n\n\nEquity (FDI)\n\nHorizontal — replicate production abroad to capture a local market or for regulatory arbitrage\nVertical — fragment the value chain across locations, placing each stage where it’s cheapest or most advantageous\n\n\nLiability of foreignness makes FDI costly, so firms prefer asset-lite modes unless a market friction — tariffs, transport costs, the need for local presence or tight IP control — pushes them to invest directly."
+    "section": "Two ways to structure FDI",
+    "text": "Two ways to structure FDI\n\n\nHorizontal FDI — replicate production in another country to capture that market or for regulatory arbitrage\n\nMany services require local presence\n\nVertical FDI — fragment the value chain across locations, placing each stage where it’s cheapest or most advantageous\n\nThis is what built global value chains — and it’s why the trade network thickened so dramatically in a generation →\n\n\n\n\nSource: World Bank, World Development Report 2020"
   },
   {
-    "objectID": "slides/day03-theory.html#gilpins-three-perspectives",
-    "href": "slides/day03-theory.html#gilpins-three-perspectives",
+    "objectID": "slides/day03-theory.html#why-pick-one-entry-strategy-over-another",
+    "href": "slides/day03-theory.html#why-pick-one-entry-strategy-over-another",
     "title": "Global Business",
-    "section": "Gilpin’s three perspectives",
-    "text": "Gilpin’s three perspectives\n\n\n\n\n\n\n\n\nPerspective\nView of the MNC\nWho benefits?\n\n\n\n\nLiberalism\nEfficient engine of global welfare\nMutual gains; consumers and host economies\n\n\nMercantilism / realism\nInstrument / extension of home-state power\nThe home state and its strategic interests\n\n\nMarxism\nVehicle of dependency and extraction\nThe “core”; profit concentrates at home\n\n\n\nSource: Gilpin 1976 — these are Gilpin’s own labels. Notice each perspective gives a different answer to today’s power question — that disagreement runs through the whole course."
+    "section": "Why pick one entry strategy over another?",
+    "text": "Why pick one entry strategy over another?\n\nFDI is costly due to the “liability of foreignness” — less understanding of local consumer tastes, politics, institutions, language, culture. So firms prefer asset-lite strategies unless a market friction makes control preferable:\n\n\n\nOwnership — firm-specific assets you don’t want to share\nLocation — cost of production, local resources, proximity to markets\nInternalization — keep the asset in-house rather than contract it out (high transaction costs, market imperfections, quality control)\n\n\n\n\n\n\n\n\n\n\n\n\nNo horizontal FDI\nHorizontal FDI\n\n\n\n\nVertical FDI\nHyper-efficient, specialized, export platform (semiconductors)\nMarket + Efficiency-seeking; global brands/supply chains (autos)\n\n\nNo vertical FDI\nUnlikely to be global firm\nMarket-seeking; global service brands"
   },
   {
-    "objectID": "slides/day03-theory.html#ruggie-authority-and-autonomy",
-    "href": "slides/day03-theory.html#ruggie-authority-and-autonomy",
+    "objectID": "slides/day03-theory.html#what-investors-say-matters-most",
+    "href": "slides/day03-theory.html#what-investors-say-matters-most",
     "title": "Global Business",
-    "section": "Ruggie: authority and autonomy",
-    "text": "Ruggie: authority and autonomy\n\nRuggie (2018) treats MNCs as global institutions — holding power, authority, and relative autonomy that no single state fully controls\nThe question isn’t only “are they efficient?” but “who governs them, and to whom are they accountable?”\nKeep this vocabulary (power / authority / autonomy) — it recurs at every module of the course"
+    "section": "What investors say matters most",
+    "text": "What investors say matters most\n\n\nSource: World Bank, Global Investment Competitiveness survey\n\n\nPolitical stability and the legal/regulatory environment outrank taxes and input costs — investment decisions are political before they are financial. This tees up political risk in two weeks."
+  },
+  {
+    "objectID": "slides/day03-theory.html#why-countries-seek-investment",
+    "href": "slides/day03-theory.html#why-countries-seek-investment",
+    "title": "Global Business",
+    "section": "Why countries seek investment",
+    "text": "Why countries seek investment\n\n\n\nCapital investment is necessary to raise productivity — and productivity growth has a positive effect on incomes\nPoor countries are often savings-constrained: domestic savings can’t finance the investment they need\nForeign capital can fill the gap — which is why so many governments pursue it\n\n\n\n\nSource:"
   },
   {
     "objectID": "slides/day03-theory.html#the-case-for-fdi",
     "href": "slides/day03-theory.html#the-case-for-fdi",
     "title": "Global Business",
     "section": "The case for FDI",
-    "text": "The case for FDI\n\nFDI transfers technology and know-how, raising output and value-added in the host economy\nIt definitionally creates jobs, and can generate positive spillovers to local firms and workers\nEconomies that attract FDI tend to become more central in global value chains — compounding their access to technology, demand, and upgrading opportunities"
+    "text": "The case for FDI\n\n\n\nFDI transfers technology and know-how, raising output and value-added in the host economy\nIt creates jobs — and can generate positive spillovers to local firms and workers\nEconomies that attract FDI become more central in global value chains — compounding their access to technology, demand, and upgrading opportunities\n\n\n\n\nSource: World Bank, World Development Report 2020\n\n\n\nDomestic firms can better integrate into the most lucrative parts of global supply chains by linking up with global firms. People who work for MNEs tend to have higher wages, because MNEs are more productive and more technology intensive than local firms. Companies that go global also tend to expand domestically as well, and create jobs both at home and abroad."
   },
   {
-    "objectID": "slides/day03-theory.html#the-counterpoint",
-    "href": "slides/day03-theory.html#the-counterpoint",
+    "objectID": "slides/day03-theory.html#the-critique",
+    "href": "slides/day03-theory.html#the-critique",
     "title": "Global Business",
-    "section": "The counterpoint",
-    "text": "The counterpoint\n\nCritics argue global firms keep most of the profit in the home country\nGilpin redux: foreign investment can compromise host autonomy — a worry with deep roots in colonial and dependency histories\nHistorically: pre-WWI portfolio/banking flows structured by colonial ties → 1920s–70s decolonization and statism restricted FDI → 1980s–present liberalization and the rise of global value chains"
+    "section": "The critique",
+    "text": "The critique\n\nCritics argue global firms keep most of the profit in the home country (repatriation — especially natural-resource MNEs)\nThe host state might become structurally dependent on MNEs\nMNEs might displace local business, impeding indigenous development — particularly around technology (patents and rents)\nMNEs might feel little need to cultivate lasting relationships with local actors (enclave FDI)\n\n\nGlobal footprints mean a restructuring of what kinds of activities are undertaken where, which has distributive effects both in terms of people and in terms of countries. When Apple subcontracts its assembly overseas, Americans who would have had those jobs are likely unable to reskill into R&D jobs (or move to CA). And the countries to which such tasks moved — and the people who perform those tasks — keep a very small piece of the pie of value added."
+  },
+  {
+    "objectID": "slides/day03-theory.html#these-worries-have-deep-historical-roots",
+    "href": "slides/day03-theory.html#these-worries-have-deep-historical-roots",
+    "title": "Global Business",
+    "section": "These worries have deep historical roots",
+    "text": "These worries have deep historical roots\n\nPre-WWI: investment mostly through banking and portfolio flows, structured by colonial ties — mostly transportation and infrastructure\n1920s–1970s: decolonization, economic nationalism, and statism → widespread FDI restrictions and expropriation of foreign assets\n1980s–2015: neoliberalism, privatization, and transitions to market economies → openness and active FDI attraction\n\n\nKey facts: most FDI flows among developed countries (largely via M&A); developing countries moved from resource-extraction FDI to manufacturing to services; the poorest countries are almost entirely excluded from the FDI network."
+  },
+  {
+    "objectID": "slides/day03-theory.html#alfaro-does-fdi-help-is-the-wrong-question",
+    "href": "slides/day03-theory.html#alfaro-does-fdi-help-is-the-wrong-question",
+    "title": "Global Business",
+    "section": "Alfaro: “Does FDI help?” is the wrong question",
+    "text": "Alfaro: “Does FDI help?” is the wrong question\nAlfaro (2016) surveys the empirical literature — and the macro evidence shows no automatic growth payoff from FDI on its own.\n\nThe gains are conditional on complementarities — what’s already present in the host economy:\n\nHuman capital — FDI promotes growth only above a minimum education threshold (Borensztein et al. 1998)\nLocal financial markets — FDI × financial development is what’s positive and significant, not FDI alone (Alfaro et al. 2004)\nPolicy environment, institutions, and market structure condition the rest\n\n\n\nHer term for all this: absorptive capacity — the host economy’s ability to actually capitalize on what foreign firms bring."
+  },
+  {
+    "objectID": "slides/day03-theory.html#alfaro-three-reasons-productivity-rises-when-mnes-arrive",
+    "href": "slides/day03-theory.html#alfaro-three-reasons-productivity-rises-when-mnes-arrive",
+    "title": "Global Business",
+    "section": "Alfaro: three reasons productivity rises when MNEs arrive",
+    "text": "Alfaro: three reasons productivity rises when MNEs arrive\n\n\n\n\n\n\n\n\nMechanism\nWhat’s happening\nDo locals gain?\n\n\n\n\nSpillover\nKnowledge leaks from foreign to domestic firms\nYes — local firms improve\n\n\nSelection\nLeast productive domestic firms exit\nMixed — survivors are stronger, but firms die\n\n\nReallocation\nResources shift from domestic to multinational firms\nNot necessarily — averages rise without local firms improving\n\n\n\n\nAll three look identical in aggregate data — and the policy stakes are big: if spillovers drive the gains, tax breaks for foreign firms may be justified. If it’s mostly reallocation, that money is better spent on local conditions — credit access, labor supply, fewer regulatory barriers."
   },
   {
     "objectID": "slides/day03-theory.html#what-the-evidence-shows",
     "href": "slides/day03-theory.html#what-the-evidence-shows",
     "title": "Global Business",
     "section": "What the evidence shows",
-    "text": "What the evidence shows\n\nFDI is associated with growth — but not automatically\nPositive spillovers depend on absorptive capacity, so the very poorest countries struggle to reap the benefits\n“Who gains” turns on bargaining power — which side needs the deal more, and on what terms"
+    "text": "What the evidence shows\n\nFDI is associated with growth — but not automatically; spillovers depend on absorptive capacity, so the very poorest countries struggle to reap the benefits\nFDI jobs pay wage premiums over local firms as high as ~30% (Lipsey and Sjöholm 2004)\nFDI inflows from OECD countries are associated with stronger collective labor rights (Mosley and Uno 2007)\nLocal firms can integrate into MNE supply chains — but it’s context-specific\nAlfaro’s bottom line: the best policies improve local conditions — which both attracts FDI and maximizes what the host gets from it"
+  },
+  {
+    "objectID": "slides/day03-theory.html#gilpin-three-worldviews-not-three-book-reports",
+    "href": "slides/day03-theory.html#gilpin-three-worldviews-not-three-book-reports",
+    "title": "Global Business",
+    "section": "Gilpin: three worldviews, not three book reports",
+    "text": "Gilpin: three worldviews, not three book reports\nGilpin (1976) reviews three books — but he’s really using them as specimens of three perspectives on the multinational corporation.\n\nEach perspective answers two prior questions differently:\n\nAre international economic relations fundamentally harmonious or conflictual?\nIs economics or politics in the driver’s seat?\n\n\n\nAnswer those two questions and the rest of each worldview — including who benefits — follows."
+  },
+  {
+    "objectID": "slides/day03-theory.html#gilpins-three-perspectives",
+    "href": "slides/day03-theory.html#gilpins-three-perspectives",
+    "title": "Global Business",
+    "section": "Gilpin’s three perspectives",
+    "text": "Gilpin’s three perspectives\n\n\n\n\n\n\n\n\n\n\nLiberalism\nMercantilism / realism\nMarxism\n\n\n\n\nKey actors\nFirms\nStates\nClasses\n\n\nPrimary goal of economic activity\nGenerate wealth\nMaximize state power\nEntrench capitalist elite\n\n\nNature of interaction\nCooperation among economic actors\nConflict between states\nConflict between rich & poor\n\n\nImplications\nState should avoid intervening in markets; this creates most wealth\nStates should shape markets to build power, even if that means forgoing wealth maximization\nCapitalists have captured the state and collude to build their wealth at expense of workers\n\n\n\nSource: Gilpin 1976 — these are Gilpin’s own labels."
+  },
+  {
+    "objectID": "slides/day03-theory.html#so-who-benefits-from-the-mnc",
+    "href": "slides/day03-theory.html#so-who-benefits-from-the-mnc",
+    "title": "Global Business",
+    "section": "So — who benefits from the MNC?",
+    "text": "So — who benefits from the MNC?\n\n\n\n\n\n\n\n\n\n\nLiberalism\nMercantilism / realism\nMarxism\n\n\n\n\nWhat is the MNC?\nEfficient engine of global welfare\nInstrument / extension of home-state power\nVehicle of dependency and extraction\n\n\nWho benefits?\nMutual gains — consumers and host economies\nThe home state and its strategic interests\nThe “core”; profit concentrates at home\n\n\n\n\nNotice: each perspective gives a different answer to today’s Big Question — and a different reading of the Alfaro evidence you just saw. That disagreement runs through the whole course."
+  },
+  {
+    "objectID": "slides/day03-theory.html#discussion-integration",
+    "href": "slides/day03-theory.html#discussion-integration",
+    "title": "Global Business",
+    "section": "Discussion & integration",
+    "text": "Discussion & integration\n\nIn groups — with your assigned perspective:\nApply your lens to the Nike–NBA–China case from last week.\n\nDoes your assigned theory help explain the power dynamics in the case?\nWhy or why not — and where does it fall short?\n\nBe ready to report out."
   },
   {
     "objectID": "slides/day03-theory.html#key-takeaways",
     "href": "slides/day03-theory.html#key-takeaways",
     "title": "Global Business",
     "section": "Key takeaways",
-    "text": "Key takeaways\n\nThe global economy is big, integrated, and concentrated — MNEs are central to it, which is why questions of power over them matter\nThe three perspectives disagree about whether MNC power is benign, national, or exploitative\nFDI’s benefits to host countries are real but conditional — on absorptive capacity and bargaining power, not automatic"
+    "text": "Key takeaways\n\nA global business is defined by control across borders — and firms weigh cost, time horizon, and control in choosing how to go global\nFDI happens when a market friction makes control worth the liability of foreignness\nFDI’s benefits to host countries are real but conditional — on absorptive capacity and local complementarities, not automatic (Alfaro)\nLiberalism, mercantilism/realism, and marxism disagree about who benefits — keep all three lenses; different cases will reward different ones"
   },
   {
     "objectID": "slides/day03-theory.html#looking-ahead",
     "href": "slides/day03-theory.html#looking-ahead",
     "title": "Global Business",
     "section": "Looking ahead",
-    "text": "Looking ahead\n\nWednesday (Day 4): no lecture — instead, a structured worksheet applying today’s readings (Gilpin & Ruggie) to the Nike–NBA–China case. Same in-class, same-day rules as every write-up.\nNext week: the Ireland case — a country that bet heavily on attracting FDI"
+    "text": "Looking ahead\n\nWednesday (Day 4): no lecture — a structured worksheet applying this week’s readings (Alfaro, Gilpin & Ruggie) to the Nike–NBA–China case. Same in-class, same-day rules as every write-up.\nFinish Ruggie before Wednesday — focus on his three concepts: power, authority, relative autonomy (the Week 2 Reading Companion walks you through it)\nNext week: the Ireland case — a country that bet heavily on attracting FDI"
   },
   {
     "objectID": "slides/day03-theory.html#questions",
     "href": "slides/day03-theory.html#questions",
     "title": "Global Business",
     "section": "Questions?",
-    "text": "Questions?\n\nSee you Wednesday — bring your worksheet questions."
+    "text": "Questions?\n\nSee you Wednesday — bring your Ruggie questions."
   },
   {
     "objectID": "slides/day08-corruption.html#todays-plan",
