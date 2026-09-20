@@ -1628,28 +1628,91 @@
     "href": "slides/day08-corruption.html#todays-plan",
     "title": "Global Business",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nIf everyone knows corruption is costly, why is it so persistent — and what does it take to root out?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · What corruption is\n\n\nDefinitions, and why it’s so hard to measure\n\n\n\n\n2 · The collective-action trap\n\n\nWhy corruption persists even when all would prefer it gone\n\n\n\n\n3 · Inside a firm\n\n\nWhat made bribery pervasive at Siemens\n\n\n\n\n4 · Looking ahead\n\n\nSetting up Wednesday’s Siemens write-up"
+    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhy corruption is so persistent — and what does it take to root out?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · Review\n\n\nPolitical risk, Bargaining models, and Rice & Zegart’s risk-management framework\n\n\n\n\n2 · What is corruption?\n\n\nDefinitions, forms, and why corruption is a political risk\n\n\n\n\n3 · What is corruption’s function?\n\n\nWhat the evidence says about whether corruption greases the wheels or throws sand in the gears\n\n\n\n\n4 · The collective-action trap\n\n\nWhy corruption persists — and potential solutions\n\n\n\n\n5 · Inside a firm\n\n\nWhat made bribery pervasive at Siemens\n\n\n\n\n6 · Looking ahead\n\n\nSetting up Wednesday’s Siemens analysis"
+  },
+  {
+    "objectID": "slides/day08-corruption.html#recap-what-drives-bargaining-power",
+    "href": "slides/day08-corruption.html#recap-what-drives-bargaining-power",
+    "title": "Global Business",
+    "section": "Recap: what drives bargaining power?",
+    "text": "Recap: what drives bargaining power?\nTwo things about a firm’s position key to predicting how much leverage the host government gains once the deal is signed:\n\nhow mobile its capital is, and\nhow much it needs the host’s own market.\n\n\n\n\n\n\nMobile capital(low fixed assets)\n\n\nFixed, sunk capital(high fixed assets)\n\n\nSmall / export-platform market\n\n\nFirm keeps the leverage. Credible exit threat; the host has little unique to offer.\n\n\nSome erosion. Assets are stuck, but the host market isn’t the prize.\n\n\nLarge, market-seeking host\n\n\nSome erosion. Mobile, but the firm needs access to a big domestic market.\n\n\nHost gains the leverage. The classic obsolescing bargain — assets are sunk and the market is worth staying for.\n\n\n\nThat’s the political bargaining model: whichever side’s power resources are scarcer or erode faster after signing tips the deal in the other’s favor."
+  },
+  {
+    "objectID": "slides/day08-corruption.html#defining-and-managing-political-risk",
+    "href": "slides/day08-corruption.html#defining-and-managing-political-risk",
+    "title": "Global Business",
+    "section": "Defining and managing political risk",
+    "text": "Defining and managing political risk\n\n\n\n\nClasses of political risk\n\n\n\nBreaches of contract — including bribery/corruption\nAdverse changes in laws, regulations, and policies\nInternal instability — violent conflict, crime, and weak court systems\nGeopolitical conflict\n\n\n\n\n\nRice & Zegart (2018) reduce effective political-risk management to four questions:\n\n\n1UnderstandHow much risk will the firm tolerate? — its political risk appetite.\n\n\n2AnalyzeTurn political uncertainty into political risk — something you can assign a probability to.\n\n\n3MitigateRaise risk-adjusted return: political risk insurance, government & community relationships, CSR.\n\n\n4RespondReact well when a risk becomes a real operational hit — and capitalize on the crisis."
   },
   {
     "objectID": "slides/day08-corruption.html#defining-corruption",
     "href": "slides/day08-corruption.html#defining-corruption",
     "title": "Global Business",
     "section": "Defining corruption",
-    "text": "Defining corruption\n\nCorruption: the misuse of publicly derived power for private gain\nBribery: money or favors given to influence the acts of a public official — or anyone entrusted with power\nForms differ: grand vs. petty, and pervasive vs. arbitrary"
+    "text": "Defining corruption\n\nCorruption: the misuse of publicly derived power and authority for private gain\nBribery: money or favors given to influence the acts of a public official — or anyone entrusted with power (meaning, an authority figure)\n\n\n\nBy scale\n\n\nGrand corruption — high-level officials manipulate policy, law, or major contracts for large private gain (e.g., a minister steering a concession to whoever pays them)\n\n\nPetty corruption — low- or mid-level officials extract small, everyday payments to deliver a service they already owe you (e.g., a bribe to speed up a permit)\n\n\n\n\nBy predictability\n\n\nPervasive corruption — bribery is the norm; everyone knows the going rate\n\n\nArbitrary corruption — unpredictable and ad hoc; paying doesn’t guarantee the outcome"
   },
   {
-    "objectID": "slides/day08-corruption.html#hard-to-measure",
-    "href": "slides/day08-corruption.html#hard-to-measure",
+    "objectID": "slides/day08-corruption.html#corruption-as-a-political-risk",
+    "href": "slides/day08-corruption.html#corruption-as-a-political-risk",
     "title": "Global Business",
-    "section": "Hard to measure",
-    "text": "Hard to measure\n\n\n\nHidden by its very nature\nQualitative differences: low-level vs. high-level; pervasiveness vs. arbitrariness\nTwo main approaches: perceptions (e.g., the CPI) vs. experience\n\n\n\nSource: Transparency International, Corruption Perceptions Index 2023"
+    "section": "Corruption as a political risk",
+    "text": "Corruption as a political risk\nRice & Zegart list corruption among their ten types of political risk: “discriminatory taxation and systemic bribery.” It creates exposure in three distinct ways:\n\n\nDirect costsBribes raise the cost of doing business, and corrupt agreements aren’t enforceable in court.\n\n\nA relationship problemHow close to the government is too close? A friendly regime can be replaced — leaving your connections, or your complicity, exposed.\n\n\nLegal riskExtraterritorial law (FCPA, UK Bribery Act, OECD Anti-Bribery Convention) can reach conduct that happened entirely abroad."
   },
   {
-    "objectID": "slides/day08-corruption.html#corruption-as-a-collective-action-problem",
-    "href": "slides/day08-corruption.html#corruption-as-a-collective-action-problem",
+    "objectID": "slides/day08-corruption.html#is-corruption-an-adaptive-or-maladaptive-response",
+    "href": "slides/day08-corruption.html#is-corruption-an-adaptive-or-maladaptive-response",
     "title": "Global Business",
-    "section": "Corruption as a collective-action problem",
-    "text": "Corruption as a collective-action problem\nModel two firms (or officials) choosing whether to comply or cheat:\n\n\n\n\nB complies\nB cheats\n\n\n\n\nA complies\nBest for society\nA loses out\n\n\nA cheats\nA gets ahead\nNash equilibrium\n\n\n\nEveryone would prefer [Comply, Comply] — but absent enforcement, [Cheat, Cheat] is where they land. The whole challenge is engineering a credible move out of that box."
+    "section": "Is corruption an adaptive or maladaptive response?",
+    "text": "Is corruption an adaptive or maladaptive response?\n\n\n\n“Grease the wheels” Corruption is a workaround for a slow, rigid state — bribes are “speed money.” Huntington: the only thing worse than a dishonest bureaucracy is an honest, rigid one.\n\n\n\n\n“Sand in the gears” Corruption piles extra cost, secrecy, and uncertainty on top of weak institutions — it doesn’t fix the underlying problem, it compounds it.\n\n\n\n\nZhu & Shi (2019) separate two things that are normally tangled together in real-world data: how often officials demand bribes, and whether paying one actually guarantees the service.\n\n\nMethod: A vignette experiment embedded in a firm survey in China. Each executive was randomly assigned one scenario, rated how attractive that business environment was (1–5), and said how they’d invest.\n\n\n\n\n\n\nService deliveredreliably\n\n\nService deliveryis uncertain\n\n\nOfficials rarelydemand bribes\n\n\nV1 — Clean & efficient\n\n\nV2 — Clean & inefficient\n\n\nOfficials oftendemand bribes\n\n\nV3 — Predictable corruption\n\n\nV4 — Arbitrary corruption\n\n\n\nRandom assignment isolates the effect of bribery and of uncertainty — in observational data the two are almost impossible to pull apart.\nZhu, Boliang, and Weiyi Shi. 2019. “Greasing the Wheels of Commerce? Corruption and Foreign Investment.” The Journal of Politics 81 (4): 1311–1327. https://doi.org/10.1086/704326"
+  },
+  {
+    "objectID": "slides/day08-corruption.html#what-they-found-sand-in-the-gears",
+    "href": "slides/day08-corruption.html#what-they-found-sand-in-the-gears",
+    "title": "Global Business",
+    "section": "What they found: sand in the gears",
+    "text": "What they found: sand in the gears\n\n\n\nSource: Zhu & Shi (2019), Fig. 1\n\n\n\nSource: Zhu & Shi (2019), Fig. 3\n\n\n\n\nExecutives always rate corruption worse than a clean government — even a slow, inefficient one\nV3 and V4 are rated about the same. Knowing the going rate for a bribe doesn’t make it acceptable\nThe one exception: fixed-asset-intensive, high-productivity overseas investors are a little more forgiving of predictable corruption — though still worse off than under clean government\n\n\n\nEven in China — arguably corruption’s best-case setting for the “grease” story — the evidence favors sand in the gears."
+  },
+  {
+    "objectID": "slides/day08-corruption.html#measuring-corruption",
+    "href": "slides/day08-corruption.html#measuring-corruption",
+    "title": "Global Business",
+    "section": "Measuring corruption",
+    "text": "Measuring corruption\nCorruption is hidden by its very nature, so researchers triangulate two approaches:\n\n\n\nPerceptions — surveys of experts and executives (e.g., the CPI)\nExperience — did you pay a bribe, and did it work? (what Zhu & Shi just measured directly)\nQualitative differences matter too: low-level vs. high-level, pervasive vs. arbitrary\n\n\n\n\nSource: Transparency International, Corruption Perceptions Index 2023\n\n\n\n\n42/100 — the 2025 CPI’s global average, its lowest in over a decade. 122 of 182 countries score below 50, and only 5 score above 80 (down from 12 a decade ago) — “corruption is worsening globally, with even established democracies experiencing rising corruption.” Source: Transparency International, Corruption Perceptions Index 2025"
+  },
+  {
+    "objectID": "slides/day08-corruption.html#corruption-as-a-top-down-principal-agent-problem",
+    "href": "slides/day08-corruption.html#corruption-as-a-top-down-principal-agent-problem",
+    "title": "Global Business",
+    "section": "Corruption as a top-down principal-agent problem",
+    "text": "Corruption as a top-down principal-agent problem\nA principal delegates authority to an agent to act on their behalf. The agent typically knows more about their own actions and local conditions than the principal does — an information asymmetry the agent can exploit.\n\n\nPrincipal delegates authority to agentcitizens & officials · shareholders & managers · states & firms\n\n\n\n\n\n\n\nCompliesacts in the principal’s interest\n\n\n\n\nDivertsuses delegated power for private gain — corruption\n\n\n\n\n\n\nDetectedlegal exposure and reputational cost; the position itself is put at risk\n\n\nUndetectedprivate gain persists; the principal’s interests go unmet\n\n\n\n\n\n\nMonitoring alone rarely solves this: the same information asymmetry that makes delegation useful is what makes diversion hard to catch. Also, sometimes leaders are happy to engage in corruption or at least willing to look the other way."
+  },
+  {
+    "objectID": "slides/day08-corruption.html#corruption-as-a-bottom-up-collective-action-problem",
+    "href": "slides/day08-corruption.html#corruption-as-a-bottom-up-collective-action-problem",
+    "title": "Global Business",
+    "section": "Corruption as a bottom-up collective-action problem",
+    "text": "Corruption as a bottom-up collective-action problem\nModel two firms (or officials) choosing whether to comply or cheat:\n\n\n\n\n\n\nFirm B complies\n\n\nFirm B cheats\n\n\n\n\n\n\nFirm A complies\n\n\nBest for society\n\n\nA loses out\n\n\n\n\nFirm A cheats\n\n\nA gets ahead\n\n\nNash equilibrium\n\n\n\n\n\nEveryone would prefer [Comply, Comply] — but absent enforcement, [Cheat, Cheat] is each individual’s best response. Solving corruption requires solving this rational response.\n\n\n\nBest response functionThe strategy that maximizes your payoff, given what you expect the other player to do.\n\n\nNash equilibriumA pair of strategies where neither player can do better by switching alone. At [Cheat, Cheat], deviating to Comply only makes things worse for you.\n\n\nPareto optimalAn outcome where no one can be made better off without making someone else worse off. [Comply, Comply] is Pareto optimal — but it isn’t the equilibrium.\n\n\n\nIs is a collective-action problem because society is better off with the pareto optimal outcome, but is likely to get a suboptimal outcome due to individual, uncoordinated incentives."
+  },
+  {
+    "objectID": "slides/day08-corruption.html#solving-the-collective-action-problem-three-potential-levers",
+    "href": "slides/day08-corruption.html#solving-the-collective-action-problem-three-potential-levers",
+    "title": "Global Business",
+    "section": "Solving the collective-action problem: three potential levers",
+    "text": "Solving the collective-action problem: three potential levers\n\n\n\n\nLever\n\n\nHow it works\n\n\n\n\n\n\nHost-country institutions\n\n\nRule of law, independent courts and anti-corruption agencies, transparent procurement, whistleblower protection — raise the cost and lower the payoff of cheating at home.\n\n\n\n\nHome-country institutions\n\n\nExtraterritorial law reaches firms wherever they operate — the FCPA (US), UK Bribery Act, OECD Anti-Bribery Convention. A firm’s own government can punish bribery committed abroad.\n\n\n\n\nSocial norms\n\n\nKubbe, Baez Camargo & Scharbatke-Church (2024): formal rules only bind if they match what people actually expect everyone else to do. Where corruption is the norm, legal reform alone rarely moves behavior."
+  },
+  {
+    "objectID": "slides/day08-corruption.html#social-norms-of-reciprocity-and-obligation",
+    "href": "slides/day08-corruption.html#social-norms-of-reciprocity-and-obligation",
+    "title": "Global Business",
+    "section": "Social norms of reciprocity and obligation",
+    "text": "Social norms of reciprocity and obligation\n\n\nSource: Kubbe, Baez-Camargo & Scharbatke-Church (2024), Fig. 1\n\nBaez-Camargo et al. (2020) study petty corruption across Rwanda, Tanzania, and Uganda and find two social norms doing most of the work: reciprocity and obligation to the group.\n\n\nReciprocityA gift or favor creates an unwritten obligation to reciprocate. A bribe is rarely a one-off — it’s a social investment that builds a relationship, which is exactly why it’s so hard to refuse: Tanzanian health workers who reject bribes report users getting upset, shouting, and calling them unhelpful.\n\n\nObligation to the groupFamilies invest in putting a member through medical school, expecting to be provided for later. When the resulting public-sector salary can’t meet those expectations, the official is pressured to extract rents on the family’s behalf — and risks being shunned by kin if they refuse.\n\n\n\nThe uncomfortable finding: these are pro-social norms — trust, reciprocity, solidarity — not their absence. Rosenbaum et al. (2013) show prosocial norms facilitate, rather than mitigate, petty corruption wherever formal, legal enforcement is weak."
+  },
+  {
+    "objectID": "slides/day08-corruption.html#can-you-shift-norms-of-corruption",
+    "href": "slides/day08-corruption.html#can-you-shift-norms-of-corruption",
+    "title": "Global Business",
+    "section": "Can you shift norms of corruption?",
+    "text": "Can you shift norms of corruption?\n\n\nFragile / mixed: a Nigerian campaign combining a film with a free-to-reply text line spiked corruption reports 1.7× overnight — then collapsed within days. The underlying norm never actually shifted.\nMore promising, still modest: a Mexican campaign informing people how widely corruption was actually condemned cut stated bribery willingness by ~7 points — but its own author calls it one tool among many, not a fix on its own.\nMost promising so far: a peer-led pilot in a Dar es Salaam hospital — staff themselves as anti-bribery “champions,” plus signage resetting perceived norms — produced real, significant drops in patients’ felt need to bribe.\n\n\n\nBottom line (Kubbe et al. 2024): reforms that ignore social norms are, at best, short-lived — and can backfire. Can this be applied to strategic management?"
   },
   {
     "objectID": "slides/day08-corruption.html#what-made-corruption-pervasive-at-siemens",
@@ -1663,14 +1726,14 @@
     "href": "slides/day08-corruption.html#key-takeaways",
     "title": "Global Business",
     "section": "Key takeaways",
-    "text": "Key takeaways\n\nCorruption is the misuse of public power for private gain — persistent because it’s a collective-action problem\nIt’s hard to measure; perceptions are not the same as experience\nFirm-level corruption is enabled by weak controls, competitive pressure, and global complexity"
+    "text": "Key takeaways\n\nCorruption is the misuse of public power for private gain and represents a political risk for MNEs that need to opperate in environments with weak institutional constraints on such behavior\nThe evidence favors the view that corruption is maladaptive - sand in the gears, rather than a method of greasing the wheels. Even predictable corruption is rated worse than a clean but slow government\nCorruption persists because the individually rational move (Nash equilibrium) isn’t the collectively best one (Pareto optimal) — and no single lever (law at home, law abroad, or norms) reliably closes that gap alone"
   },
   {
     "objectID": "slides/day08-corruption.html#looking-ahead",
     "href": "slides/day08-corruption.html#looking-ahead",
     "title": "Global Business",
     "section": "Looking ahead",
-    "text": "Looking ahead\n\nWednesday (Day 9): Fighting Corruption at Siemens — diagnose the causes and design a credible cleanup"
+    "text": "Looking ahead\nWednesday (Day 9): Fighting Corruption at Siemens. Your team will work through the course’s assess → diagnose → propose framework on a real case:\n\nAssess: how big was it, and how did bribery get embedded in Siemens’s culture and operations?\nDiagnose: use today’s tools — weak host and home institutions, competitive pressure, and the norms inside the firm itself — to explain why\nPropose: what made Siemens’s reform credible, and was it law, reputation, or something else that actually drove the change?"
   },
   {
     "objectID": "slides/day08-corruption.html#questions",
