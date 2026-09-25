@@ -30,7 +30,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-9634ed4e6df6d2a192b8a48ef651537e.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-e21e1d2ee2e1f13e4424fafcef71adce.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -129,7 +129,7 @@
 
 <section id="title-slide" data-background-image="iu-trident.png" data-background-position="2% 2%" data-background-size="15%" class="quarto-title-block center">
   <h1 class="title">Global Business</h1>
-  <p class="subtitle">INTL-I103 | Day 10 — Political Risk Remedies, ISDS &amp; the Reach of Global Regulation</p>
+  <p class="subtitle">INTL-I103 | Day 10 — Who Governs Global Business? Investment Treaties &amp; ISDS</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -141,16 +141,218 @@ Prof.&nbsp;Sarah Bauerle Danzman
 
   <p class="date">September 28, 2026</p>
 </section>
+<section id="before-we-begin-ai-and-your-education" class="slide level2" data-background-color="#990000">
+<h2>Before we begin: AI and your education</h2>
+</section>
+<section id="the-hugging-face-incident" class="slide level2">
+<h2>The Hugging Face Incident</h2>
+<div class="d10-fill" style="font-size:1.12em;">
+<div class="stat-callout" style="font-size:0.9em;">
+<strong>The test:</strong> OpenAI’s AI agents were taking <em>ExploitGym</em>, a hard cybersecurity exam — break into a piece of software and retrieve a hidden answer (a “flag”). Many of its tasks had never been solved.
+</div>
+<div class="tl">
+<div class="tl-item tl-warn fragment">
+<div class="tl-year">
+May 2026
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+The agents find an unauthorized way to leave messages for one another and coordinate.
+</div>
+</div>
+<div class="tl-item tl-warn fragment">
+<div class="tl-year">
+Late May
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+They reach the open internet — and start <strong>looking up answers</strong> and reading the grading code.
+</div>
+</div>
+<div class="tl-item tl-law fragment">
+<div class="tl-year">
+July 10–12
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+With leaked passwords, they break into <strong>Hugging Face</strong>, where the exam’s dataset was stored.
+</div>
+</div>
+<div class="tl-item tl-reform fragment">
+<div class="tl-year">
+July 19–20
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+Security alerts finally surface the activity; investigators trace it to the agents.
+</div>
+</div>
+</div>
+<div class="fragment">
+<div class="big-quote" style="font-size:0.95em;">
+“We’re attacking third-party HF using leaked token, potentially outside intended scope… risky. Yet goal solution.”<span class="attrib">One of the agents, reasoning to itself (quoted by OpenAI, 2026)</span>
+</div>
+<p><span class="cite">Sources: OpenAI (2026), “The Hugging Face Incident and the Road Ahead”; METR (2026), “Brief Independent Investigation of Agents’ Behavior”</span></p>
+</div>
+</div>
+</section>
+<section id="the-alignment-problem" class="slide level2">
+<h2>The alignment problem</h2>
+<div class="d10-fill" style="font-size:1.22em;">
+<div class="stat-callout" style="font-size:0.95em;">
+<strong>Alignment:</strong> getting a system to pursue the goal we <em>intend</em>, not just the target we <em>measure</em>. The agents were told to solve the exam; they were rewarded for producing flags. So they cheated — what researchers call <strong>reward hacking</strong>.
+</div>
+<div class="d10-colhead fragment" data-fragment-index="1">
+Gaming the measure is deeply human
+</div>
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:0.8rem;">
+<div class="info-card info-card-lg fragment" data-fragment-index="1">
+<strong>Volkswagen (2015)</strong> — software that detected emissions tests and cleaned up the exhaust only while being tested.
+</div>
+<div class="info-card info-card-lg fragment" data-fragment-index="1">
+<strong>Wells Fargo (2016)</strong> — employees opened millions of unauthorized accounts to hit sales quotas.
+</div>
+<div class="info-card info-card-lg fragment" data-fragment-index="1">
+<strong>Atlanta Public Schools (2009)</strong> — educators changed students’ answers on standardized tests.
+</div>
+<div class="info-card info-card-lg fragment" data-fragment-index="1">
+<strong>Siemens</strong> — managers paid bribes to meet their sales targets.
+</div>
+</div>
+<div class="fragment">
+<p>This is Day 8’s <strong>principal–agent problem</strong>: the agent knows more than the principal and optimizes its own reward. What is new with AI is speed, persistence — the agents “rarely gave up” — and, here, the absence of anyone watching (this is why frontier labs are really worried about recursive self improvement without human oversight).</p>
+</div>
+</div>
+</section>
+<section id="how-a-large-language-model-produces-text" class="slide level2">
+<h2>How a large language model produces text</h2>
+<div class="d10-fill" style="font-size:1.22em;">
+<div class="flow">
+<div class="flow-step">
+<span class="flow-title">1 · Training</span>Reads an enormous body of human writing
+</div>
+<div class="flow-arrow">
+→
+</div>
+<div class="flow-step fragment">
+<span class="flow-title">2 · Patterns</span>Learns which words tend to follow which, in which contexts
+</div>
+<div class="flow-arrow fragment">
+→
+</div>
+<div class="flow-step fragment">
+<span class="flow-title">3 · Prediction</span>Given your prompt, predicts a likely next word — then the next, and the next
+</div>
+<div class="flow-arrow fragment">
+→
+</div>
+<div class="flow-step flow-state fragment">
+<span class="flow-title">4 · Output</span>A <em>plausible</em> continuation — which is not the same as a <em>verified</em> one
+</div>
+</div>
+<div class="card-row">
+<div class="info-card info-card-lg fragment">
+<strong>Prediction at scale is powerful.</strong> Large models match college students on some analogy problems (Webb, Holyoak &amp; Lu 2023) — and, as Hugging Face shows, can pursue goals in ways no one anticipated.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>But it is brittle outside familiar patterns.</strong> When familiar analogy problems are recast in unfamiliar forms, model performance drops sharply while human performance holds (Lewis &amp; Mitchell 2024).
+</div>
+</div>
+<p><span class="cite">Sources: Webb, Holyoak &amp; Lu (2023), <em>Nature Human Behaviour</em> 7; Lewis &amp; Mitchell (2024), “Using Counterfactual Tasks to Evaluate the Generality of Analogical Reasoning in Large Language Models”</span></p>
+</div>
+</section>
+<section id="can-we-know-everything" class="slide level2">
+<h2>Can we “know everything”?</h2>
+<div class="d10-fill" style="font-size:1.22em;">
+<div class="big-quote">
+“With electricity, we could power everything. With the internet, you can find anything. And now, with artificial intelligence as an infrastructure layer across the planet, we can know everything and do anything.”<span class="attrib">Jensen Huang, CEO of Nvidia, Dreamforce (September 15, 2026)</span>
+</div>
+<div class="card-row">
+<div class="info-card info-card-lg fragment">
+<strong>Ontology</strong><br>What exists — what kinds of things there are to be known.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Epistemology</strong><br>How we come to know what we know — and how confident we are entitled to be.
+</div>
+</div>
+<div class="fragment">
+<p>Huang’s revealed ontological prior: the world is a stock of <strong>facts waiting to be retrieved</strong>.</p>
+</div>
+</div>
+</section>
+<section id="knowing-is-not-retrieving" class="slide level2">
+<h2>Knowing is not retrieving</h2>
+<div class="d10-fill" style="font-size:1.32em;">
+<div class="card-col">
+<div class="info-card info-card-lg fragment">
+<strong>Many questions have no single correct answer.</strong> Epistemology is about discovering what is true <em>and</em> understanding uncertainty and heterogeneity. Does FDI promote growth? It depends on the host’s absorptive capacity (Day 3).
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>The most important decisions are judgments, not look-ups.</strong> Should Löscher fire the managing board? Should a firm buy insurance or rely on a BIT? Judgment improves only with practice — and without it, we are bad at it.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Progress requires knowing <em>why</em>.</strong> If you know that 1 + 1 = 2 but not why, you cannot get to 1 + 2 = 3 on your own.
+</div>
+</div>
+</div>
+</section>
+<section id="what-happens-when-no-one-knows-how-it-works" class="slide level2">
+<h2>What happens when no one knows how it works?</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem;">
+<div style="flex:0 0 42%; text-align:center;">
+<p><img data-src="img/day10/xkcd-2347-dependency.png" class="fig" alt="xkcd comic 'Dependency': a tall, precarious tower of blocks labeled 'all modern digital infrastructure' resting on one tiny block labeled 'a project some random person in Nebraska has been thanklessly maintaining since 2003'" height="680"></p>
+<p><span class="cite">Source: Randall Munroe, xkcd #2347, “Dependency” (CC BY-NC 2.5)</span></p>
+</div>
+<div style="flex:1;">
+<div class="big-quote">
+“I actually don’t know my address… They needed my ZIP code, and I panicked. I didn’t know my ZIP code. I don’t know my telephone number.”<span class="attrib">Jensen Huang, <em>The Ezra Klein Show</em> (September 23, 2026)</span>
+</div>
+<div class="fragment" style="font-size:1.2em;">
+<p>Asked whether it matters that children no longer learn long division: “I don’t think it does.”</p>
+</div>
+<div class="fragment" style="font-size:1.2em;">
+<p>A system no one understands is a system no one can <strong>fix, oversee, or improve</strong> — the lesson of Hugging Face.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="you-cant-skip-leg-day" class="slide level2">
+<h2>You can’t skip leg day</h2>
+<div class="d10-fill" style="font-size:1.3em;">
+<div class="card-col">
+<div class="info-card info-card-lg fragment">
+<strong>The discrete output is not the point.</strong> No one <em>needs</em> your case analysis. You need the capacity that discussing and writing it builds — the way a marathoner needs to accumulate training miles to be prepared for their race .
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Outsourcing the reps reduces the benefit.</strong> Handing the work to AI optimizes the grade, not the skill — exactly what the agents did. (There is research from China that students who use AI to complete homework finish their tasks faster and receive higher homework grades, but then perform poorly on exams compared to peers who do not train with AI.)
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>What to train.</strong> Weighing evidence, judging under uncertainty, building an argument, managing group dynamics with different ideas and beliefs, and recognizing when an answer is wrong.
+</div>
+</div>
+<div class="fragment">
+<p>That is why case analyses in this course are handwritten, in class, and without AI.</p>
+</div>
+</div>
+</section>
 <section id="todays-plan" class="slide level2">
 <h2>Today’s Plan</h2>
-<div title="Today's Big Question">
+<div class="bq-lg" title="Today's Big Question">
 <div class="callout callout-important no-icon callout-titled callout-style-default">
 <div class="callout-body">
 <div class="callout-title">
 <p><strong>Today’s Big Question</strong></p>
 </div>
 <div class="callout-content">
-<p><strong>Once a firm sinks billions into a foreign mine or factory, what stops the host government from changing the deal — and what recourse does the firm have?</strong></p>
+<p><strong>What kinds of protections/guarantees should MNEs receive from host governments, what kinds of obligations should governments demand from MNEs, and how can global rules on these rights and obligations be developed and enforced?</strong></p>
 </div>
 </div>
 </div>
@@ -169,164 +371,711 @@ What we’ll cover
 <tbody>
 <tr>
 <td class="sec">
-1 · The hold-up problem
+1 · Siemens, revisited
 </td>
 <td>
-Why sunk, irreversible investments are vulnerable
+Why did Siemens reform — law, reputation, or something else?
 </td>
 </tr>
 <tr>
 <td class="sec">
-2 · The obsolescing bargain
+2 · The search for global rules
 </td>
 <td>
-How bargaining power shifts after a firm enters
+Why a century of attempts to write multilateral rules for MNEs failed, and what alternative regulations emerged
 </td>
 </tr>
 <tr>
 <td class="sec">
-3 · Remedies
+3 · Managing expropriation risk
 </td>
 <td>
-Political risk insurance, investment treaties, and ISDS
+Going to the market (political risk insurance) or going to the law (investment treaties)
 </td>
 </tr>
 <tr>
 <td class="sec">
-4 · The long arm of the law
+4 · Investor–state dispute settlement
 </td>
 <td>
-How courts in one country reach conduct abroad — Jones &amp; Rahmani’s “global regulation”
-</td>
-</tr>
-<tr>
-<td class="sec">
-5 · The controversy
-</td>
-<td>
-Why ISDS is contested — setting up Philip Morris
+How ISDS works, who uses it, and why it is controversial
 </td>
 </tr>
 </tbody>
 </table>
 </section>
 <section>
-<section id="the-hold-up-problem" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>The hold-up problem</h1>
+<section id="siemens-revisited" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>Siemens, revisited</h1>
 
 </section>
-<section id="the-fundamental-problem" class="slide level2">
-<h2>The fundamental problem</h2>
-<div class="columns">
-<div class="column" style="width:54%;">
-<ul>
-<li><strong>Year 0:</strong> a firm signs a contract with a government</li>
-<li><strong>Years 1–4:</strong> the firm sinks large, <strong>irreversible</strong> investment (a mine, a plant) that can’t easily be redeployed</li>
-<li><strong>Year 5+:</strong> once the costs are sunk, the government can change the terms — taxes, regulation, even <strong>expropriation</strong></li>
-</ul>
-</div><div class="column" style="width:46%;">
-<p><img data-src="img/day10/s04_1.png" style="width:100.0%" alt="Types of political risk investors worry about most"></p>
-<p><span class="cite">Source: MIGA–EIU Political Risk Survey</span></p>
-</div></div>
+<section id="what-changed-siemens" class="slide level2">
+<h2>What changed Siemens?</h2>
+<div class="d10-fill">
+<div class="tl">
+<div class="tl-item fragment">
+<div class="tl-year">
+1999
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+Germany criminalizes foreign bribery, implementing the OECD Anti-Bribery Convention. Until then, foreign bribes were <strong>tax-deductible</strong>.
+</div>
+</div>
+<div class="tl-item fragment">
+<div class="tl-year">
+2001
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+Listing on the New York Stock Exchange brings Siemens under the U.S. <strong>FCPA</strong>.
+</div>
+</div>
+<div class="tl-item tl-warn fragment">
+<div class="tl-year">
+2003–06
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>Warnings:</strong> KPMG flags €4.12M in cash carried into Nigeria; an Italian fine and one-year ban; UN Oil-for-Food allegations. Little internal response.
+</div>
+</div>
+<div class="tl-item tl-law fragment">
+<div class="tl-year">
+Nov 2006
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+Munich prosecutors <strong>raid</strong> Siemens. Within a month, suspicious sums rise from €20M to more than €420M.
+</div>
+</div>
+<div class="tl-item tl-reform fragment">
+<div class="tl-year">
+2007–09
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+Outsider CEO Löscher; amnesty program (171 come forward); 500+ employees dismissed; compliance staff grows to <strong>~600</strong>.
+</div>
+</div>
+<div class="tl-item tl-law fragment">
+<div class="tl-year">
+Dec 2008
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+FCPA guilty plea: <strong>$800M</strong> to DOJ/SEC, <strong>$815M</strong> to German authorities, a four-year independent monitor.
+</div>
+</div>
+</div>
+<div class="tl-legend">
+<p><span style="--c:#535054">Legal change</span><span style="--c:#b5651d">Warning signs</span><span style="--c:#990000">Enforcement</span><span style="--c:#4a7c4e">Reform</span></p>
+</div>
+<div class="fragment">
+<p>The DOJ counted <strong>$843.5 million</strong> in illicit payments between March 2001 and September 2007 — bribery continued for years <em>after</em> both legal changes took effect.</p>
+<p><span class="cite">Source: Healy (2010), “Fighting Corruption at Siemens,” HBS 9-112-702</span></p>
+</div>
+</div>
+</section>
+<section id="law-reputation-or-something-else" class="slide level2">
+<h2>Law, reputation, or something else?</h2>
+<div class="d10-fill" style="font-size:1.12em;">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
+<div class="info-card info-card-lg fragment">
+<strong>Law and enforcement</strong><br>$1.6B in fines and disgorged profits, plus $850M in investigation costs. U.S. authorities declined to bar Siemens from government contracts <em>because</em> it cooperated and supplied most of the evidence against itself.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>New leadership, new culture</strong><br>Siemens’s first CEO from outside the firm (Löscher), plus an outside General Counsel and Chief Compliance Officer. New leaders could change the tone from the top: amnesty, 500+ dismissals, and ~17% of top managers’ bonuses tied to compliance.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Reputation</strong><br>The 2003–06 scandals in Italy, Greece, and at the UN were public, yet produced little change. The Italian managers involved retired with full benefits.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>The business case</strong><br>Most bribe-won contracts turned out to be <em>unprofitable</em>: customers who knew Siemens paid used that as leverage on price. Firms with stronger anti-corruption programs show lower sales growth but <strong>higher margins</strong> in corrupt markets.
+</div>
+</div>
+<div class="fragment">
+<p>Enforcement created the pressure to reform; new leadership made a change in corporate culture possible. Could either have worked alone — and what does that say about whether firms can regulate themselves?</p>
+<p><span class="cite">Sources: Healy (2010), HBS 9-112-702; Healy (2012), HBS teaching note 112-089; Healy &amp; Serafeim (2016), <em>The Accounting Review</em> 91(2)</span></p>
+</div>
+</div>
+</section>
+<section id="can-firms-self-regulate" class="slide level2">
+<h2>Can firms self-regulate?</h2>
+<div class="d10-fill">
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem;">
+<div style="flex:0 0 48%;">
+<div class="big-quote big-quote-sm">
+“The new rules made it very hard to get these local partners approved… This resulted in my division losing our Middle East partner (which reportedly was set to win the contract based on its excellent relationship with the local government) to our competitor in the region.”<span class="attrib">Siemens project manager, 2009 employee perception survey</span>
+</div>
+</div>
+<div style="flex:1;">
+<div class="card-col">
+<div class="info-card info-card-lg fragment">
+Unilateral compliance is the <strong>“A loses out”</strong> cell of the collective-action game from Day 8: comply while rivals cheat.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Changing everyone’s payoffs:</strong> home-country law reaches every firm listed in the U.S. or based in an OECD Convention state, not only Siemens.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Coordinating with rivals:</strong> Siemens joined the World Economic Forum’s Partnering Against Corruption Initiative (140+ firms) in 2009.
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<p>Siemens was disciplined by the <strong>national law of two states</strong> with long reach — not by an international regulator. Why isn’t there one?</p>
+</div>
+</div>
 </section></section>
 <section>
-<section id="the-obsolescing-bargain" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>The obsolescing bargain</h1>
+<section id="the-search-for-global-rules" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>The search for global rules</h1>
 
 </section>
-<section id="how-bargaining-power-shifts" class="slide level2">
-<h2>How bargaining power shifts</h2>
+<section id="a-missing-rulebook" class="slide level2">
+<h2>A missing rulebook</h2>
+<div class="d10-fill">
+<div class="big-quote">
+“Considering the important developments of the last half-century, the growth of foreign investments and the expansion of international activities of corporations… it may at first sight appear surprising that the evolution of law has not gone further and that no generally accepted rules in the matter have crystallized on the international plane.”<span class="attrib">International Court of Justice, <em>Barcelona Traction</em> (1970)</span>
+</div>
+<div style="display:flex; flex-direction:row; align-items:stretch; gap:2rem; margin-top:1.2rem;">
+<div style="flex:1;">
+<div class="info-card info-card-lg fragment">
+<strong>Before 1917</strong><br>Customary law: foreign property cannot be taken without prompt, full compensation — enforced by gunboats, extraterritorial rights, and colonial rule.
+</div>
+</div>
+<div style="flex:1;">
+<div class="info-card info-card-lg fragment">
+<strong>After 1917</strong><br>Soviet expropriation breaks the consensus. Developing countries assert the <strong>Calvo Doctrine</strong>: foreign investors settle disputes in host courts, and home states do not intervene.
+</div>
+</div>
+</div>
+<div class="fragment">
+<p>As an MNE, how would you respond to this environment?</p>
+</div>
+</div>
+</section>
+<section id="a-century-of-failed-multilateral-rules" class="slide level2">
+<h2>A century of failed multilateral rules</h2>
+<div class="d10-fill">
+<div class="tl">
+<div class="tl-item tl-exp fragment">
+<div class="tl-year">
+1948
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>Havana Charter (ITO).</strong> Promises “adequate security” for investment. U.S. business objects to its exceptions; Congress never ratifies.
+</div>
+</div>
+<div class="tl-item tl-host fragment">
+<div class="tl-year">
+1962
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>OECD Draft Convention.</strong> Fair and equitable treatment; no taking without due process. Developing countries insist on domestic jurisdiction.
+</div>
+</div>
+<div class="tl-item tl-exp fragment">
+<div class="tl-year">
+1972–92
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>UN Code of Conduct.</strong> Pushed by the G77 after ITT in Chile. The U.S. blocks every mandatory draft; talks suspended.
+</div>
+</div>
+<div class="tl-item tl-vol fragment">
+<div class="tl-year">
+1976
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>OECD Guidelines for MNEs.</strong> Adopted — as voluntary recommendations. Business lobbies against a binding code.
+</div>
+</div>
+<div class="tl-item tl-civil fragment">
+<div class="tl-year">
+1995–98
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>Multilateral Agreement on Investment.</strong> U.S.-led. Unions, NGOs, and protesters mobilize; France withdraws; talks end.
+</div>
+</div>
+<div class="tl-item tl-vol fragment">
+<div class="tl-year">
+2014–
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>UN binding treaty on business and human rights.</strong> Still in negotiation.
+</div>
+</div>
+</div>
+<div class="tl-legend">
+<p><span style="--c:#990000">Blocked by capital exporters &amp; business</span><span style="--c:#b5651d">Blocked by capital importers</span><span style="--c:#54507a">Blocked by civil society</span><span style="--c:#535054">Voluntary or unfinished</span></p>
+</div>
+<div class="fragment">
+<p>Capital exporters wanted <strong>rights for investors</strong>. Capital importers wanted <strong>sovereignty</strong> and <strong>obligations on firms</strong>. No multilateral agreement could deliver both.</p>
+<p><span class="cite">Source: Jones &amp; Rahmani (2025), “In Search of Global Regulation,” HBS 9-822-122</span></p>
+</div>
+</div>
+</section>
+<section id="where-regulation-went-instead" class="slide level2">
+<h2>Where regulation went instead</h2>
+<div class="d10-fill">
+<div class="card-row">
+<div class="info-card info-card-lg fragment">
+<strong>International</strong>
 <ul>
-<li><strong>Before entry:</strong> the firm holds leverage — it can take its capital elsewhere</li>
-<li><strong>After entry:</strong> leverage shifts to the host government — Vernon’s <strong>obsolescing bargain</strong></li>
-<li>The conflict is <strong>distributional</strong>: who captures the returns to the sunk investment (a focus on <em>relative</em> gains)</li>
+<li>
+ICC arbitration (1920s)
+</li>
+<li>
+Bretton Woods institutions; GATT → WTO
+</li>
+<li>
+OECD Guidelines (voluntary)
+</li>
+<li>
+Failed UN Code and MAI
+</li>
+<li>
+Bilateral investment treaties
+</li>
 </ul>
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Domestic</strong>
+<ul>
+<li>
+Foreign Corrupt Practices Act (1977)
+</li>
+<li>
+Alien Tort Claims Act, revived in <em>Filártiga</em> (1980), narrowed by the Supreme Court since 2013
+</li>
+<li>
+Comprehensive Anti-Apartheid Act (1986)
+</li>
+<li>
+EU and national due-diligence laws
+</li>
+</ul>
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Private</strong>
+<ul>
+<li>
+Corporate codes of conduct (Shell 1976; Levi Strauss and Nike 1992)
+</li>
+<li>
+Shell adopts the Universal Declaration of Human Rights (1997)
+</li>
+<li>
+UN Global Compact (2000); ESG
+</li>
+</ul>
+</div>
+</div>
+<div class="fragment">
+<p>Which of these create <strong>rights</strong> for firms, and which create <strong>obligations</strong>? Which can actually be enforced?</p>
+</div>
+</div>
+</section>
+<section id="the-oecd-guidelines-1976" class="slide level2">
+<h2>The OECD Guidelines (1976)</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2rem;">
+<div style="flex:1; text-align:center;">
+<p><img data-src="img/day10/oecd-guidelines-1976.png" class="fig" alt="Excerpt from the 1976 OECD Guidelines for Multinational Enterprises: enterprises should consider host countries' development aims, supply information to host authorities, be allowed to exploit their competitive advantage, not render bribes, and abstain from improper involvement in local politics" height="640"></p>
+<p><span class="cite">Source: Jones &amp; Rahmani (2025), Exhibit 1</span></p>
+</div>
+<div class="d10-lg" style="flex:0 0 22%;">
+<p>Written as “recommendations addressed by governments to multinational enterprises.”</p>
+<div class="fragment">
+<p><strong>Why would firms want to sign on?</strong></p>
+</div>
+</div>
+</div>
+</section>
+<section id="the-draft-un-code-of-conduct-1986" class="slide level2">
+<h2>The draft UN Code of Conduct (1986)</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2rem;">
+<div style="flex:1; text-align:center;">
+<div class="r-stack">
+<p><img data-src="img/day10/un-draft-code-a.png" class="fig" alt="Excerpt from the 1986 draft UN Code of Conduct on Transnational Corporations: TNCs shall/should cooperate with host governments' development objectives, avoid practices harmful to socio-cultural objectives as determined by governments, not discriminate, and train and employ host-country nationals at all levels of management" height="660"></p>
+<p><img data-src="img/day10/un-draft-code-b.png" class="fig fragment" style="background:#fff;" alt="Further excerpt from the 1986 draft UN Code: TNCs shall/should promote and diversify host-country exports, avoid harming local capital markets, price intra-firm transactions at arm's length rather than to shift the tax base, and avoid technology-transfer practices that hinder host-country development" height="660"></p>
+</div>
+<p><span class="cite">Source: Jones &amp; Rahmani (2025), Exhibit 2</span></p>
+</div>
+<div class="d10-lg" style="flex:0 0 22%;">
+<p>Launched by the UN Economic and Social Council in 1972, at the urging of newly independent states.</p>
+<div class="fragment">
+<p><strong>Why would the UN Code be harsher than the OECD Guidelines?</strong></p>
+</div>
+<div class="fragment">
+<p>Notice <em>shall/should</em>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="the-un-treaty-on-business-and-human-rights-today" class="slide level2">
+<h2>The UN treaty on business and human rights today</h2>
+<div class="d10-fill" style="font-size:1.05em;">
+<div class="stat-callout" style="font-size:0.85em;">
+<p><span class="stat-num">12–16 October 2026</span> — the 12th annual negotiating session opens in Geneva, eleven years after the Human Rights Council’s 2014 mandate. Intersessional consultations now continue between sessions, and the Chair-Rapporteur (Ecuador) aims to finalize a text for adoption within two years.</p>
+</div>
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:0.9rem;">
+<div class="info-card info-card-lg fragment">
+<strong>Scope</strong><br>Transnational corporations only (developing countries, civil society) or <em>all</em> business enterprises (Western states, business associations)?
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Access to remedy and jurisdiction</strong><br>Can victims sue parent companies in home-state courts? Ending <em>forum non conveniens</em>; jurisdiction over global supply chains.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Binding liability or voluntarism</strong><br>Mandatory human rights due diligence with civil, administrative, or criminal liability — or, critics argue, a shift of the state’s duty to protect onto firms.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Who is at the table</strong><br>The Global South, led by Ecuador, drives the text; many Global North states engage minimally or oppose it, preferring the voluntary UN Guiding Principles.
+</div>
+</div>
+<div class="fragment">
+<p>Is this the 1972 divide over the UN Code again?</p>
+<p><span class="cite">Sources: OHCHR, OEIGWG 12th session and 2026 roadmap; CIDSE (2025), “UN Binding Treaty 11th Session Conclusions”; Business &amp; Human Rights Resource Centre</span></p>
+</div>
+</div>
 </section></section>
 <section>
-<section id="remedies" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>Remedies</h1>
+<section id="managing-expropriation-risk" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>Managing expropriation risk</h1>
 
 </section>
-<section id="two-ways-to-manage-hold-up" class="slide level2">
-<h2>Two ways to manage hold-up</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><strong>Political risk insurance</strong></p>
+<section id="expropriation-risk-today" class="slide level2">
+<h2>Expropriation risk today</h2>
+<div class="d10-fill">
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem;">
+<div style="flex:0 0 45%; text-align:center;">
+<p><img data-src="img/day10/s04_1.png" class="fig" alt="MIGA-EIU Political Risk Survey 2011: investors' top concerns are breach of contract and adverse regulatory changes, well ahead of expropriation or nationalization" height="660"></p>
+</div>
+<div style="flex:1;">
+<div class="card-col">
+<div class="info-card info-card-lg fragment">
+<strong>Direct expropriation</strong><br>The state takes title to the asset — nationalization.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Indirect (“creeping”) expropriation</strong><br>Regulation, taxation, or contract changes that strip an investment of its value while the investor keeps title.
+</div>
+</div>
+<div class="fragment">
+<p>Outright nationalization is now rare. Investors worry most about <strong>breach of contract</strong> and <strong>adverse regulatory change</strong> — the gray zone between expropriation and ordinary regulation.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="two-remedies-the-market-or-the-law" class="slide level2">
+<h2>Two remedies: the market or the law</h2>
+<div class="d10-fill">
+<div style="display:flex; flex-direction:row; align-items:stretch; gap:2rem;">
+<div style="flex:1;">
+<div class="info-card info-card-lg">
+<strong>Go to the market: political risk insurance</strong>
 <ul>
-<li>Costly, but can recoup ~90% of losses</li>
-<li>Subsidized by many rich countries and the <strong>World Bank Group (MIGA)</strong></li>
+<li>
+The firm pays a premium to transfer the risk to an insurer
+</li>
+<li>
+Public (home-country agencies such as the U.S. DFC), multilateral (the World Bank’s MIGA), and private (Lloyd’s) providers
+</li>
+<li>
+Covers expropriation, currency inconvertibility, political violence, breach of contract — up to ~90% of losses
+</li>
+<li>
+<strong>Expensive</strong>, and private insurers underwrite less when/where risk rises
+</li>
 </ul>
-</div><div class="column" style="width:50%;">
-<p><strong>Investment treaties + ISDS</strong></p>
+</div>
+</div>
+<div class="fragment" style="flex:1;">
+<div class="info-card info-card-lg">
+<strong>Go to the law: investment treaties + ISDS</strong>
 <ul>
-<li>Bilateral investment treaties (BITs) grant investors the right to <strong>arbitrate against host states</strong> outside national courts</li>
+<li>
+Home and host states sign a treaty; the host commits to standards of treatment
+</li>
+<li>
+Covered investors can take the host state directly to international arbitration
+</li>
+<li>
+For the firm, protection is <strong>free</strong> — supplied by its home state
+</li>
+<li>
+The costs fall on host states: legal fees, awards, and constraints on future policy
+</li>
 </ul>
-</div></div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<p>If you were an investor, which would you rely on? How does your answer depend on your <strong>home country</strong>, <strong>host country</strong>, and <strong>industry</strong>?</p>
+</div>
+</div>
+</section>
+<section id="the-bit-explosion" class="slide level2">
+<h2>The BIT explosion</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2rem;">
+<div style="flex:1; text-align:center;">
+<p><img data-src="img/day10/bits-1959-2014.png" class="fig" alt="Bilateral investment treaties signed per year and cumulatively, 1959-2014: few before 1990, a peak of about 210 per year in the mid-1990s, and roughly 2,900 signed by 2014" height="720"></p>
+</div>
+<div style="flex:0 0 34%;">
+<div>
+<ul>
+<li class="fragment">First BIT: <strong>Germany–Pakistan, 1959</strong></li>
+<li class="fragment">The boom comes in the 1990s, as governments shift from restricting FDI to competing for it</li>
+<li class="fragment">Over <strong>2,800</strong> signed, <strong>2,240</strong> in force (2022)</li>
+<li class="fragment">Treaty-making has slowed: <strong>44</strong> new investment agreements in 2025, increasingly centered on facilitation rather than investor protection</li>
+<li class="fragment">A BIT is a <strong>credible commitment</strong>: the host ties its own hands against the obsolescing bargain</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="what-a-bit-promises" class="slide level2">
+<h2>What a BIT promises</h2>
+<div class="d10-fill" style="font-size:1.1em;">
+<table class="d10-table">
+<thead>
+<tr>
+<th>
+Provision
+</th>
+<th>
+What the host state commits to
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+National treatment &amp; MFN
+</td>
+<td>
+Treat covered investors no worse than domestic firms or investors from any third country
+</td>
+</tr>
+<tr class="fragment">
+<td>
+Fair and equitable treatment (FET)
+</td>
+<td>
+Due process, non-arbitrary treatment, and protection of investors’ “legitimate expectations”
+</td>
+</tr>
+<tr class="fragment">
+<td>
+Expropriation
+</td>
+<td>
+No direct <em>or indirect</em> taking without a public purpose, non-discrimination, and compensation
+</td>
+</tr>
+<tr class="fragment">
+<td>
+Free transfers
+</td>
+<td>
+Let investors move capital and profits in and out of the country
+</td>
+</tr>
+<tr class="fragment">
+<td>
+No performance requirements
+</td>
+<td>
+No mandates to use local suppliers or export a share of output
+</td>
+</tr>
+<tr class="fragment">
+<td>
+Investor–state dispute settlement
+</td>
+<td>
+Covered investors may take the host directly to international arbitration
+</td>
+</tr>
+</tbody>
+</table>
+<div class="fragment">
+<p>Every obligation runs to the <strong>state</strong>. BITs “focus on protection, treatment, and dispute settlement but do not seek to govern the conduct of companies” (Jones &amp; Rahmani 2025).</p>
+</div>
+</div>
 </section></section>
 <section>
-<section id="the-long-arm-of-the-law" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>The long arm of the law</h1>
+<section id="investorstate-dispute-settlement" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>Investor–state dispute settlement</h1>
 
 </section>
-<section id="a-different-kind-of-remedy-courts-not-just-treaties" class="slide level2">
-<h2>A different kind of remedy: courts, not just treaties</h2>
-<ul>
-<li>ISDS lets <strong>firms</strong> sue <strong>states</strong>. But Jones &amp; Rahmani (2022, “In Search of Global Regulation”) describe the reverse move: courts and prosecutors in one country reaching <strong>corporate conduct that happened somewhere else</strong> — a private, litigation-driven substitute for the international regulation that doesn’t fully exist</li>
-<li>Two mechanisms carry a lot of this weight: the U.S. <strong>Alien Tort Statute (ATS/ATCA)</strong>, letting foreign plaintiffs sue in U.S. courts for human-rights abuses connected to a U.S. defendant, and the U.S. <strong>Foreign Corrupt Practices Act (FCPA)</strong>, which lets U.S. authorities prosecute bribery of foreign officials even when the bribe itself happened abroad</li>
-</ul>
+<section id="how-isds-works" class="slide level2">
+<h2>How ISDS works</h2>
+<div class="d10-fill" style="font-size:1.22em;">
+<div class="flow">
+<div class="flow-step">
+<span class="flow-title">1 · Investor</span>A firm from home state A, covered by a treaty with host state B
+</div>
+<div class="flow-arrow">
+→
+</div>
+<div class="flow-step fragment">
+<span class="flow-title">2 · Claim</span>The firm alleges that B breached the treaty — e.g., an indirect expropriation or an FET violation
+</div>
+<div class="flow-arrow fragment">
+→
+</div>
+<div class="flow-step fragment">
+<span class="flow-title">3 · Tribunal</span>Three arbitrators: the investor appoints one, the state one, the third jointly. Often at ICSID (World Bank)
+</div>
+<div class="flow-arrow fragment">
+→
+</div>
+<div class="flow-step flow-state fragment">
+<span class="flow-title">4 · Award</span>Binding; enforceable against state assets abroad; no appeal on the merits
+</div>
+</div>
+<div class="card-row" style="margin-top:1.4rem;">
+<div class="info-card info-card-lg fragment">
+<strong>One-way street.</strong> Host states cannot bring claims against investors under the treaty; they rely on their own courts.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>More rights than domestic firms.</strong> A covered foreign investor can bypass the host’s courts entirely — a domestic competitor cannot.
+</div>
+</div>
+</div>
 </section>
-<section id="connecting-it-to-cases-you-already-know" class="slide level2">
-<h2>Connecting it to cases you already know</h2>
-<div class="columns">
-<div class="column" style="width:52%;">
-<ul>
-<li><strong>ATCA → Exxon in Aceh:</strong> the ATS is exactly the legal theory Acehnese plaintiffs used to sue ExxonMobil in U.S. courts over abuses tied to the company’s security arrangements — the case you read two weeks ago</li>
-<li><strong>FCPA → Siemens:</strong> Siemens’s bribery exposure and the reforms that followed were driven substantially by U.S. FCPA enforcement, even though the underlying bribery happened outside the U.S.</li>
-</ul>
-</div><div class="column" style="width:48%;">
-<ul>
-<li><strong>ITT and Chile:</strong> the classic historical precedent for extraterritorial “global regulation” of corporate political conduct — ITT’s role in Chile’s 1973 coup remains the textbook example political scientists reach for when they talk about firms trying to shape a host government’s fate, and about how (and whether) accountability follows</li>
-</ul>
-</div></div>
+<section id="who-uses-isds" class="slide level2">
+<h2>Who uses ISDS?</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:1.5rem;">
+<div style="flex:1; text-align:center;">
+<p><img data-src="img/day10/isds-cases-1987-2025.png" class="fig" alt="Known treaty-based ISDS cases initiated per year, 1987-2025: almost none before the mid-1990s, a peak of 93 in 2018, and 56 to 60 per year since 2022; 1,463 cases in total by the end of 2025" height="520"></p>
+</div>
+<div style="flex:1; text-align:center;">
+<p><img data-src="img/day10/isds-by-industry-1990-2015.png" class="fig" alt="ISDS claims by industry, 1990-2015, compared with a proportional distribution: extraction and utilities file roughly three times their proportional share, manufacturing far less than its share" height="520"></p>
+</div>
+</div>
+<div class="fragment">
+<p>Extraction and utilities file far more claims than their share of FDI predicts; manufacturing files far fewer. Claims concentrate where assets are <strong>sunk and immobile</strong> — the obsolescing bargain again. The pattern has intensified: extractive and energy activities account for <strong>51%</strong> of new cases in 2024, against 33% over 1987–2023.</p>
+<p><span class="cite">Sources: UNCTAD Investment Dispute Settlement Navigator; UNCTAD (2025), “Recent Trends in Investor–State Arbitration Cases”; Bauerle Danzman, from Wellhausen (2016) and UNCTAD (2017)</span></p>
+</div>
 </section>
-<section id="why-this-belongs-next-to-isds" class="slide level2">
-<h2>Why this belongs next to ISDS</h2>
+<section id="how-do-isds-cases-end" class="slide level2">
+<h2>How do ISDS cases end?</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2rem;">
+<div style="flex:1; text-align:center;">
+<p><img data-src="img/day10/isds-outcomes-2024.png" class="fig" alt="Outcomes of 1,050 concluded treaty-based ISDS cases, 1987-2024: 38 percent decided in favor of the State, 29 percent in favor of the investor, 17 percent settled, 14 percent discontinued, and 2 percent found a breach but awarded no damages" height="700"></p>
+</div>
+<div class="d10-lg" style="flex:0 0 34%;">
+<div>
 <ul>
-<li>ISDS gives <strong>firms</strong> a remedy against <strong>states</strong>. ATCA/FCPA-style “global regulation” gives <strong>someone else</strong> — plaintiffs, prosecutors, another state’s courts — a remedy against <strong>firms</strong></li>
-<li>Both are attempts to patch the same gap: <strong>there is no single global regulator</strong>, so private litigation and extraterritorial law do some of that work instead</li>
-<li>Ask as you read: is this a fair substitute for a real international regulator, or does it just mean power follows whichever country’s courts are willing to reach the furthest?</li>
+<li class="fragment">States win more often than investors, and a third of cases end without a ruling</li>
+<li class="fragment">But when tribunals reach the merits, investors usually win: <strong>11 of 19</strong> merits decisions in 2024 found the State liable</li>
+<li class="fragment">The stakes keep rising: average awards grew from <strong>$99M</strong> (1987–2014) to <strong>$234M</strong> (2015–2024); <strong>60%</strong> of cases claim $100M or more</li>
 </ul>
-</section></section>
-<section>
-<section id="the-controversy" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>The controversy</h1>
-
+</div>
+</div>
+</div>
+<p><span class="cite">Source: UNCTAD (2025), “Recent Trends in Investor–State Arbitration Cases,” IIA Issues Note</span></p>
 </section>
-<section id="why-isds-is-contested" class="slide level2">
-<h2>Why ISDS is contested</h2>
-<ul>
-<li><strong>Critics:</strong> it can elevate investor rights above domestic regulation and produce <strong>“regulatory chill”</strong> on public-interest policy</li>
-<li><strong>Defenders:</strong> it <strong>depoliticizes</strong> disputes and guards against genuine expropriation</li>
-</ul>
+<section id="is-isds-legitimate" class="slide level2">
+<h2>Is ISDS legitimate?</h2>
+<div class="d10-fill">
+<div style="display:flex; flex-direction:row; align-items:stretch; gap:2rem;">
+<div style="flex:1;">
+<div class="d10-colhead">
+The case for
+</div>
+<div class="card-col">
+<div class="info-card info-card-lg fragment">
+<strong>Replaces gunboats with law.</strong> Disputes that once escalated between states go to a neutral forum.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Protects investors from captured courts.</strong> Tribunals ordered Russia to compensate Yukos after finding the state used tax and criminal cases to destroy the company.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Makes commitments credible</strong>, which should raise investment where rule of law is weak.
+</div>
+</div>
+</div>
+<div style="flex:1;">
+<div class="d10-colhead">
+The case against
+</div>
+<div class="card-col">
+<div class="info-card info-card-lg fragment">
+<strong>Regulatory chill.</strong> Broad readings of FET and “legitimate expectations” deter public-interest regulation.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Private judges.</strong> The same lawyers argue cases one day and sit as arbitrators the next.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>A shield for the accused.</strong> In 35+ of ~300 recent claims, the claimant was accused of crimes. Damac’s Egyptian corruption conviction was erased in an ISDS settlement.
+</div>
+</div>
+</div>
+</div>
+<p><span class="cite">Sources: Hamby (2016), “Inside the Global ‘Club’ That Helps Executives Escape Their Crimes,” BuzzFeed News; Day 11 case overview</span></p>
+</div>
 </section>
 <section id="key-takeaways" class="slide level2">
 <h2>Key takeaways</h2>
+<div class="d10-fill" style="font-size:1.28em;">
 <ul>
-<li>Sunk, irreversible investment creates a <strong>hold-up problem</strong>; bargaining power shifts to the host after entry</li>
-<li><strong>PRI</strong> and <strong>investment treaties/ISDS</strong> are the main remedies</li>
-<li>ISDS trades investor protection against constraints on a state’s <strong>right to regulate</strong></li>
+<li>Siemens reformed under pressure from <strong>enforcement</strong> — U.S. and German law with extraterritorial reach — and through a <strong>change in leadership</strong> that made a change in corporate culture possible</li>
+<li>Attempts at multilateral rules for MNEs failed because capital exporters sought <strong>investor rights</strong> while capital importers sought <strong>sovereignty</strong> and <strong>obligations on firms</strong></li>
+<li>Firms manage expropriation risk through the <strong>market</strong> (political risk insurance) or the <strong>law</strong> (BITs and ISDS)</li>
+<li>The result is an asymmetry: investors hold <strong>enforceable international rights</strong>; obligations on firms remain mostly <strong>national or voluntary</strong></li>
 </ul>
+</div>
 </section>
 <section id="looking-ahead" class="slide level2">
 <h2>Looking ahead</h2>
+<div class="d10-fill" style="font-size:1.28em;">
+<p><strong>Wednesday (Day 11): <em>Philip Morris Asia v. Australia</em>.</strong></p>
 <ul>
-<li><strong>Wednesday (Day 11):</strong> <em>Philip Morris Asia v. Australia</em> — tobacco plain-packaging and the limits of ISDS</li>
+<li>Read Hepburn &amp; Nottage (2016); the case overview on the Day 11 page gives background on BITs, FET, and ISDS</li>
+<li>Come able to define <strong>BITs</strong>, <strong>fair and equitable treatment</strong>, <strong>indirect expropriation</strong>, and <strong>ISDS</strong></li>
+<li>Keep in mind: when does public-health regulation become an expropriation?</li>
 </ul>
+</div>
 </section>
 <section id="questions" class="slide level2" data-background-color="#990000">
 <h2>Questions?</h2>
 <div class="r-fit-text">
-<p>Thanks!</p>
+<p>See you Wednesday.</p>
 </div>
 
 

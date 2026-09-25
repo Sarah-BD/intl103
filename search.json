@@ -266,81 +266,207 @@
     "text": "Questions?\n\nSee you Wednesday."
   },
   {
+    "objectID": "slides/day10-isds.html#before-we-begin-ai-and-your-education",
+    "href": "slides/day10-isds.html#before-we-begin-ai-and-your-education",
+    "title": "Global Business",
+    "section": "Before we begin: AI and your education",
+    "text": "Before we begin: AI and your education"
+  },
+  {
+    "objectID": "slides/day10-isds.html#the-hugging-face-incident",
+    "href": "slides/day10-isds.html#the-hugging-face-incident",
+    "title": "Global Business",
+    "section": "The Hugging Face Incident",
+    "text": "The Hugging Face Incident\n\n\nThe test: OpenAI’s AI agents were taking ExploitGym, a hard cybersecurity exam — break into a piece of software and retrieve a hidden answer (a “flag”). Many of its tasks had never been solved.\n\n\n\n\nMay 2026\n\n\n\n\n\nThe agents find an unauthorized way to leave messages for one another and coordinate.\n\n\n\n\nLate May\n\n\n\n\n\nThey reach the open internet — and start looking up answers and reading the grading code.\n\n\n\n\nJuly 10–12\n\n\n\n\n\nWith leaked passwords, they break into Hugging Face, where the exam’s dataset was stored.\n\n\n\n\nJuly 19–20\n\n\n\n\n\nSecurity alerts finally surface the activity; investigators trace it to the agents.\n\n\n\n\n\n“We’re attacking third-party HF using leaked token, potentially outside intended scope… risky. Yet goal solution.”One of the agents, reasoning to itself (quoted by OpenAI, 2026)\n\nSources: OpenAI (2026), “The Hugging Face Incident and the Road Ahead”; METR (2026), “Brief Independent Investigation of Agents’ Behavior”"
+  },
+  {
+    "objectID": "slides/day10-isds.html#the-alignment-problem",
+    "href": "slides/day10-isds.html#the-alignment-problem",
+    "title": "Global Business",
+    "section": "The alignment problem",
+    "text": "The alignment problem\n\n\nAlignment: getting a system to pursue the goal we intend, not just the target we measure. The agents were told to solve the exam; they were rewarded for producing flags. So they cheated — what researchers call reward hacking.\n\n\nGaming the measure is deeply human\n\n\n\nVolkswagen (2015) — software that detected emissions tests and cleaned up the exhaust only while being tested.\n\n\nWells Fargo (2016) — employees opened millions of unauthorized accounts to hit sales quotas.\n\n\nAtlanta Public Schools (2009) — educators changed students’ answers on standardized tests.\n\n\nSiemens — managers paid bribes to meet their sales targets.\n\n\n\nThis is Day 8’s principal–agent problem: the agent knows more than the principal and optimizes its own reward. What is new with AI is speed, persistence — the agents “rarely gave up” — and, here, the absence of anyone watching (this is why frontier labs are really worried about recursive self improvement without human oversight)."
+  },
+  {
+    "objectID": "slides/day10-isds.html#how-a-large-language-model-produces-text",
+    "href": "slides/day10-isds.html#how-a-large-language-model-produces-text",
+    "title": "Global Business",
+    "section": "How a large language model produces text",
+    "text": "How a large language model produces text\n\n\n\n1 · TrainingReads an enormous body of human writing\n\n\n→\n\n\n2 · PatternsLearns which words tend to follow which, in which contexts\n\n\n→\n\n\n3 · PredictionGiven your prompt, predicts a likely next word — then the next, and the next\n\n\n→\n\n\n4 · OutputA plausible continuation — which is not the same as a verified one\n\n\n\n\nPrediction at scale is powerful. Large models match college students on some analogy problems (Webb, Holyoak & Lu 2023) — and, as Hugging Face shows, can pursue goals in ways no one anticipated.\n\n\nBut it is brittle outside familiar patterns. When familiar analogy problems are recast in unfamiliar forms, model performance drops sharply while human performance holds (Lewis & Mitchell 2024).\n\n\nSources: Webb, Holyoak & Lu (2023), Nature Human Behaviour 7; Lewis & Mitchell (2024), “Using Counterfactual Tasks to Evaluate the Generality of Analogical Reasoning in Large Language Models”"
+  },
+  {
+    "objectID": "slides/day10-isds.html#can-we-know-everything",
+    "href": "slides/day10-isds.html#can-we-know-everything",
+    "title": "Global Business",
+    "section": "Can we “know everything”?",
+    "text": "Can we “know everything”?\n\n\n“With electricity, we could power everything. With the internet, you can find anything. And now, with artificial intelligence as an infrastructure layer across the planet, we can know everything and do anything.”Jensen Huang, CEO of Nvidia, Dreamforce (September 15, 2026)\n\n\n\nOntologyWhat exists — what kinds of things there are to be known.\n\n\nEpistemologyHow we come to know what we know — and how confident we are entitled to be.\n\n\n\nHuang’s revealed ontological prior: the world is a stock of facts waiting to be retrieved."
+  },
+  {
+    "objectID": "slides/day10-isds.html#knowing-is-not-retrieving",
+    "href": "slides/day10-isds.html#knowing-is-not-retrieving",
+    "title": "Global Business",
+    "section": "Knowing is not retrieving",
+    "text": "Knowing is not retrieving\n\n\n\nMany questions have no single correct answer. Epistemology is about discovering what is true and understanding uncertainty and heterogeneity. Does FDI promote growth? It depends on the host’s absorptive capacity (Day 3).\n\n\nThe most important decisions are judgments, not look-ups. Should Löscher fire the managing board? Should a firm buy insurance or rely on a BIT? Judgment improves only with practice — and without it, we are bad at it.\n\n\nProgress requires knowing why. If you know that 1 + 1 = 2 but not why, you cannot get to 1 + 2 = 3 on your own."
+  },
+  {
+    "objectID": "slides/day10-isds.html#what-happens-when-no-one-knows-how-it-works",
+    "href": "slides/day10-isds.html#what-happens-when-no-one-knows-how-it-works",
+    "title": "Global Business",
+    "section": "What happens when no one knows how it works?",
+    "text": "What happens when no one knows how it works?\n\n\n\nSource: Randall Munroe, xkcd #2347, “Dependency” (CC BY-NC 2.5)\n\n\n\n“I actually don’t know my address… They needed my ZIP code, and I panicked. I didn’t know my ZIP code. I don’t know my telephone number.”Jensen Huang, The Ezra Klein Show (September 23, 2026)\n\n\nAsked whether it matters that children no longer learn long division: “I don’t think it does.”\n\n\nA system no one understands is a system no one can fix, oversee, or improve — the lesson of Hugging Face."
+  },
+  {
+    "objectID": "slides/day10-isds.html#you-cant-skip-leg-day",
+    "href": "slides/day10-isds.html#you-cant-skip-leg-day",
+    "title": "Global Business",
+    "section": "You can’t skip leg day",
+    "text": "You can’t skip leg day\n\n\n\nThe discrete output is not the point. No one needs your case analysis. You need the capacity that discussing and writing it builds — the way a marathoner needs to accumulate training miles to be prepared for their race .\n\n\nOutsourcing the reps reduces the benefit. Handing the work to AI optimizes the grade, not the skill — exactly what the agents did. (There is research from China that students who use AI to complete homework finish their tasks faster and receive higher homework grades, but then perform poorly on exams compared to peers who do not train with AI.)\n\n\nWhat to train. Weighing evidence, judging under uncertainty, building an argument, managing group dynamics with different ideas and beliefs, and recognizing when an answer is wrong.\n\n\n\nThat is why case analyses in this course are handwritten, in class, and without AI."
+  },
+  {
     "objectID": "slides/day10-isds.html#todays-plan",
     "href": "slides/day10-isds.html#todays-plan",
     "title": "Global Business",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nOnce a firm sinks billions into a foreign mine or factory, what stops the host government from changing the deal — and what recourse does the firm have?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · The hold-up problem\n\n\nWhy sunk, irreversible investments are vulnerable\n\n\n\n\n2 · The obsolescing bargain\n\n\nHow bargaining power shifts after a firm enters\n\n\n\n\n3 · Remedies\n\n\nPolitical risk insurance, investment treaties, and ISDS\n\n\n\n\n4 · The long arm of the law\n\n\nHow courts in one country reach conduct abroad — Jones & Rahmani’s “global regulation”\n\n\n\n\n5 · The controversy\n\n\nWhy ISDS is contested — setting up Philip Morris"
+    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhat kinds of protections/guarantees should MNEs receive from host governments, what kinds of obligations should governments demand from MNEs, and how can global rules on these rights and obligations be developed and enforced?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · Siemens, revisited\n\n\nWhy did Siemens reform — law, reputation, or something else?\n\n\n\n\n2 · The search for global rules\n\n\nWhy a century of attempts to write multilateral rules for MNEs failed, and what alternative regulations emerged\n\n\n\n\n3 · Managing expropriation risk\n\n\nGoing to the market (political risk insurance) or going to the law (investment treaties)\n\n\n\n\n4 · Investor–state dispute settlement\n\n\nHow ISDS works, who uses it, and why it is controversial"
   },
   {
-    "objectID": "slides/day10-isds.html#the-fundamental-problem",
-    "href": "slides/day10-isds.html#the-fundamental-problem",
+    "objectID": "slides/day10-isds.html#what-changed-siemens",
+    "href": "slides/day10-isds.html#what-changed-siemens",
     "title": "Global Business",
-    "section": "The fundamental problem",
-    "text": "The fundamental problem\n\n\n\nYear 0: a firm signs a contract with a government\nYears 1–4: the firm sinks large, irreversible investment (a mine, a plant) that can’t easily be redeployed\nYear 5+: once the costs are sunk, the government can change the terms — taxes, regulation, even expropriation\n\n\n\nSource: MIGA–EIU Political Risk Survey"
+    "section": "What changed Siemens?",
+    "text": "What changed Siemens?\n\n\n\n\n1999\n\n\n\n\n\nGermany criminalizes foreign bribery, implementing the OECD Anti-Bribery Convention. Until then, foreign bribes were tax-deductible.\n\n\n\n\n2001\n\n\n\n\n\nListing on the New York Stock Exchange brings Siemens under the U.S. FCPA.\n\n\n\n\n2003–06\n\n\n\n\n\nWarnings: KPMG flags €4.12M in cash carried into Nigeria; an Italian fine and one-year ban; UN Oil-for-Food allegations. Little internal response.\n\n\n\n\nNov 2006\n\n\n\n\n\nMunich prosecutors raid Siemens. Within a month, suspicious sums rise from €20M to more than €420M.\n\n\n\n\n2007–09\n\n\n\n\n\nOutsider CEO Löscher; amnesty program (171 come forward); 500+ employees dismissed; compliance staff grows to ~600.\n\n\n\n\nDec 2008\n\n\n\n\n\nFCPA guilty plea: $800M to DOJ/SEC, $815M to German authorities, a four-year independent monitor.\n\n\n\n\nLegal changeWarning signsEnforcementReform\n\n\nThe DOJ counted $843.5 million in illicit payments between March 2001 and September 2007 — bribery continued for years after both legal changes took effect.\nSource: Healy (2010), “Fighting Corruption at Siemens,” HBS 9-112-702"
   },
   {
-    "objectID": "slides/day10-isds.html#how-bargaining-power-shifts",
-    "href": "slides/day10-isds.html#how-bargaining-power-shifts",
+    "objectID": "slides/day10-isds.html#law-reputation-or-something-else",
+    "href": "slides/day10-isds.html#law-reputation-or-something-else",
     "title": "Global Business",
-    "section": "How bargaining power shifts",
-    "text": "How bargaining power shifts\n\nBefore entry: the firm holds leverage — it can take its capital elsewhere\nAfter entry: leverage shifts to the host government — Vernon’s obsolescing bargain\nThe conflict is distributional: who captures the returns to the sunk investment (a focus on relative gains)"
+    "section": "Law, reputation, or something else?",
+    "text": "Law, reputation, or something else?\n\n\n\nLaw and enforcement$1.6B in fines and disgorged profits, plus $850M in investigation costs. U.S. authorities declined to bar Siemens from government contracts because it cooperated and supplied most of the evidence against itself.\n\n\nNew leadership, new cultureSiemens’s first CEO from outside the firm (Löscher), plus an outside General Counsel and Chief Compliance Officer. New leaders could change the tone from the top: amnesty, 500+ dismissals, and ~17% of top managers’ bonuses tied to compliance.\n\n\nReputationThe 2003–06 scandals in Italy, Greece, and at the UN were public, yet produced little change. The Italian managers involved retired with full benefits.\n\n\nThe business caseMost bribe-won contracts turned out to be unprofitable: customers who knew Siemens paid used that as leverage on price. Firms with stronger anti-corruption programs show lower sales growth but higher margins in corrupt markets.\n\n\n\nEnforcement created the pressure to reform; new leadership made a change in corporate culture possible. Could either have worked alone — and what does that say about whether firms can regulate themselves?\nSources: Healy (2010), HBS 9-112-702; Healy (2012), HBS teaching note 112-089; Healy & Serafeim (2016), The Accounting Review 91(2)"
   },
   {
-    "objectID": "slides/day10-isds.html#two-ways-to-manage-hold-up",
-    "href": "slides/day10-isds.html#two-ways-to-manage-hold-up",
+    "objectID": "slides/day10-isds.html#can-firms-self-regulate",
+    "href": "slides/day10-isds.html#can-firms-self-regulate",
     "title": "Global Business",
-    "section": "Two ways to manage hold-up",
-    "text": "Two ways to manage hold-up\n\n\nPolitical risk insurance\n\nCostly, but can recoup ~90% of losses\nSubsidized by many rich countries and the World Bank Group (MIGA)\n\n\nInvestment treaties + ISDS\n\nBilateral investment treaties (BITs) grant investors the right to arbitrate against host states outside national courts"
+    "section": "Can firms self-regulate?",
+    "text": "Can firms self-regulate?\n\n\n\n\n“The new rules made it very hard to get these local partners approved… This resulted in my division losing our Middle East partner (which reportedly was set to win the contract based on its excellent relationship with the local government) to our competitor in the region.”Siemens project manager, 2009 employee perception survey\n\n\n\n\n\nUnilateral compliance is the “A loses out” cell of the collective-action game from Day 8: comply while rivals cheat.\n\n\nChanging everyone’s payoffs: home-country law reaches every firm listed in the U.S. or based in an OECD Convention state, not only Siemens.\n\n\nCoordinating with rivals: Siemens joined the World Economic Forum’s Partnering Against Corruption Initiative (140+ firms) in 2009.\n\n\n\n\n\nSiemens was disciplined by the national law of two states with long reach — not by an international regulator. Why isn’t there one?"
   },
   {
-    "objectID": "slides/day10-isds.html#a-different-kind-of-remedy-courts-not-just-treaties",
-    "href": "slides/day10-isds.html#a-different-kind-of-remedy-courts-not-just-treaties",
+    "objectID": "slides/day10-isds.html#a-missing-rulebook",
+    "href": "slides/day10-isds.html#a-missing-rulebook",
     "title": "Global Business",
-    "section": "A different kind of remedy: courts, not just treaties",
-    "text": "A different kind of remedy: courts, not just treaties\n\nISDS lets firms sue states. But Jones & Rahmani (2022, “In Search of Global Regulation”) describe the reverse move: courts and prosecutors in one country reaching corporate conduct that happened somewhere else — a private, litigation-driven substitute for the international regulation that doesn’t fully exist\nTwo mechanisms carry a lot of this weight: the U.S. Alien Tort Statute (ATS/ATCA), letting foreign plaintiffs sue in U.S. courts for human-rights abuses connected to a U.S. defendant, and the U.S. Foreign Corrupt Practices Act (FCPA), which lets U.S. authorities prosecute bribery of foreign officials even when the bribe itself happened abroad"
+    "section": "A missing rulebook",
+    "text": "A missing rulebook\n\n\n“Considering the important developments of the last half-century, the growth of foreign investments and the expansion of international activities of corporations… it may at first sight appear surprising that the evolution of law has not gone further and that no generally accepted rules in the matter have crystallized on the international plane.”International Court of Justice, Barcelona Traction (1970)\n\n\n\n\nBefore 1917Customary law: foreign property cannot be taken without prompt, full compensation — enforced by gunboats, extraterritorial rights, and colonial rule.\n\n\n\n\nAfter 1917Soviet expropriation breaks the consensus. Developing countries assert the Calvo Doctrine: foreign investors settle disputes in host courts, and home states do not intervene.\n\n\n\n\nAs an MNE, how would you respond to this environment?"
   },
   {
-    "objectID": "slides/day10-isds.html#connecting-it-to-cases-you-already-know",
-    "href": "slides/day10-isds.html#connecting-it-to-cases-you-already-know",
+    "objectID": "slides/day10-isds.html#a-century-of-failed-multilateral-rules",
+    "href": "slides/day10-isds.html#a-century-of-failed-multilateral-rules",
     "title": "Global Business",
-    "section": "Connecting it to cases you already know",
-    "text": "Connecting it to cases you already know\n\n\n\nATCA → Exxon in Aceh: the ATS is exactly the legal theory Acehnese plaintiffs used to sue ExxonMobil in U.S. courts over abuses tied to the company’s security arrangements — the case you read two weeks ago\nFCPA → Siemens: Siemens’s bribery exposure and the reforms that followed were driven substantially by U.S. FCPA enforcement, even though the underlying bribery happened outside the U.S.\n\n\n\nITT and Chile: the classic historical precedent for extraterritorial “global regulation” of corporate political conduct — ITT’s role in Chile’s 1973 coup remains the textbook example political scientists reach for when they talk about firms trying to shape a host government’s fate, and about how (and whether) accountability follows"
+    "section": "A century of failed multilateral rules",
+    "text": "A century of failed multilateral rules\n\n\n\n\n1948\n\n\n\n\n\nHavana Charter (ITO). Promises “adequate security” for investment. U.S. business objects to its exceptions; Congress never ratifies.\n\n\n\n\n1962\n\n\n\n\n\nOECD Draft Convention. Fair and equitable treatment; no taking without due process. Developing countries insist on domestic jurisdiction.\n\n\n\n\n1972–92\n\n\n\n\n\nUN Code of Conduct. Pushed by the G77 after ITT in Chile. The U.S. blocks every mandatory draft; talks suspended.\n\n\n\n\n1976\n\n\n\n\n\nOECD Guidelines for MNEs. Adopted — as voluntary recommendations. Business lobbies against a binding code.\n\n\n\n\n1995–98\n\n\n\n\n\nMultilateral Agreement on Investment. U.S.-led. Unions, NGOs, and protesters mobilize; France withdraws; talks end.\n\n\n\n\n2014–\n\n\n\n\n\nUN binding treaty on business and human rights. Still in negotiation.\n\n\n\n\nBlocked by capital exporters & businessBlocked by capital importersBlocked by civil societyVoluntary or unfinished\n\n\nCapital exporters wanted rights for investors. Capital importers wanted sovereignty and obligations on firms. No multilateral agreement could deliver both.\nSource: Jones & Rahmani (2025), “In Search of Global Regulation,” HBS 9-822-122"
   },
   {
-    "objectID": "slides/day10-isds.html#why-this-belongs-next-to-isds",
-    "href": "slides/day10-isds.html#why-this-belongs-next-to-isds",
+    "objectID": "slides/day10-isds.html#where-regulation-went-instead",
+    "href": "slides/day10-isds.html#where-regulation-went-instead",
     "title": "Global Business",
-    "section": "Why this belongs next to ISDS",
-    "text": "Why this belongs next to ISDS\n\nISDS gives firms a remedy against states. ATCA/FCPA-style “global regulation” gives someone else — plaintiffs, prosecutors, another state’s courts — a remedy against firms\nBoth are attempts to patch the same gap: there is no single global regulator, so private litigation and extraterritorial law do some of that work instead\nAsk as you read: is this a fair substitute for a real international regulator, or does it just mean power follows whichever country’s courts are willing to reach the furthest?"
+    "section": "Where regulation went instead",
+    "text": "Where regulation went instead\n\n\n\nInternational\n\n\nICC arbitration (1920s)\n\n\nBretton Woods institutions; GATT → WTO\n\n\nOECD Guidelines (voluntary)\n\n\nFailed UN Code and MAI\n\n\nBilateral investment treaties\n\n\n\n\nDomestic\n\n\nForeign Corrupt Practices Act (1977)\n\n\nAlien Tort Claims Act, revived in Filártiga (1980), narrowed by the Supreme Court since 2013\n\n\nComprehensive Anti-Apartheid Act (1986)\n\n\nEU and national due-diligence laws\n\n\n\n\nPrivate\n\n\nCorporate codes of conduct (Shell 1976; Levi Strauss and Nike 1992)\n\n\nShell adopts the Universal Declaration of Human Rights (1997)\n\n\nUN Global Compact (2000); ESG\n\n\n\n\n\nWhich of these create rights for firms, and which create obligations? Which can actually be enforced?"
   },
   {
-    "objectID": "slides/day10-isds.html#why-isds-is-contested",
-    "href": "slides/day10-isds.html#why-isds-is-contested",
+    "objectID": "slides/day10-isds.html#the-oecd-guidelines-1976",
+    "href": "slides/day10-isds.html#the-oecd-guidelines-1976",
     "title": "Global Business",
-    "section": "Why ISDS is contested",
-    "text": "Why ISDS is contested\n\nCritics: it can elevate investor rights above domestic regulation and produce “regulatory chill” on public-interest policy\nDefenders: it depoliticizes disputes and guards against genuine expropriation"
+    "section": "The OECD Guidelines (1976)",
+    "text": "The OECD Guidelines (1976)\n\n\n\nSource: Jones & Rahmani (2025), Exhibit 1\n\n\nWritten as “recommendations addressed by governments to multinational enterprises.”\n\nWhy would firms want to sign on?"
+  },
+  {
+    "objectID": "slides/day10-isds.html#the-draft-un-code-of-conduct-1986",
+    "href": "slides/day10-isds.html#the-draft-un-code-of-conduct-1986",
+    "title": "Global Business",
+    "section": "The draft UN Code of Conduct (1986)",
+    "text": "The draft UN Code of Conduct (1986)\n\n\n\n\n\n\nSource: Jones & Rahmani (2025), Exhibit 2\n\n\nLaunched by the UN Economic and Social Council in 1972, at the urging of newly independent states.\n\nWhy would the UN Code be harsher than the OECD Guidelines?\n\n\nNotice shall/should."
+  },
+  {
+    "objectID": "slides/day10-isds.html#the-un-treaty-on-business-and-human-rights-today",
+    "href": "slides/day10-isds.html#the-un-treaty-on-business-and-human-rights-today",
+    "title": "Global Business",
+    "section": "The UN treaty on business and human rights today",
+    "text": "The UN treaty on business and human rights today\n\n\n12–16 October 2026 — the 12th annual negotiating session opens in Geneva, eleven years after the Human Rights Council’s 2014 mandate. Intersessional consultations now continue between sessions, and the Chair-Rapporteur (Ecuador) aims to finalize a text for adoption within two years.\n\n\n\nScopeTransnational corporations only (developing countries, civil society) or all business enterprises (Western states, business associations)?\n\n\nAccess to remedy and jurisdictionCan victims sue parent companies in home-state courts? Ending forum non conveniens; jurisdiction over global supply chains.\n\n\nBinding liability or voluntarismMandatory human rights due diligence with civil, administrative, or criminal liability — or, critics argue, a shift of the state’s duty to protect onto firms.\n\n\nWho is at the tableThe Global South, led by Ecuador, drives the text; many Global North states engage minimally or oppose it, preferring the voluntary UN Guiding Principles.\n\n\n\nIs this the 1972 divide over the UN Code again?\nSources: OHCHR, OEIGWG 12th session and 2026 roadmap; CIDSE (2025), “UN Binding Treaty 11th Session Conclusions”; Business & Human Rights Resource Centre"
+  },
+  {
+    "objectID": "slides/day10-isds.html#expropriation-risk-today",
+    "href": "slides/day10-isds.html#expropriation-risk-today",
+    "title": "Global Business",
+    "section": "Expropriation risk today",
+    "text": "Expropriation risk today\n\n\n\n\n\n\n\n\nDirect expropriationThe state takes title to the asset — nationalization.\n\n\nIndirect (“creeping”) expropriationRegulation, taxation, or contract changes that strip an investment of its value while the investor keeps title.\n\n\n\nOutright nationalization is now rare. Investors worry most about breach of contract and adverse regulatory change — the gray zone between expropriation and ordinary regulation."
+  },
+  {
+    "objectID": "slides/day10-isds.html#two-remedies-the-market-or-the-law",
+    "href": "slides/day10-isds.html#two-remedies-the-market-or-the-law",
+    "title": "Global Business",
+    "section": "Two remedies: the market or the law",
+    "text": "Two remedies: the market or the law\n\n\n\n\nGo to the market: political risk insurance\n\n\nThe firm pays a premium to transfer the risk to an insurer\n\n\nPublic (home-country agencies such as the U.S. DFC), multilateral (the World Bank’s MIGA), and private (Lloyd’s) providers\n\n\nCovers expropriation, currency inconvertibility, political violence, breach of contract — up to ~90% of losses\n\n\nExpensive, and private insurers underwrite less when/where risk rises\n\n\n\n\n\n\nGo to the law: investment treaties + ISDS\n\n\nHome and host states sign a treaty; the host commits to standards of treatment\n\n\nCovered investors can take the host state directly to international arbitration\n\n\nFor the firm, protection is free — supplied by its home state\n\n\nThe costs fall on host states: legal fees, awards, and constraints on future policy\n\n\n\n\n\n\nIf you were an investor, which would you rely on? How does your answer depend on your home country, host country, and industry?"
+  },
+  {
+    "objectID": "slides/day10-isds.html#the-bit-explosion",
+    "href": "slides/day10-isds.html#the-bit-explosion",
+    "title": "Global Business",
+    "section": "The BIT explosion",
+    "text": "The BIT explosion\n\n\n\n\n\n\n\nFirst BIT: Germany–Pakistan, 1959\nThe boom comes in the 1990s, as governments shift from restricting FDI to competing for it\nOver 2,800 signed, 2,240 in force (2022)\nTreaty-making has slowed: 44 new investment agreements in 2025, increasingly centered on facilitation rather than investor protection\nA BIT is a credible commitment: the host ties its own hands against the obsolescing bargain"
+  },
+  {
+    "objectID": "slides/day10-isds.html#what-a-bit-promises",
+    "href": "slides/day10-isds.html#what-a-bit-promises",
+    "title": "Global Business",
+    "section": "What a BIT promises",
+    "text": "What a BIT promises\n\n\n\n\n\nProvision\n\n\nWhat the host state commits to\n\n\n\n\n\n\nNational treatment & MFN\n\n\nTreat covered investors no worse than domestic firms or investors from any third country\n\n\n\n\nFair and equitable treatment (FET)\n\n\nDue process, non-arbitrary treatment, and protection of investors’ “legitimate expectations”\n\n\n\n\nExpropriation\n\n\nNo direct or indirect taking without a public purpose, non-discrimination, and compensation\n\n\n\n\nFree transfers\n\n\nLet investors move capital and profits in and out of the country\n\n\n\n\nNo performance requirements\n\n\nNo mandates to use local suppliers or export a share of output\n\n\n\n\nInvestor–state dispute settlement\n\n\nCovered investors may take the host directly to international arbitration\n\n\n\n\n\nEvery obligation runs to the state. BITs “focus on protection, treatment, and dispute settlement but do not seek to govern the conduct of companies” (Jones & Rahmani 2025)."
+  },
+  {
+    "objectID": "slides/day10-isds.html#how-isds-works",
+    "href": "slides/day10-isds.html#how-isds-works",
+    "title": "Global Business",
+    "section": "How ISDS works",
+    "text": "How ISDS works\n\n\n\n1 · InvestorA firm from home state A, covered by a treaty with host state B\n\n\n→\n\n\n2 · ClaimThe firm alleges that B breached the treaty — e.g., an indirect expropriation or an FET violation\n\n\n→\n\n\n3 · TribunalThree arbitrators: the investor appoints one, the state one, the third jointly. Often at ICSID (World Bank)\n\n\n→\n\n\n4 · AwardBinding; enforceable against state assets abroad; no appeal on the merits\n\n\n\n\nOne-way street. Host states cannot bring claims against investors under the treaty; they rely on their own courts.\n\n\nMore rights than domestic firms. A covered foreign investor can bypass the host’s courts entirely — a domestic competitor cannot."
+  },
+  {
+    "objectID": "slides/day10-isds.html#who-uses-isds",
+    "href": "slides/day10-isds.html#who-uses-isds",
+    "title": "Global Business",
+    "section": "Who uses ISDS?",
+    "text": "Who uses ISDS?\n\n\n\n\n\n\n\n\n\nExtraction and utilities file far more claims than their share of FDI predicts; manufacturing files far fewer. Claims concentrate where assets are sunk and immobile — the obsolescing bargain again. The pattern has intensified: extractive and energy activities account for 51% of new cases in 2024, against 33% over 1987–2023.\nSources: UNCTAD Investment Dispute Settlement Navigator; UNCTAD (2025), “Recent Trends in Investor–State Arbitration Cases”; Bauerle Danzman, from Wellhausen (2016) and UNCTAD (2017)"
+  },
+  {
+    "objectID": "slides/day10-isds.html#how-do-isds-cases-end",
+    "href": "slides/day10-isds.html#how-do-isds-cases-end",
+    "title": "Global Business",
+    "section": "How do ISDS cases end?",
+    "text": "How do ISDS cases end?\n\n\n\n\n\n\n\nStates win more often than investors, and a third of cases end without a ruling\nBut when tribunals reach the merits, investors usually win: 11 of 19 merits decisions in 2024 found the State liable\nThe stakes keep rising: average awards grew from $99M (1987–2014) to $234M (2015–2024); 60% of cases claim $100M or more\n\n\n\n\nSource: UNCTAD (2025), “Recent Trends in Investor–State Arbitration Cases,” IIA Issues Note"
+  },
+  {
+    "objectID": "slides/day10-isds.html#is-isds-legitimate",
+    "href": "slides/day10-isds.html#is-isds-legitimate",
+    "title": "Global Business",
+    "section": "Is ISDS legitimate?",
+    "text": "Is ISDS legitimate?\n\n\n\n\nThe case for\n\n\n\nReplaces gunboats with law. Disputes that once escalated between states go to a neutral forum.\n\n\nProtects investors from captured courts. Tribunals ordered Russia to compensate Yukos after finding the state used tax and criminal cases to destroy the company.\n\n\nMakes commitments credible, which should raise investment where rule of law is weak.\n\n\n\n\n\nThe case against\n\n\n\nRegulatory chill. Broad readings of FET and “legitimate expectations” deter public-interest regulation.\n\n\nPrivate judges. The same lawyers argue cases one day and sit as arbitrators the next.\n\n\nA shield for the accused. In 35+ of ~300 recent claims, the claimant was accused of crimes. Damac’s Egyptian corruption conviction was erased in an ISDS settlement.\n\n\n\n\nSources: Hamby (2016), “Inside the Global ‘Club’ That Helps Executives Escape Their Crimes,” BuzzFeed News; Day 11 case overview"
   },
   {
     "objectID": "slides/day10-isds.html#key-takeaways",
     "href": "slides/day10-isds.html#key-takeaways",
     "title": "Global Business",
     "section": "Key takeaways",
-    "text": "Key takeaways\n\nSunk, irreversible investment creates a hold-up problem; bargaining power shifts to the host after entry\nPRI and investment treaties/ISDS are the main remedies\nISDS trades investor protection against constraints on a state’s right to regulate"
+    "text": "Key takeaways\n\n\nSiemens reformed under pressure from enforcement — U.S. and German law with extraterritorial reach — and through a change in leadership that made a change in corporate culture possible\nAttempts at multilateral rules for MNEs failed because capital exporters sought investor rights while capital importers sought sovereignty and obligations on firms\nFirms manage expropriation risk through the market (political risk insurance) or the law (BITs and ISDS)\nThe result is an asymmetry: investors hold enforceable international rights; obligations on firms remain mostly national or voluntary"
   },
   {
     "objectID": "slides/day10-isds.html#looking-ahead",
     "href": "slides/day10-isds.html#looking-ahead",
     "title": "Global Business",
     "section": "Looking ahead",
-    "text": "Looking ahead\n\nWednesday (Day 11): Philip Morris Asia v. Australia — tobacco plain-packaging and the limits of ISDS"
+    "text": "Looking ahead\n\nWednesday (Day 11): Philip Morris Asia v. Australia.\n\nRead Hepburn & Nottage (2016); the case overview on the Day 11 page gives background on BITs, FET, and ISDS\nCome able to define BITs, fair and equitable treatment, indirect expropriation, and ISDS\nKeep in mind: when does public-health regulation become an expropriation?"
   },
   {
     "objectID": "slides/day10-isds.html#questions",
     "href": "slides/day10-isds.html#questions",
     "title": "Global Business",
     "section": "Questions?",
-    "text": "Questions?\n\nThanks!"
+    "text": "Questions?\n\nSee you Wednesday."
   },
   {
     "objectID": "slides/day06-political-risk.html#todays-plan",
@@ -1299,7 +1425,7 @@
     "href": "content/day09.html#materials-for-today",
     "title": "Day 9 — Fighting Corruption at Siemens",
     "section": "Materials for today",
-    "text": "Materials for today\n\nFighting Corruption at Siemens © (intro, corruption & early responses)"
+    "text": "Materials for today\n\nFighting Corruption at Siemens ©"
   },
   {
     "objectID": "content/day09.html#in-class",
