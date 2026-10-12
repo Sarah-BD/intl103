@@ -1873,77 +1873,126 @@
     "href": "slides/day14-tax.html#todays-plan",
     "title": "Global Business",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nMost corporate tax avoidance is perfectly legal. So why is it a problem — and can governments cooperate to stop a race to the bottom?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · The shift\n\n\nFrom double taxation to double non-taxation\n\n\n\n\n2 · The mechanics\n\n\nBEPS, tax havens, and the Double Irish\n\n\n\n\n3 · Why it matters\n\n\nWho bears the cost when MNEs don’t pay\n\n\n\n\n4 · Solutions\n\n\nUnitary taxation and the global minimum tax"
+    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nMost corporate tax avoidance is perfectly legal. So why is it a problem — and can governments cooperate to stop a race to the bottom?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · From investment rules to tax rules\n\n\nThe century-old rules of international taxation, and why globalization broke them\n\n\n\n\n2 · How profit shifting works\n\n\nWhere profits are booked, how firms move them, and a walk through the Double Irish Dutch Sandwich\n\n\n\n\n3 · Why governments cut taxes\n\n\nTax competition as a prisoner’s dilemma — we solve the game together\n\n\n\n\n4 · BEPS and the global minimum tax\n\n\nHow the 15% minimum tax works, and what has happened to it since 2024"
   },
   {
-    "objectID": "slides/day14-tax.html#two-eras-of-the-problem",
-    "href": "slides/day14-tax.html#two-eras-of-the-problem",
+    "objectID": "slides/day14-tax.html#two-treaty-webs",
+    "href": "slides/day14-tax.html#two-treaty-webs",
     "title": "Global Business",
-    "section": "Two eras of the problem",
-    "text": "Two eras of the problem\n\n\n\nThe old worry was double taxation — income taxed twice\nToday’s worry is double non-taxation — profit taxed nowhere\nTax is most effective when automatically withheld; that’s why wage earners can’t dodge it as easily as mobile capital can"
+    "section": "Two treaty webs",
+    "text": "Two treaty webs\n\n\n\n\nBilateral investment treaties\n\n\n\n\n\nBilateral tax treaties\n\n\n\n\n\nSame architecture: bilateral, written by capital exporters, protecting investors from host states — against expropriation (BITs) or double taxation (tax treaties).\n\n\nThe draft UN Code (1986, never adopted) already asked firms not to set internal prices “to shift the tax base.” What happens when the problem is double non-taxation?\nSources: Day 10 (BITs); Arel-Bundock (2017), Fig. 1; Jones & Rahmani (2025), Exhibit 2"
   },
   {
-    "objectID": "slides/day14-tax.html#the-size-of-the-problem",
-    "href": "slides/day14-tax.html#the-size-of-the-problem",
+    "objectID": "slides/day14-tax.html#the-three-pillars-of-international-taxation",
+    "href": "slides/day14-tax.html#the-three-pillars-of-international-taxation",
     "title": "Global Business",
-    "section": "The size of the problem",
-    "text": "The size of the problem\n\n\n\nEstimated $500–600 billion/year in corporate tax losses\nMostly legal: the arms-length, separate-entity system enables Base Erosion and Profit Shifting (BEPS) through transfer pricing"
+    "section": "The three pillars of international taxation",
+    "text": "The three pillars of international taxation\n\n\n\nSource: Zucman (2014), Fig. 1\n\nFor half a century, foreign profits were ~5% of U.S. corporate profits — the 1920s rules barely mattered. Today they are about one-third.\n\n\n\n\n\n1920s, League of Nations: four economists are asked how to avoid double taxation.\n\n\n1 · Source-based taxation. Profit is taxed where it is earned: Brazil taxes “Coffee Rio.”Loophole: make profit appear to be earned where taxes are zero.\n\n\n2 · Arm’s-length pricing. Affiliates price trades with each other as if they were unrelated firms.Loophole: transfer mispricing — and many internal assets have no market price.\n\n\n3 · Bilateral, not multilateral. Thousands of treaties; trade has had the GATT since 1947, tax has no equivalent.Loophole: treaty shopping across inconsistent rules."
   },
   {
-    "objectID": "slides/day14-tax.html#tax-havens-facilitate-beps",
-    "href": "slides/day14-tax.html#tax-havens-facilitate-beps",
+    "objectID": "slides/day14-tax.html#where-u.s.-firms-book-their-foreign-profits",
+    "href": "slides/day14-tax.html#where-u.s.-firms-book-their-foreign-profits",
     "title": "Global Business",
-    "section": "Tax havens facilitate BEPS",
-    "text": "Tax havens facilitate BEPS\n\nTax haven: low/no corporate tax, easy incorporation, limited public disclosure\nNo single list or definition — many are small island nations; within the U.S., Delaware often plays a similar role"
+    "section": "Where U.S. firms book their foreign profits",
+    "text": "Where U.S. firms book their foreign profits\n\n\n\n\n\n\nSource: Zucman (2014), Figs. 2–3\n\n\n\n55% of U.S. firms’ foreign profits (~$650B, 2013) are booked in six places: the Netherlands, Bermuda, Luxembourg, Ireland, Singapore, Switzerland\n\n\n\nTaxes paid there: about 3% (BEA data; Microsoft’s 2014 10-K implies at most 3.1%)\n\n\n\n\nHavens now hold ~18% of all U.S. corporate profits — a tenfold rise since the 1980s"
   },
   {
-    "objectID": "slides/day14-tax.html#race-to-the-bottom",
-    "href": "slides/day14-tax.html#race-to-the-bottom",
+    "objectID": "slides/day14-tax.html#how-do-you-move-profit-on-paper",
+    "href": "slides/day14-tax.html#how-do-you-move-profit-on-paper",
     "title": "Global Business",
-    "section": "Race to the bottom",
-    "text": "Race to the bottom\n\nCapital mobility makes tax competition consequential: each country has an incentive to undercut the others."
+    "section": "How do you move profit on paper?",
+    "text": "How do you move profit on paper?\n\n\n\nTreaty shoppingLocate affiliates to exploit inconsistencies across thousands of bilateral treaties.\n\n\nTransfer mispricing“Coffee Rio” overcharges its U.S. parent so profit appears in Brazil (25%), not the U.S. (35%). U.S. firms export to low-tax affiliates at low prices and import from them at high prices (Clausing 2003).\n\n\nIntangibles with no market priceWhat were Google’s algorithms worth in 2003, before its IPO? Patents, logos, and code are rarely sold between unrelated firms, so there is no arm’s-length price to check against.\n\n\nIntragroup loansA low-tax affiliate lends to a high-tax affiliate; interest payments are deducted where taxes are high and booked where they are low.\n\n\n\nAlmost all of this is tax avoidance (legal), not tax evasion (illegal). It is also costly: General Electric’s tax department employed close to 1,000 people.\nSource: Zucman (2014), pp. 124–127"
   },
   {
     "objectID": "slides/day14-tax.html#the-double-irish-dutch-sandwich",
     "href": "slides/day14-tax.html#the-double-irish-dutch-sandwich",
     "title": "Global Business",
     "section": "The Double Irish Dutch Sandwich",
-    "text": "The Double Irish Dutch Sandwich\nA classic structure: the corporate parent books licensing revenue in a low-tax Irish entity, routes payments through a Dutch conduit to exploit tax treaties, and sells into Europe/MENA from there — leaving very little taxable profit anywhere."
+    "text": "The Double Irish Dutch Sandwich\n\n\n\n     Google Inc.United States · R&DU.S. rate: 35% Google Ireland Ltd.Ireland · sales and staffIrish rate: 12.5% Google Ireland HoldingsIrish firm, “managed” in BermudaBermuda rate: 0% Google B.V.Netherlands · shell, no staffDutch conduit EMEA advertisersEurope, Middle East & Africa revenue 3 IP rightssold cheaply(2003) 1 license sublicense 2 royalties,0% tax(within EU) 4 direct route:20% withholding royalties, 0% 5 U.S. “check the box”: the IRS treats IrelandLtd. and B.V. as branches of Holdings, so U.S.anti-avoidance rules never apply. U.S. tax isdue only if profits come home. 6 \n\n\n\n\n\nGoogle earns most of its non-U.S. profit selling advertising in Europe. Follow the money: where does that profit end up being taxed?\n\n\n1Google Inc. transfers its search and ad technology to Google Ireland Holdings in 2003, months before its IPO, at what turned out to be a low price. Holdings shares R&D costs; all licensing income is booked here.\n\n\n2Holdings licenses the technology to a Dutch shell, Google B.V., which sublicenses it to Google Ireland Ltd. — to use Dutch tax treaties.\n\n\n3Ireland Ltd. sells advertising across Europe, the Middle East, and Africa; Google France pays Ireland for the right to use the technology. Profits are now taxable in Ireland at 12.5%.\n\n\n4Ireland Ltd. pays royalties to the Dutch B.V. Royalties are deductible, so Irish taxable profit nearly vanishes. No withholding tax applies to payments within the EU.\n\n\n5The B.V. passes the royalties to Holdings. The Netherlands levies no withholding tax — to the Dutch, Holdings is Irish. Paying Bermuda directly would have triggered Irish withholding tax: hence the Dutch “sandwich.”\n\n\n6U.S. “controlled foreign corporation” rules should tax these royalties at once. One form (IRS 8832) makes Ireland Ltd. and the B.V. disappear for U.S. purposes; U.S. tax (35%) is owed only if profits are repatriated.\n\n\nResult: “stateless income.” Google’s effective tax rate on foreign profits: 2–8%. In 2017 alone, €19.9 billion passed through the Dutch B.V. to Bermuda.\n\n\nSources: Zucman (2014), pp. 124–126; diagram adapted from Arel-Bundock (2017), Fig. 3; Dutch filings via CNBC (2019)"
   },
   {
-    "objectID": "slides/day14-tax.html#why-tax-avoidance-is-a-problem",
-    "href": "slides/day14-tax.html#why-tax-avoidance-is-a-problem",
+    "objectID": "slides/day14-tax.html#stateless-income",
+    "href": "slides/day14-tax.html#stateless-income",
     "title": "Global Business",
-    "section": "Why tax avoidance is a problem",
-    "text": "Why tax avoidance is a problem\n\n\n\nPremise: taxes pay for public goods — infrastructure, security, a healthy and educated workforce\nIt shifts the burden: labor vs. capital, and MNEs vs. small business"
+    "section": "Stateless income",
+    "text": "Stateless income\n\n\n\n\n\nTax authority\n\n\nWhat it sees\n\n\n\n\n\n\nUnited States (IRS)\n\n\nIreland Ltd. and the B.V. do not exist; Holdings is an Irish company. No U.S. tax until profits are repatriated.\n\n\n\n\nIreland\n\n\nHoldings is Bermudian (“mind and management” in Bermuda), so it is not taxable in Ireland. Ireland Ltd.’s royalties are deductible.\n\n\n\n\nNetherlands\n\n\nHoldings is Irish, so royalties pass on to it without withholding tax.\n\n\n\n\nFrance, Germany…\n\n\nGoogle sells there, but its profit appears in Ireland.\n\n\n\n\n\n\n“Playing tax treaties against each other… Google thus generates stateless income, nowhere taxed in the year it is generated.”Zucman (2014), p. 126\n\n\n\nIreland decided in 2014 to phase out the Double Irish; Google ended it at the close of 2019. The structure was legal throughout.\nSources: Zucman (2014); CNBC, “Google to end ‘Double Irish, Dutch sandwich’ tax scheme” (Dec. 31, 2019)"
   },
   {
-    "objectID": "slides/day14-tax.html#potential-solutions",
-    "href": "slides/day14-tax.html#potential-solutions",
+    "objectID": "slides/day14-tax.html#who-pays",
+    "href": "slides/day14-tax.html#who-pays",
     "title": "Global Business",
-    "section": "Potential solutions",
-    "text": "Potential solutions\n\nShift from arms-length/separate-entity to a unitary tax with formulary apportionment (and the worldwide-vs-territorial debate)\nThe OECD global minimum tax (15%) aims to turn tax competition from a prisoner’s dilemma into a stag hunt — but only if enforcement is incentive-compatible so governments don’t cheat by undercutting"
+    "section": "Who pays?",
+    "text": "Who pays?\n\n\n\nSource: Zucman (2014), Fig. 5\n\n\n\n1998–2013: the effective tax rate of U.S. firms fell from 30% to 20% — about $200B a year; at least two-thirds of the decline is profit shifting\n\n\n\nWorldwide, corporate tax losses are estimated at $500–600B a year (UNU-WIDER)\n\n\n\n\nWinners: shareholders, and equity ownership is highly concentrated\nLosers: governments that fund public goods, and those who make up the difference — labor relative to capital, small firms relative to MNEs"
   },
   {
-    "objectID": "slides/day14-tax.html#where-it-stands-now-2026",
-    "href": "slides/day14-tax.html#where-it-stands-now-2026",
+    "objectID": "slides/day14-tax.html#a-race-to-the-bottom",
+    "href": "slides/day14-tax.html#a-race-to-the-bottom",
     "title": "Global Business",
-    "section": "Where it stands now (2026)",
-    "text": "Where it stands now (2026)\n\nThe OECD/G20 Pillar Two 15% minimum tax entered into force across many jurisdictions in 2024–25 (with a shifting U.S. posture)\nIn September 2024, the EU Court of Justice ruled against Apple and Ireland — Apple owed roughly €13 billion in back taxes (the reverse of the earlier General Court decision)"
+    "section": "A race to the bottom",
+    "text": "A race to the bottom\n\n\n\nSource: OECD, via Reuters\n\n\nOECD average statutory rate: ~42% → ~21% in four decades. Ireland: 12.5% from 2003.\n\nThe puzzle: profit shifting costs governments revenue. Why, then, do governments keep lowering their own rates — and offering individual firms special deals?\n\n\n\n\nPart of the decline in corporate tax rates may be efficient (perhaps corporations were taxed too highly previously), but the decline likely overshoots the optimal tax rate."
+  },
+  {
+    "objectID": "slides/day14-tax.html#the-tax-competition-game",
+    "href": "slides/day14-tax.html#the-tax-competition-game",
+    "title": "Global Business",
+    "section": "The tax-competition game",
+    "text": "The tax-competition game\n\n\n\n\n\n\nPayoffs: (A, B)\n\n\nB holds its rate (25%)\n\n\nB cuts its rate (12.5%)\n\n\n\n\n\n\nA holds its rate (25%)\n\n\n(3, 3)Revenue protected; investment stays put\n\n\n(1, 4)B draws profit and investment away from A\n\n\n\n\nA cuts its rate (12.5%)\n\n\n(4, 1)A draws profit and investment away from B\n\n\n(2, 2)No one gains investment; both lose revenue\n\n\n\n\n\n\n\n\nPlayers: two governments, A and B, competing for mobile profit and investment.\n\n\nStrategies: hold the corporate rate, or cut it.\n\n\nPayoffs: each government’s ranking of outcomes, 4 = best, 1 = worst. A’s payoff is listed first.\n\n\n\nYour turn: what should A do? What should B do? Where do they end up?"
+  },
+  {
+    "objectID": "slides/day14-tax.html#solving-the-game",
+    "href": "slides/day14-tax.html#solving-the-game",
+    "title": "Global Business",
+    "section": "Solving the game",
+    "text": "Solving the game\n\n\n\n\n\n\nPayoffs: (A, B)\n\n\nB holds\n\n\nB cuts\n\n\n\n\n\n\nA holds\n\n\n(3, 3)\n\n\n(1, 4)\n\n\n\n\nA cuts\n\n\n(4, 1)\n\n\n(2, 2)\n\n\n\n\n\n\n\n\nIf B holds, A gets 3 by holding and 4 by cutting → cut.\n\n\nIf B cuts, A gets 1 by holding and 2 by cutting → cut. Cutting is A’s dominant strategy: best whatever B does.\n\n\nB faces the same choice: cutting is dominant for B too.\n\n\nNash equilibrium: (Cut, Cut) = (2, 2). Neither government gains by switching alone.\n\n\nBoth prefer (Hold, Hold) = (3, 3). The equilibrium is Pareto-inferior: a prisoner’s dilemma.\n\n\n\n\n\nEven if A and B promise to hold their rates, each gains by cheating on the promise. Without enforcement, an agreement is cheap talk."
+  },
+  {
+    "objectID": "slides/day14-tax.html#getting-out-of-the-dilemma",
+    "href": "slides/day14-tax.html#getting-out-of-the-dilemma",
+    "title": "Global Business",
+    "section": "Getting out of the dilemma",
+    "text": "Getting out of the dilemma\n\n\n\nChange the payoffs of cheatingSanction the defector. FATCA (2010) threatened a 30% withholding tax on U.S.-source income; Swiss, Singaporean, and Luxembourg banks agreed to report U.S. accounts.\n\n\nLet a large state act aloneZucman: the U.S. could reform its corporate tax with “little to no international cooperation” — or, with the EU, impose tariffs on havens that refuse to cooperate.\n\n\nBring everyone inA multilateral rule binds all players at once, rather than through thousands of bilateral bargains.\n\n\nBeware the holdouts“The more havens agree to cooperate, the bigger the incentives for the remaining ones not to do so.” When Switzerland shares data with France, French evaders move to Hong Kong.\n\n\n\nWhich of these does the OECD’s global minimum tax use?\nSource: Zucman (2014), pp. 136, 142–145"
+  },
+  {
+    "objectID": "slides/day14-tax.html#from-beps-to-a-global-minimum-tax",
+    "href": "slides/day14-tax.html#from-beps-to-a-global-minimum-tax",
+    "title": "Global Business",
+    "section": "From BEPS to a global minimum tax",
+    "text": "From BEPS to a global minimum tax\n\n\n\n\n2013–15\n\n\n\n\n\nBEPS (base erosion and profit shifting) Action Plan. 15 actions, incl. country-by-country reporting and anti-treaty-shopping rules.\n\n\n\n\n2016\n\n\n\n\n\nInclusive Framework. Non-OECD countries join as equals; now about 147 members.\n\n\n\n\nOct 2021\n\n\n\n\n\nTwo-pillar deal (136 jurisdictions). Pillar One: taxing rights for market countries. Pillar Two: a 15% minimum tax.\n\n\n\n\n2024\n\n\n\n\n\nPillar Two takes effect in the EU, UK, Japan, Korea, and others. Pillar One stalls.\n\n\n\n\n2025\n\n\n\n\n\nThe U.S. exits (Jan.). After threats of retaliatory taxes, the G7 accepts a “side-by-side” system (June).\n\n\n\n\nJan 2026\n\n\n\n\n\nSide-by-side package. U.S.-parented groups exempted from key Pillar Two rules.\n\n\n\n\nCooperationDefectionAccommodation\n\n\nBEPS fits Zucman’s first class of reform: harmonize the rules, keep source-based taxation and arm’s-length pricing. Pillar Two adds a floor.\nSources: Zucman (2014), p. 134; OECD; Saint-Amans (2026), Bruegel; Conference Board (2026)"
+  },
+  {
+    "objectID": "slides/day14-tax.html#how-the-minimum-tax-works",
+    "href": "slides/day14-tax.html#how-the-minimum-tax-works",
+    "title": "Global Business",
+    "section": "How the minimum tax works",
+    "text": "How the minimum tax works\n\n\n\n1 · ScopeMultinational groups with revenue of €750M+\n\n\n→\n\n\n2 · MeasureThe effective tax rate, country by country: taxes paid ÷ profit booked there\n\n\n→\n\n\n3 · Top upIf the rate is below 15%, a top-up tax makes up the difference (minus a carve-out for real payroll and assets)\n\n\n→\n\n\n4 · Collect1st: the low-tax country itself2nd: the parent firm’s home country3rd: any other country where the firm operates\n\n\n\n\nExample: a subsidiary in “Lowtaxia” books €100M of profit and pays €5M in tax. Its effective rate is 5%, so the top-up is 10% × €100M = €10M (before the carve-out). If Lowtaxia does not collect it, the parent’s government will; if the parent’s government does not, other governments will.\n\n\n\nThe firm pays 15% either way. The only question is which government gets the money — so Lowtaxia’s best response is to collect the top-up itself."
+  },
+  {
+    "objectID": "slides/day14-tax.html#the-minimum-tax-changes-the-payoffs",
+    "href": "slides/day14-tax.html#the-minimum-tax-changes-the-payoffs",
+    "title": "Global Business",
+    "section": "The minimum tax changes the payoffs",
+    "text": "The minimum tax changes the payoffs\n\n\n\n\n\n\nPayoffs: (A, B)\n\n\nB keeps ≥15%\n\n\nB cuts below 15%\n\n\n\n\n\n\nA keeps ≥15%\n\n\n(3, 3)\n\n\n(4, 1)A collects B’s top-up\n\n\n\n\nA cuts below 15%\n\n\n(1, 4)B collects A’s top-up\n\n\n(2, 2)\n\n\n\n\n\n\n\n\nCutting below 15% no longer attracts profit: the top-up is collected anyway, by someone else.\n\n\nSolve it: keeping ≥15% is now the dominant strategy for both.\n\n\nThe equilibrium is the cooperative outcome. Enforcement is built in: a government that cheats only hands revenue to others.\n\n\n\nBut: it is a floor at 15%, not 25%. Above the floor the dilemma remains — and competition can shift from rates to subsidies and credits."
+  },
+  {
+    "objectID": "slides/day14-tax.html#the-minimum-tax-in-practice",
+    "href": "slides/day14-tax.html#the-minimum-tax-in-practice",
+    "title": "Global Business",
+    "section": "The minimum tax in practice",
+    "text": "The minimum tax in practice\n\n\n\nIt raises moneyFirst year (2024): $90–124B, 2.4–3.4% of global corporate tax revenue — below the $155–192B forecast. Little evidence of lost investment or jobs. 60+ jurisdictions have implemented it.\n\n\nThe U.S. holeFrom 2026, U.S.-headquartered firms are exempt from the 2nd and 3rd collection steps; low-tax countries can still collect the top-up themselves. The U.S. applies its own 14% minimum, averaged across countries. Review by 2029.\n\n\nNew room to competeA new safe harbor protects “substance-based” tax incentives. The OECD’s revised estimate: $91–155B a year. Without the backstop, low-tax states can again court U.S. firms.\n\n\nA rival forumUN Framework Convention on International Tax Cooperation: majority voting, led by developing countries. The U.S. walked out (Feb 2025). Next session: Nairobi, Nov 30–Dec 10, 2026; target: end-2027.\n\n\n\nDid the United States defect? Is a floor with a hole in it still a floor?\nSources: OECD (July 2026) via Bloomberg Tax; OECD side-by-side package (Jan. 5, 2026); Saint-Amans (2026), Bruegel; Eurodad (2025); Tax Justice Network (Sept. 2026)"
   },
   {
     "objectID": "slides/day14-tax.html#key-takeaways",
     "href": "slides/day14-tax.html#key-takeaways",
     "title": "Global Business",
     "section": "Key takeaways",
-    "text": "Key takeaways\n\nMost avoidance is legal, enabled by the arms-length system and tax havens\nIt’s a collective-action problem — a race to the bottom that cooperation could solve\nThe minimum tax is the first serious attempt to change the game; enforcement is the open question"
+    "text": "Key takeaways\n\n\nInternational tax rests on 1920s rules — source-based taxation, arm’s-length pricing, bilateral treaties — built to prevent double taxation; globalization turned them into channels for double non-taxation\nProfit shifting is mostly legal: treaty shopping, transfer pricing, and hybrid structures like the Double Irish Dutch Sandwich generate stateless income\nTax competition is a prisoner’s dilemma: cutting is each government’s dominant strategy, so all end up worse off\nThe 15% minimum tax changes the payoffs so cheating hands revenue to others — but the U.S. exemption reopens room to compete"
   },
   {
     "objectID": "slides/day14-tax.html#looking-ahead",
     "href": "slides/day14-tax.html#looking-ahead",
     "title": "Global Business",
     "section": "Looking ahead",
-    "text": "Looking ahead\n\nWednesday (Day 15): the Apple–Ireland case — sovereignty, state aid, and corporate power"
+    "text": "Looking ahead\n\nWednesday (Day 15): Apple Must Pay 13 Billion Euros to Ireland in Back Taxes.\n\nRead the INSEAD case (Bennedsen, Henry & Stabile)\nCome able to define transfer pricing, arm’s-length vs. formulary apportionment, state aid, and the global minimum tax\nKeep in mind: why would Ireland fight to refuse €13 billion?"
   },
   {
     "objectID": "slides/day14-tax.html#questions",

@@ -30,7 +30,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-e21e1d2ee2e1f13e4424fafcef71adce.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-eaa209b27ece990b2b332e7823ee889f.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -143,7 +143,7 @@ Prof.&nbsp;Sarah Bauerle Danzman
 </section>
 <section id="todays-plan" class="slide level2">
 <h2>Today’s Plan</h2>
-<div title="Today's Big Question">
+<div class="bq-lg" title="Today's Big Question">
 <div class="callout callout-important no-icon callout-titled callout-style-default">
 <div class="callout-body">
 <div class="callout-title">
@@ -169,139 +169,690 @@ What we’ll cover
 <tbody>
 <tr>
 <td class="sec">
-1 · The shift
+1 · From investment rules to tax rules
 </td>
 <td>
-From double taxation to double <em>non</em>-taxation
+The century-old rules of international taxation, and why globalization broke them
 </td>
 </tr>
 <tr>
 <td class="sec">
-2 · The mechanics
+2 · How profit shifting works
 </td>
 <td>
-BEPS, tax havens, and the Double Irish
+Where profits are booked, how firms move them, and a walk through the Double Irish Dutch Sandwich
 </td>
 </tr>
 <tr>
 <td class="sec">
-3 · Why it matters
+3 · Why governments cut taxes
 </td>
 <td>
-Who bears the cost when MNEs don’t pay
+Tax competition as a prisoner’s dilemma — we solve the game together
 </td>
 </tr>
 <tr>
 <td class="sec">
-4 · Solutions
+4 · BEPS and the global minimum tax
 </td>
 <td>
-Unitary taxation and the global minimum tax
+How the 15% minimum tax works, and what has happened to it since 2024
 </td>
 </tr>
 </tbody>
 </table>
 </section>
 <section>
-<section id="from-double-to-double-non" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>From double to double-non</h1>
+<section id="from-investment-rules-to-tax-rules" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>From investment rules to tax rules</h1>
 
 </section>
-<section id="two-eras-of-the-problem" class="slide level2">
-<h2>Two eras of the problem</h2>
-<div class="columns">
-<div class="column" style="width:54%;">
-<ul>
-<li>The old worry was <strong>double taxation</strong> — income taxed twice</li>
-<li>Today’s worry is <strong>double <em>non</em>-taxation</strong> — profit taxed nowhere</li>
-<li>Tax is most effective when <strong>automatically withheld</strong>; that’s why wage earners can’t dodge it as easily as mobile capital can</li>
-</ul>
-</div><div class="column" style="width:46%;">
-<p><img data-src="img/day14/s02_1.png" style="width:100.0%" alt="Double taxation diagram"></p>
-</div></div>
+<section id="two-treaty-webs" class="slide level2">
+<h2>Two treaty webs</h2>
+<div class="d10-fill">
+<div style="display:flex; flex-direction:row; align-items:center; justify-content:center; gap:2rem;">
+<div style="flex:1; text-align:center;">
+<div class="d10-colhead">
+Bilateral investment treaties
+</div>
+<p><img data-src="img/day14/bits-1959-2014.png" class="fig" alt="Bilateral investment treaties signed per year and cumulatively, 1959-2014: roughly 2,900 signed by 2014" height="370"></p>
+</div>
+<div style="flex:1; text-align:center;">
+<div class="d10-colhead">
+Bilateral tax treaties
+</div>
+<p><img data-src="img/day14/s02_1.png" class="fig" alt="Cumulative number of bilateral tax treaties signed worldwide, rising from near zero in the 1950s to almost 3,000 by 2012" height="370"></p>
+</div>
+</div>
+<div class="fragment">
+<p>Same architecture: <strong>bilateral</strong>, written by <strong>capital exporters</strong>, protecting <strong>investors</strong> from host states — against expropriation (BITs) or double taxation (tax treaties).</p>
+</div>
+<div class="fragment">
+<p>The draft UN Code (1986, never adopted) already asked firms not to set internal prices “to shift the tax base.” <strong>What happens when the problem is double <em>non</em>-taxation?</strong></p>
+<p><span class="cite">Sources: Day 10 (BITs); Arel-Bundock (2017), Fig. 1; Jones &amp; Rahmani (2025), Exhibit 2</span></p>
+</div>
+</div>
 </section>
-<section id="the-size-of-the-problem" class="slide level2">
-<h2>The size of the problem</h2>
-<div class="columns">
-<div class="column" style="width:52%;">
-<ul>
-<li>Estimated <strong>$500–600 billion/year</strong> in corporate tax losses</li>
-<li><strong>Mostly legal:</strong> the arms-length, separate-entity system enables <strong>Base Erosion and Profit Shifting (BEPS)</strong> through transfer pricing</li>
-</ul>
-</div><div class="column" style="width:48%;">
-<p><img data-src="img/day14/s04_1.jpg" style="width:100.0%" alt="The scale of corporate tax avoidance"></p>
-</div></div>
+<section id="the-three-pillars-of-international-taxation" class="slide level2">
+<h2>The three pillars of international taxation</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem; min-height:690px;">
+<div style="flex:0 0 46%; text-align:center;">
+<p><img data-src="img/day14/zucman-fig1-foreign-share.png" class="fig" alt="Zucman Figure 1: share of profits made abroad in US corporate profits, about 4 percent in the 1930s-1960s, rising to about 33 percent in 2010-13" height="430"></p>
+<p><span class="cite">Source: Zucman (2014), Fig. 1</span></p>
+<div class="fragment" data-fragment-index="4">
+<p>For half a century, foreign profits were ~5% of U.S. corporate profits — the 1920s rules barely mattered. Today they are about <strong>one-third</strong>.</p>
+</div>
+</div>
+<div style="flex:1;">
+<div class="card-col">
+<div class="info-card info-card-lg">
+<strong>1920s, League of Nations:</strong> four economists are asked how to avoid <em>double taxation</em>.
+</div>
+<div class="info-card info-card-lg fragment" data-fragment-index="1">
+<strong>1 · Source-based taxation.</strong> Profit is taxed where it is earned: Brazil taxes “Coffee Rio.”<br><em>Loophole: make profit appear to be earned where taxes are zero.</em>
+</div>
+<div class="info-card info-card-lg fragment" data-fragment-index="2">
+<strong>2 · Arm’s-length pricing.</strong> Affiliates price trades with each other as if they were unrelated firms.<br><em>Loophole: transfer mispricing — and many internal assets have no market price.</em>
+</div>
+<div class="info-card info-card-lg fragment" data-fragment-index="3">
+<strong>3 · Bilateral, not multilateral.</strong> Thousands of treaties; trade has had the GATT since 1947, tax has no equivalent.<br><em>Loophole: treaty shopping across inconsistent rules.</em>
+</div>
+</div>
+</div>
+</div>
 </section></section>
 <section>
-<section id="the-mechanics" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>The mechanics</h1>
+<section id="how-profit-shifting-works" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>How profit shifting works</h1>
 
 </section>
-<section id="tax-havens-facilitate-beps" class="slide level2">
-<h2>Tax havens facilitate BEPS</h2>
+<section id="where-u.s.-firms-book-their-foreign-profits" class="slide level2">
+<h2>Where U.S. firms book their foreign profits</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem; min-height:690px;">
+<div style="flex:1; text-align:center;">
+<div class="r-stack">
+<p><img data-src="img/day14/zucman-fig2-haven-share-foreign.png" class="fig" alt="Zucman Figure 2: share of tax havens in US corporate profits made abroad, 1982-2013, rising from about 20 percent to over 50 percent; the Netherlands, Luxembourg, Bermuda and other Caribbean, Switzerland, Singapore and Ireland" height="600"></p>
+<p><img data-src="img/day14/zucman-fig3-haven-share-total.png" class="fig fragment" style="background:#fff;" data-fragment-index="2" alt="Zucman Figure 3: share of tax havens in total US corporate profits, rising from about 2 percent in 1984 to about 18 percent in 2013" height="600"></p>
+</div>
+<p><span class="cite">Source: Zucman (2014), Figs. 2–3</span></p>
+</div>
+<div class="d10-lg" style="flex:0 0 33%;">
 <ul>
-<li><strong>Tax haven:</strong> low/no corporate tax, easy incorporation, limited public disclosure</li>
-<li>No single list or definition — many are small island nations; within the U.S., <strong>Delaware</strong> often plays a similar role</li>
+<li><strong>55%</strong> of U.S. firms’ foreign profits (~$650B, 2013) are booked in six places: the Netherlands, Bermuda, Luxembourg, Ireland, Singapore, Switzerland</li>
 </ul>
+<div class="fragment" data-fragment-index="1">
+<ul>
+<li>Taxes paid there: about <strong>3%</strong> (BEA data; Microsoft’s 2014 10-K implies at most 3.1%)</li>
+</ul>
+</div>
+<div class="fragment" data-fragment-index="2">
+<ul>
+<li>Havens now hold <strong>~18% of <em>all</em> U.S. corporate profits</strong> — a tenfold rise since the 1980s</li>
+</ul>
+</div>
+</div>
+</div>
 </section>
-<section id="race-to-the-bottom" class="slide level2">
-<h2>Race to the bottom</h2>
-<p><img data-src="img/day14/s06_1.png" style="width:64.0%" alt="Declining corporate tax rates — a race to the bottom"></p>
-<p>Capital mobility makes <strong>tax competition</strong> consequential: each country has an incentive to undercut the others.</p>
+<section id="how-do-you-move-profit-on-paper" class="slide level2">
+<h2>How do you move profit on paper?</h2>
+<div class="d10-fill" style="font-size:1.08em;">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
+<div class="info-card info-card-lg">
+<strong>Treaty shopping</strong><br>Locate affiliates to exploit inconsistencies across thousands of bilateral treaties.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Transfer mispricing</strong><br>“Coffee Rio” overcharges its U.S. parent so profit appears in Brazil (25%), not the U.S. (35%). U.S. firms export to low-tax affiliates at low prices and import from them at high prices (Clausing 2003).
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Intangibles with no market price</strong><br>What were Google’s algorithms worth in 2003, before its IPO? Patents, logos, and code are rarely sold between unrelated firms, so there is no arm’s-length price to check against.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Intragroup loans</strong><br>A low-tax affiliate lends to a high-tax affiliate; interest payments are deducted where taxes are high and booked where they are low.
+</div>
+</div>
+<div class="fragment">
+<p>Almost all of this is <strong>tax avoidance</strong> (legal), not <strong>tax evasion</strong> (illegal). It is also costly: General Electric’s tax department employed close to <strong>1,000 people</strong>.</p>
+<p><span class="cite">Source: Zucman (2014), pp.&nbsp;124–127</span></p>
+</div>
+</div>
 </section>
 <section id="the-double-irish-dutch-sandwich" class="slide level2">
 <h2>The Double Irish Dutch Sandwich</h2>
-<p>A classic structure: the <strong>corporate parent</strong> books licensing revenue in a low-tax Irish entity, routes payments through a <strong>Dutch</strong> conduit to exploit tax treaties, and sells into Europe/MENA from there — leaving very little taxable profit anywhere.</p>
+<div style="display:flex; flex-direction:row; align-items:center; gap:1.5rem; min-height:700px;">
+<div style="flex:0 0 68%;">
+<svg class="dids" viewbox="0 0 1000 705" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Google's Double Irish Dutch Sandwich structure: Google Inc. in the U.S. transfers IP to Google Ireland Holdings (managed in Bermuda), which licenses it through a Dutch B.V. to Google Ireland Ltd.; royalties flow back from Ireland Ltd. through the Netherlands to Holdings, avoiding Irish withholding tax.">
+<defs> <marker id="ah-cash" viewbox="0 0 10 10" refx="8" refy="5" markerwidth="5" markerheight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#990000"></path></marker> <marker id="ah-lic" viewbox="0 0 10 10" refx="8" refy="5" markerwidth="5" markerheight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#535054"></path></marker> <marker id="ah-blk" viewbox="0 0 10 10" refx="8" refy="5" markerwidth="5" markerheight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5651d"></path></marker> </defs> <g class="node"><rect x="5" y="160" width="380" height="122" rx="10"></rect><text class="nm" x="195" y="202" text-anchor="middle">Google Inc.</text><text class="sub" x="195" y="234" text-anchor="middle">United States · R&amp;D</text><text class="rate" x="195" y="266" text-anchor="middle">U.S. rate: 35%</text></g> <g class="node"><rect x="615" y="160" width="380" height="122" rx="10"></rect><text class="nm" x="805" y="202" text-anchor="middle">Google Ireland Ltd.</text><text class="sub" x="805" y="234" text-anchor="middle">Ireland · sales and staff</text><text class="rate" x="805" y="266" text-anchor="middle">Irish rate: 12.5%</text></g> <g class="node"><rect x="5" y="545" width="380" height="132" rx="10"></rect><text class="nm" x="195" y="588" text-anchor="middle">Google Ireland Holdings</text><text class="sub" x="195" y="622" text-anchor="middle">Irish firm, “managed” in Bermuda</text><text class="rate" x="195" y="656" text-anchor="middle">Bermuda rate: 0%</text></g> <g class="node"><rect x="615" y="545" width="380" height="132" rx="10"></rect><text class="nm" x="805" y="588" text-anchor="middle">Google B.V.</text><text class="sub" x="805" y="622" text-anchor="middle">Netherlands · shell, no staff</text><text class="rate" x="805" y="656" text-anchor="middle">Dutch conduit</text></g> <g class="fragment" data-fragment-index="3"><g class="node"><rect x="615" y="5" width="380" height="86" rx="10"></rect><text class="nm" x="805" y="42" text-anchor="middle">EMEA advertisers</text><text class="sub" x="805" y="74" text-anchor="middle">Europe, Middle East &amp; Africa</text></g> <line class="cash" x1="805" y1="93" x2="805" y2="152" marker-end="url(#ah-cash)"></line><text class="lbl lbl-cash" x="822" y="132">revenue</text> <g class="badge"><circle cx="770" cy="123" r="18"></circle><text x="770" y="123">3</text></g></g> <g class="fragment" data-fragment-index="1"><line class="lic" x1="195" y1="284" x2="195" y2="537" marker-end="url(#ah-lic)"></line><text class="lbl lbl-lic" x="178" y="390" text-anchor="end">IP rights</text><text class="lbl lbl-lic" x="178" y="420" text-anchor="end">sold cheaply</text><text class="lbl lbl-lic" x="178" y="450" text-anchor="end">(2003)</text> <g class="badge"><circle cx="195" cy="335" r="18"></circle><text x="195" y="335">1</text></g></g> <g class="fragment" data-fragment-index="2"><line class="lic" x1="387" y1="578" x2="607" y2="578" marker-end="url(#ah-lic)"></line><text class="lbl lbl-lic" x="497" y="565" text-anchor="middle">license</text> <line class="lic" x1="700" y1="543" x2="700" y2="290" marker-end="url(#ah-lic)"></line><text class="lbl lbl-lic" x="686" y="505" text-anchor="end">sublicense</text> <g class="badge"><circle cx="700" cy="455" r="18"></circle><text x="700" y="455">2</text></g></g> <g class="fragment" data-fragment-index="4"><line class="cash" x1="905" y1="284" x2="905" y2="537" marker-end="url(#ah-cash)"></line><text class="lbl lbl-cash" x="890" y="385" text-anchor="end">royalties,</text><text class="lbl lbl-cash" x="890" y="415" text-anchor="end">0% tax</text><text class="lbl lbl-cash" x="890" y="445" text-anchor="end">(within EU)</text> <g class="badge"><circle cx="905" cy="335" r="18"></circle><text x="905" y="335">4</text></g></g> <g class="fragment" data-fragment-index="5"><line class="blocked" x1="612" y1="286" x2="393" y2="540" marker-end="url(#ah-blk)"></line><text class="lbl lbl-blocked" x="440" y="320" text-anchor="middle">direct route:</text><text class="lbl lbl-blocked" x="440" y="350" text-anchor="middle">20% withholding</text> <line class="cash" x1="613" y1="645" x2="393" y2="645" marker-end="url(#ah-cash)"></line><text class="lbl lbl-cash" x="503" y="632" text-anchor="middle">royalties, 0%</text> <g class="badge"><circle cx="503" cy="680" r="18"></circle><text x="503" y="680">5</text></g></g> <g class="fragment" data-fragment-index="6"><g class="note"><rect x="5" y="5" width="590" height="140" rx="8"></rect><text x="52" y="40">U.S. “check the box”: the IRS treats Ireland</text><text x="52" y="70">Ltd.&nbsp;and B.V. as branches of Holdings, so U.S.</text><text x="52" y="100">anti-avoidance rules never apply. U.S. tax is</text><text x="52" y="130">due only if profits come home.</text></g> <g class="badge"><circle cx="28" cy="36" r="18"></circle><text x="28" y="36">6</text></g></g> <g class="fragment" data-fragment-index="7"><rect x="-1" y="538" width="392" height="146" rx="14" fill="none" stroke="#990000" stroke-width="8"></rect></g>
+</svg>
+</div>
+<div style="flex:1;">
+<div class="r-stack">
+<div class="step-card fragment fade-out" data-fragment-index="1">
+Google earns most of its non-U.S. profit selling advertising in Europe. Follow the money: where does that profit end up being taxed?
+</div>
+<div class="step-card fragment fade-in-then-out" data-fragment-index="1">
+<span class="step-num">1</span>Google Inc.&nbsp;transfers its search and ad technology to <strong>Google Ireland Holdings</strong> in 2003, months before its IPO, at what turned out to be a low price. Holdings shares R&amp;D costs; all licensing income is booked here.
+</div>
+<div class="step-card fragment fade-in-then-out" data-fragment-index="2">
+<span class="step-num">2</span>Holdings licenses the technology to a Dutch shell, <strong>Google B.V.</strong>, which sublicenses it to <strong>Google Ireland Ltd.</strong> — to use Dutch tax treaties.
+</div>
+<div class="step-card fragment fade-in-then-out" data-fragment-index="3">
+<span class="step-num">3</span>Ireland Ltd.&nbsp;sells advertising across Europe, the Middle East, and Africa; Google France pays Ireland for the right to use the technology. Profits are now taxable in <strong>Ireland at 12.5%</strong>.
+</div>
+<div class="step-card fragment fade-in-then-out" data-fragment-index="4">
+<span class="step-num">4</span>Ireland Ltd.&nbsp;pays <strong>royalties</strong> to the Dutch B.V. Royalties are deductible, so Irish taxable profit nearly vanishes. No withholding tax applies to payments within the EU.
+</div>
+<div class="step-card fragment fade-in-then-out" data-fragment-index="5">
+<span class="step-num">5</span>The B.V. passes the royalties to Holdings. The Netherlands levies no withholding tax — to the Dutch, Holdings is Irish. Paying Bermuda directly would have triggered <strong>Irish withholding tax</strong>: hence the Dutch “sandwich.”
+</div>
+<div class="step-card fragment fade-in-then-out" data-fragment-index="6">
+<span class="step-num">6</span>U.S. “controlled foreign corporation” rules should tax these royalties at once. One form (IRS 8832) makes Ireland Ltd.&nbsp;and the B.V. disappear for U.S. purposes; U.S. tax (35%) is owed only if profits are <strong>repatriated</strong>.
+</div>
+<div class="step-card step-card-final fragment" data-fragment-index="7">
+<strong>Result: “stateless income.”</strong> Google’s effective tax rate on foreign profits: <strong>2–8%</strong>. In 2017 alone, €19.9 billion passed through the Dutch B.V. to Bermuda.
+</div>
+</div>
+<p><span class="cite">Sources: Zucman (2014), pp.&nbsp;124–126; diagram adapted from Arel-Bundock (2017), Fig. 3; Dutch filings via CNBC (2019)</span></p>
+</div>
+</div>
+</section>
+<section id="stateless-income" class="slide level2">
+<h2>Stateless income</h2>
+<div class="d10-fill" style="font-size:1.1em;">
+<table class="d10-table">
+<thead>
+<tr>
+<th>
+Tax authority
+</th>
+<th>
+What it sees
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+United States (IRS)
+</td>
+<td>
+Ireland Ltd.&nbsp;and the B.V. do not exist; Holdings is an Irish company. No U.S. tax until profits are repatriated.
+</td>
+</tr>
+<tr class="fragment">
+<td>
+Ireland
+</td>
+<td>
+Holdings is Bermudian (“mind and management” in Bermuda), so it is not taxable in Ireland. Ireland Ltd.’s royalties are deductible.
+</td>
+</tr>
+<tr class="fragment">
+<td>
+Netherlands
+</td>
+<td>
+Holdings is Irish, so royalties pass on to it without withholding tax.
+</td>
+</tr>
+<tr class="fragment">
+<td>
+France, Germany…
+</td>
+<td>
+Google sells there, but its profit appears in Ireland.
+</td>
+</tr>
+</tbody>
+</table>
+<div class="fragment">
+<div class="big-quote big-quote-sm">
+“Playing tax treaties against each other… Google thus generates stateless income, nowhere taxed in the year it is generated.”<span class="attrib">Zucman (2014), p.&nbsp;126</span>
+</div>
+</div>
+<div class="fragment">
+<p>Ireland decided in <strong>2014</strong> to phase out the Double Irish; Google ended it at the close of <strong>2019</strong>. The structure was legal throughout.</p>
+<p><span class="cite">Sources: Zucman (2014); CNBC, “Google to end ‘Double Irish, Dutch sandwich’ tax scheme” (Dec.&nbsp;31, 2019)</span></p>
+</div>
+</div>
+</section>
+<section id="who-pays" class="slide level2">
+<h2>Who pays?</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem; min-height:690px;">
+<div style="flex:0 0 52%; text-align:center;">
+<p><img data-src="img/day14/zucman-fig5-effective-rate.png" class="fig" alt="Zucman Figure 5: nominal US federal corporate rate falls from about 51 percent in the 1950s to 35 percent; effective rates paid to US and foreign governments fall from about 46 percent to about 19 percent; effective rate paid to the US government falls to about 15 percent" height="560"></p>
+<p><span class="cite">Source: Zucman (2014), Fig. 5</span></p>
+</div>
+<div class="d10-lg" style="flex:1;">
+<ul>
+<li>1998–2013: the effective tax rate of U.S. firms fell from <strong>30% to 20%</strong> — about <strong>$200B</strong> a year; at least <strong>two-thirds</strong> of the decline is profit shifting</li>
+</ul>
+<div class="fragment">
+<ul>
+<li>Worldwide, corporate tax losses are estimated at <strong>$500–600B a year</strong> (UNU-WIDER)</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>Winners: <strong>shareholders</strong>, and equity ownership is highly concentrated</li>
+<li>Losers: governments that fund public goods, and those who make up the difference — <strong>labor relative to capital</strong>, <strong>small firms relative to MNEs</strong></li>
+</ul>
+</div>
+</div>
+</div>
 </section></section>
 <section>
-<section id="why-it-matters" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>Why it matters</h1>
+<section id="why-governments-cut-taxes" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>Why governments cut taxes</h1>
 
 </section>
-<section id="why-tax-avoidance-is-a-problem" class="slide level2">
-<h2>Why tax avoidance is a problem</h2>
-<div class="columns">
-<div class="column" style="width:54%;">
-<ul>
-<li><strong>Premise:</strong> taxes pay for public goods — infrastructure, security, a healthy and educated workforce</li>
-<li>It shifts the burden: <strong>labor vs.&nbsp;capital</strong>, and <strong>MNEs vs.&nbsp;small business</strong></li>
-</ul>
-</div><div class="column" style="width:46%;">
-<p><img data-src="img/day14/s08_1.png" style="width:100.0%" alt="Distributional effects of tax avoidance"></p>
-</div></div>
+<section id="a-race-to-the-bottom" class="slide level2">
+<h2>A race to the bottom</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem; min-height:690px;">
+<div style="flex:0 0 60%; text-align:center;">
+<p><img data-src="img/day14/s06_1.png" class="fig" alt="Statutory corporate tax rates 1981-2020 for France, Germany, Ireland, Japan, UK, US and the OECD average, all declining; OECD average falls from about 42 percent to about 21 percent; Ireland falls to 12.5 percent" height="560"></p>
+<p><span class="cite">Source: OECD, via Reuters</span></p>
+</div>
+<div class="d10-lg" style="flex:1;">
+<p>OECD average statutory rate: <strong>~42% → ~21%</strong> in four decades. Ireland: <strong>12.5%</strong> from 2003.</p>
+<div class="fragment">
+<p><strong>The puzzle:</strong> profit shifting costs governments revenue. Why, then, do governments keep <strong>lowering their own rates</strong> — and offering individual firms special deals?</p>
+</div>
+</div>
+</div>
+<aside class="notes">
+<p>Part of the decline in corporate tax rates may be efficient (perhaps corporations were taxed too highly previously), but the decline likely overshoots the optimal tax rate.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="the-tax-competition-game" class="slide level2">
+<h2>The tax-competition game</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem; min-height:690px;">
+<div style="flex:0 0 60%;">
+<table class="pd-table">
+<thead>
+<tr>
+<th class="pd-corner">
+Payoffs: (<span class="pa">A</span>, <span class="pb">B</span>)
+</th>
+<th>
+B holds its rate (25%)
+</th>
+<th>
+B cuts its rate (12.5%)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pd-row">
+A holds its rate (25%)
+</td>
+<td class="fragment" data-fragment-index="1">
+(<span class="pa">3</span>, <span class="pb">3</span>)<span class="pd-gloss">Revenue protected; investment stays put</span>
+</td>
+<td class="fragment" data-fragment-index="2">
+(<span class="pa">1</span>, <span class="pb">4</span>)<span class="pd-gloss">B draws profit and investment away from A</span>
+</td>
+</tr>
+<tr>
+<td class="pd-row">
+A cuts its rate (12.5%)
+</td>
+<td class="fragment" data-fragment-index="2">
+(<span class="pa">4</span>, <span class="pb">1</span>)<span class="pd-gloss">A draws profit and investment away from B</span>
+</td>
+<td class="fragment" data-fragment-index="3">
+(<span class="pa">2</span>, <span class="pb">2</span>)<span class="pd-gloss">No one gains investment; both lose revenue</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="flex:1;">
+<div class="card-col">
+<div class="info-card info-card-lg">
+<strong>Players:</strong> two governments, A and B, competing for mobile profit and investment.
+</div>
+<div class="info-card info-card-lg">
+<strong>Strategies:</strong> hold the corporate rate, or cut it.
+</div>
+<div class="info-card info-card-lg">
+<strong>Payoffs:</strong> each government’s ranking of outcomes, 4 = best, 1 = worst. A’s payoff is listed first.
+</div>
+</div>
+<div class="fragment" data-fragment-index="4">
+<p><strong>Your turn:</strong> what should A do? What should B do? Where do they end up?</p>
+</div>
+</div>
+</div>
+</section>
+<section id="solving-the-game" class="slide level2">
+<h2>Solving the game</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem; min-height:600px;">
+<div style="flex:0 0 55%;">
+<table class="pd-table">
+<thead>
+<tr>
+<th class="pd-corner">
+Payoffs: (<span class="pa">A</span>, <span class="pb">B</span>)
+</th>
+<th>
+B holds
+</th>
+<th>
+B cuts
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pd-row">
+A holds
+</td>
+<td class="fragment po-mark" data-fragment-index="6">
+(<span class="pa">3</span>, <span class="pb">3</span>)
+</td>
+<td>
+(<span class="pa">1</span>, <span class="pb fragment br-mark" data-fragment-index="3">4</span>)
+</td>
+</tr>
+<tr>
+<td class="pd-row">
+A cuts
+</td>
+<td>
+(<span class="pa fragment br-mark" data-fragment-index="1">4</span>, <span class="pb">1</span>)
+</td>
+<td class="fragment eq-mark" data-fragment-index="5">
+(<span class="pa fragment br-mark" data-fragment-index="2">2</span>, <span class="pb fragment br-mark" data-fragment-index="4">2</span>)
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="flex:1;">
+<div class="card-col">
+<div class="step-card fragment" data-fragment-index="1">
+<strong>If B holds,</strong> A gets 3 by holding and 4 by cutting → <strong>cut</strong>.
+</div>
+<div class="step-card fragment" data-fragment-index="2">
+<strong>If B cuts,</strong> A gets 1 by holding and 2 by cutting → <strong>cut</strong>. Cutting is A’s <strong>dominant strategy</strong>: best whatever B does.
+</div>
+<div class="step-card fragment" data-fragment-index="4">
+B faces the same choice: cutting is dominant for B too.
+</div>
+<div class="step-card fragment" data-fragment-index="5">
+<strong>Nash equilibrium:</strong> (Cut, Cut) = (2, 2). Neither government gains by switching alone.
+</div>
+<div class="step-card step-card-final fragment" data-fragment-index="6">
+Both prefer (Hold, Hold) = (3, 3). The equilibrium is <strong>Pareto-inferior</strong>: a <strong>prisoner’s dilemma</strong>.
+</div>
+</div>
+</div>
+</div>
+<div class="fragment" data-fragment-index="7" style="font-size:1.05em;">
+<p>Even if A and B <strong>promise</strong> to hold their rates, each gains by <strong>cheating</strong> on the promise. Without enforcement, an agreement is cheap talk.</p>
+</div>
+</section>
+<section id="getting-out-of-the-dilemma" class="slide level2">
+<h2>Getting out of the dilemma</h2>
+<div class="d10-fill">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
+<div class="info-card info-card-lg">
+<strong>Change the payoffs of cheating</strong><br>Sanction the defector. FATCA (2010) threatened a 30% withholding tax on U.S.-source income; Swiss, Singaporean, and Luxembourg banks agreed to report U.S. accounts.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Let a large state act alone</strong><br>Zucman: the U.S. could reform its corporate tax with “little to no international cooperation” — or, with the EU, impose tariffs on havens that refuse to cooperate.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Bring everyone in</strong><br>A multilateral rule binds all players at once, rather than through thousands of bilateral bargains.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>Beware the holdouts</strong><br>“The more havens agree to cooperate, the bigger the incentives for the remaining ones not to do so.” When Switzerland shares data with France, French evaders move to Hong Kong.
+</div>
+</div>
+<div class="fragment">
+<p>Which of these does the OECD’s global minimum tax use?</p>
+<p><span class="cite">Source: Zucman (2014), pp.&nbsp;136, 142–145</span></p>
+</div>
+</div>
 </section></section>
 <section>
-<section id="solutions" class="title-slide slide level1 center" data-background-color="#990000">
-<h1>Solutions</h1>
+<section id="beps-and-the-global-minimum-tax" class="title-slide slide level1 center" data-background-color="#990000">
+<h1>BEPS and the global minimum tax</h1>
 
 </section>
-<section id="potential-solutions" class="slide level2">
-<h2>Potential solutions</h2>
-<ul>
-<li>Shift from <strong>arms-length/separate-entity</strong> to a <strong>unitary tax with formulary apportionment</strong> (and the worldwide-vs-territorial debate)</li>
-<li>The <strong>OECD global minimum tax (15%)</strong> aims to turn tax competition from a <strong>prisoner’s dilemma</strong> into a <strong>stag hunt</strong> — but only if enforcement is <em>incentive-compatible</em> so governments don’t cheat by undercutting</li>
-</ul>
+<section id="from-beps-to-a-global-minimum-tax" class="slide level2">
+<h2>From BEPS to a global minimum tax</h2>
+<div class="d10-fill">
+<div class="tl">
+<div class="tl-item tl-reform fragment">
+<div class="tl-year">
+2013–15
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>BEPS</strong> (base erosion and profit shifting) <strong>Action Plan.</strong> 15 actions, incl.&nbsp;country-by-country reporting and anti-treaty-shopping rules.
+</div>
+</div>
+<div class="tl-item tl-reform fragment">
+<div class="tl-year">
+2016
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>Inclusive Framework.</strong> Non-OECD countries join as equals; now about 147 members.
+</div>
+</div>
+<div class="tl-item tl-reform fragment">
+<div class="tl-year">
+Oct 2021
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>Two-pillar deal</strong> (136 jurisdictions). Pillar One: taxing rights for market countries. Pillar Two: a <strong>15% minimum tax</strong>.
+</div>
+</div>
+<div class="tl-item tl-reform fragment">
+<div class="tl-year">
+2024
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>Pillar Two takes effect</strong> in the EU, UK, Japan, Korea, and others. Pillar One stalls.
+</div>
+</div>
+<div class="tl-item tl-exp fragment">
+<div class="tl-year">
+2025
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>The U.S. exits</strong> (Jan.). After threats of retaliatory taxes, the G7 accepts a “side-by-side” system (June).
+</div>
+</div>
+<div class="tl-item tl-warn fragment">
+<div class="tl-year">
+Jan 2026
+</div>
+<div class="tl-mark">
+
+</div>
+<div class="tl-card">
+<strong>Side-by-side package.</strong> U.S.-parented groups exempted from key Pillar Two rules.
+</div>
+</div>
+</div>
+<div class="tl-legend">
+<p><span style="--c:#4a7c4e">Cooperation</span><span style="--c:#990000">Defection</span><span style="--c:#b5651d">Accommodation</span></p>
+</div>
+<div class="fragment">
+<p>BEPS fits Zucman’s first class of reform: harmonize the rules, keep <strong>source-based taxation</strong> and <strong>arm’s-length pricing</strong>. Pillar Two adds a <strong>floor</strong>.</p>
+<p><span class="cite">Sources: Zucman (2014), p.&nbsp;134; OECD; Saint-Amans (2026), Bruegel; Conference Board (2026)</span></p>
+</div>
+</div>
 </section>
-<section id="where-it-stands-now-2026" class="slide level2">
-<h2>Where it stands now (2026)</h2>
-<ul>
-<li>The <strong>OECD/G20 Pillar Two 15% minimum tax</strong> entered into force across many jurisdictions in 2024–25 (with a shifting U.S. posture)</li>
-<li>In <strong>September 2024</strong>, the <strong>EU Court of Justice</strong> ruled against Apple and Ireland — Apple owed roughly <strong>€13 billion</strong> in back taxes (the reverse of the earlier General Court decision)</li>
-</ul>
+<section id="how-the-minimum-tax-works" class="slide level2">
+<h2>How the minimum tax works</h2>
+<div class="d10-fill" style="font-size:1.02em;">
+<div class="flow">
+<div class="flow-step">
+<span class="flow-title">1 · Scope</span>Multinational groups with revenue of <strong>€750M+</strong>
+</div>
+<div class="flow-arrow">
+→
+</div>
+<div class="flow-step fragment">
+<span class="flow-title">2 · Measure</span>The <strong>effective tax rate</strong>, country by country: taxes paid ÷ profit booked there
+</div>
+<div class="flow-arrow fragment">
+→
+</div>
+<div class="flow-step fragment">
+<span class="flow-title">3 · Top up</span>If the rate is below 15%, a <strong>top-up tax</strong> makes up the difference (minus a carve-out for real payroll and assets)
+</div>
+<div class="flow-arrow fragment">
+→
+</div>
+<div class="flow-step flow-state fragment">
+<span class="flow-title">4 · Collect</span><strong>1st:</strong> the low-tax country itself<br><strong>2nd:</strong> the parent firm’s home country<br><strong>3rd:</strong> any other country where the firm operates
+</div>
+</div>
+<div class="fragment">
+<div class="stat-callout" style="font-size:0.85em;">
+<strong>Example:</strong> a subsidiary in “Lowtaxia” books €100M of profit and pays €5M in tax. Its effective rate is 5%, so the top-up is 10% × €100M = <span class="stat-num">€10M</span> (before the carve-out). If Lowtaxia does not collect it, the parent’s government will; if the parent’s government does not, other governments will.
+</div>
+</div>
+<div class="fragment">
+<p>The firm pays 15% either way. The only question is <strong>which government gets the money</strong> — so Lowtaxia’s best response is to collect the top-up itself.</p>
+</div>
+</div>
+</section>
+<section id="the-minimum-tax-changes-the-payoffs" class="slide level2">
+<h2>The minimum tax changes the payoffs</h2>
+<div style="display:flex; flex-direction:row; align-items:center; gap:2.5rem; min-height:690px;">
+<div style="flex:0 0 55%;">
+<table class="pd-table">
+<thead>
+<tr>
+<th class="pd-corner">
+Payoffs: (<span class="pa">A</span>, <span class="pb">B</span>)
+</th>
+<th>
+B keeps ≥15%
+</th>
+<th>
+B cuts below 15%
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pd-row">
+A keeps ≥15%
+</td>
+<td class="fragment eq-mark" data-fragment-index="3">
+(<span class="pa">3</span>, <span class="pb">3</span>)
+</td>
+<td>
+(<span class="pa">4</span>, <span class="pb">1</span>)<span class="pd-gloss">A collects B’s top-up</span>
+</td>
+</tr>
+<tr>
+<td class="pd-row">
+A cuts below 15%
+</td>
+<td>
+(<span class="pa">1</span>, <span class="pb">4</span>)<span class="pd-gloss">B collects A’s top-up</span>
+</td>
+<td>
+(<span class="pa">2</span>, <span class="pb">2</span>)
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="flex:1;">
+<div class="card-col">
+<div class="step-card fragment" data-fragment-index="1">
+Cutting below 15% no longer attracts profit: the top-up is collected anyway, by <strong>someone else</strong>.
+</div>
+<div class="step-card fragment" data-fragment-index="2">
+Solve it: keeping ≥15% is now the <strong>dominant strategy</strong> for both.
+</div>
+<div class="step-card step-card-final fragment" data-fragment-index="3">
+The equilibrium is the cooperative outcome. Enforcement is built in: a government that cheats only hands revenue to others.
+</div>
+</div>
+<div class="fragment" data-fragment-index="4">
+<p><strong>But:</strong> it is a floor at 15%, not 25%. Above the floor the dilemma remains — and competition can shift from rates to <strong>subsidies</strong> and <strong>credits</strong>.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="the-minimum-tax-in-practice" class="slide level2">
+<h2>The minimum tax in practice</h2>
+<div class="d10-fill" style="font-size:1.1em;">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
+<div class="info-card info-card-lg">
+<strong>It raises money</strong><br>First year (2024): <strong>$90–124B</strong>, 2.4–3.4% of global corporate tax revenue — below the $155–192B forecast. Little evidence of lost investment or jobs. 60+ jurisdictions have implemented it.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>The U.S. hole</strong><br>From 2026, U.S.-headquartered firms are exempt from the 2nd and 3rd collection steps; low-tax countries can still collect the top-up themselves. The U.S. applies its own <strong>14%</strong> minimum, averaged across countries. Review by 2029.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>New room to compete</strong><br>A new safe harbor protects “substance-based” tax incentives. The OECD’s revised estimate: <strong>$91–155B</strong> a year. Without the backstop, low-tax states can again court U.S. firms.
+</div>
+<div class="info-card info-card-lg fragment">
+<strong>A rival forum</strong><br>UN Framework Convention on International Tax Cooperation: majority voting, led by developing countries. The U.S. walked out (Feb 2025). Next session: <strong>Nairobi, Nov 30–Dec 10, 2026</strong>; target: end-2027.
+</div>
+</div>
+<div class="fragment">
+<p>Did the United States <strong>defect</strong>? Is a floor with a hole in it still a floor?</p>
+<p><span class="cite">Sources: OECD (July 2026) via Bloomberg Tax; OECD side-by-side package (Jan.&nbsp;5, 2026); Saint-Amans (2026), Bruegel; Eurodad (2025); Tax Justice Network (Sept.&nbsp;2026)</span></p>
+</div>
+</div>
 </section>
 <section id="key-takeaways" class="slide level2">
 <h2>Key takeaways</h2>
+<div class="d10-fill" style="font-size:1.25em;">
 <ul>
-<li>Most avoidance is <strong>legal</strong>, enabled by the arms-length system and tax havens</li>
-<li>It’s a <strong>collective-action problem</strong> — a race to the bottom that cooperation could solve</li>
-<li>The minimum tax is the first serious attempt to change the game; enforcement is the open question</li>
+<li>International tax rests on 1920s rules — <strong>source-based taxation, arm’s-length pricing, bilateral treaties</strong> — built to prevent double taxation; globalization turned them into channels for <strong>double non-taxation</strong></li>
+<li>Profit shifting is mostly <strong>legal</strong>: treaty shopping, transfer pricing, and hybrid structures like the <strong>Double Irish Dutch Sandwich</strong> generate stateless income</li>
+<li>Tax competition is a <strong>prisoner’s dilemma</strong>: cutting is each government’s dominant strategy, so all end up worse off</li>
+<li>The 15% minimum tax <strong>changes the payoffs</strong> so cheating hands revenue to others — but the U.S. exemption reopens room to compete</li>
 </ul>
+</div>
 </section>
 <section id="looking-ahead" class="slide level2">
 <h2>Looking ahead</h2>
+<div class="d10-fill" style="font-size:1.25em;">
+<p><strong>Wednesday (Day 15): <em>Apple Must Pay 13 Billion Euros to Ireland in Back Taxes</em>.</strong></p>
 <ul>
-<li><strong>Wednesday (Day 15):</strong> the <em>Apple–Ireland</em> case — sovereignty, state aid, and corporate power</li>
+<li>Read the INSEAD case (Bennedsen, Henry &amp; Stabile)</li>
+<li>Come able to define <strong>transfer pricing</strong>, <strong>arm’s-length</strong> vs.&nbsp;<strong>formulary apportionment</strong>, <strong>state aid</strong>, and the <strong>global minimum tax</strong></li>
+<li>Keep in mind: why would Ireland fight to <em>refuse</em> €13 billion?</li>
 </ul>
+</div>
 </section>
 <section id="questions" class="slide level2" data-background-color="#990000">
 <h2>Questions?</h2>
