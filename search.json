@@ -193,70 +193,98 @@
     "href": "slides/day16-advocacy.html#todays-plan",
     "title": "Global Business",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhen governments can’t or won’t discipline a global firm’s supply chain, who else can — and does “who” change what actually gets fixed?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · Two mechanisms, one week\n\n\nAdvocacy/spotlighting vs. corporate self-regulation\n\n\n\n\n2 · Power, authority, autonomy\n\n\nWhy firms are hard to discipline in the first place\n\n\n\n\n3 · Advocacy networks\n\n\nKeck & Sikkink, spotlighting, and Starbucks vs. Ethiopia (briefly)\n\n\n\n\n4 · Chain governance & self-regulation\n\n\nThe Gereffi typology and why some firms regulate themselves\n\n\n\n\n5 · Setting up Patagonia\n\n\nWhat happens when a mission-driven firm audits itself — and still finds a problem"
+    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhen no single government can govern a global supply chain, who does?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · How supply chains complicate power\n\n\nRuggie revisited\n\n\n\n\n2 · Who governs the supply chain?\n\n\nFive types of value-chain governance, and coffee as an example\n\n\n\n\n3 · Regulation from outside\n\n\nKeck & Sikkink: how advocacy networks without traditional power discipline firms\n\n\n\n\n4 · Regulation from inside\n\n\nFirms as regulators, and why standards fade below Tier 1 (Villena & Gioia)\n\n\n\n\n5 · The limits of private power\n\n\nWhat private regulation can and cannot do"
   },
   {
-    "objectID": "slides/day16-advocacy.html#a-typology-not-a-list-of-cases",
-    "href": "slides/day16-advocacy.html#a-typology-not-a-list-of-cases",
+    "objectID": "slides/day16-advocacy.html#how-lead-firms-organize-production",
+    "href": "slides/day16-advocacy.html#how-lead-firms-organize-production",
     "title": "Global Business",
-    "section": "A typology, not a list of cases",
-    "text": "A typology, not a list of cases\nThis is the first of two weeks asking the same underlying question from different angles: who disciplines an MNE’s supply chain when governments can’t or won’t?\n\nThis week (private power): outside pressure (advocacy/spotlighting) and inside pressure (corporate self-regulation) — two private mechanisms\nIn two weeks (public power): government regulation, in the apparel/H&M case\nNext week (a different face of public power): tariffs and trade policy — governments regulating to protect domestic industry, not workers abroad. Don’t conflate the two uses of “public regulation”\n\nThe growth of global value chains means MNEs are now global institutions orchestrating long supply chains — responsible for ~80% of global trade and ~15% of all jobs — while remaining legally separated from the suppliers that do the work. That separation is exactly what makes accountability hard, and exactly what today’s two mechanisms try to work around."
+    "section": "How lead firms organize production",
+    "text": "How lead firms organize production\n\n\n\n   the firm in law  Lead firm designs, brands, sells  Subsidiaryowned abroad  ownership   Licenseebrand or technology  contract   contract  Tier 1contract manufacturer   Tier 2components and materials   Tier 3raw materials no contract withthe lead firm\n\n\n\n\nLead firm: the brand or buyer that designs, coordinates, and sells the final product\nForeign direct investment: the lead firm owns production abroad (a subsidiary)\nSubcontracting: an independent firm makes goods to the lead firm’s specifications\nLicensing: another firm uses the lead firm’s brand or technology, for a fee and on its terms\nTier 1, 2, 3 suppliers: direct suppliers, their suppliers, and the producers of raw materials\n\n\nAbout 80% of global trade runs through multinationals’ production networks, and most of those links are contracts, not ownership.\n\nSource: Ruggie (2018), citing UNCTAD (2013)"
   },
   {
-    "objectID": "slides/day16-advocacy.html#why-firms-are-hard-to-discipline",
-    "href": "slides/day16-advocacy.html#why-firms-are-hard-to-discipline",
+    "objectID": "slides/day16-advocacy.html#power-and-authority-without-ownership",
+    "href": "slides/day16-advocacy.html#power-and-authority-without-ownership",
     "title": "Global Business",
-    "section": "Why firms are hard to discipline",
-    "text": "Why firms are hard to discipline\n\nPower: A’s ability — through instrumental (e.g., lobbying), structural, or discursive means — to make B do something it otherwise wouldn’t\nAuthority: others’ recognition of A’s right to exercise that power\nAutonomy: A’s ability to act independently of others’ control\n\nThe configuration of a supply chain determines where these accrue — and thus whether anyone (a government, a consumer, a watchdog) can hold the lead firm to account."
+    "section": "Power and authority without ownership",
+    "text": "Power and authority without ownership\n\n\nPower: getting others to do what they otherwise would not Authority: a recognized right to make the rules Relative autonomy: on whose behalf the firm acts (its own? its buyer? its investors? its home government?)\n\n\n\n\nLead firms can…\n\n\nSet product and process standards that cascade down supply chains\nSet prices, volumes, and deadlines, and switch suppliers, shifting risk onto them (structural power)\nImpose codes of conduct through contracts: rules suppliers accept, which host states could not impose\n\n\n\n\n…but they struggle to\n\n\nHold suppliers accountable in law: each supplier is a separate legal entity\nSee past Tier 1: no contract with Tier 2 or 3 suppliers, and often no knowledge of who they are\nMonitor what they can see: suppliers know more than the buyer (Day 8’s principal–agent problem)\n\n\n\n\nHow much control a lead firm has over its suppliers depends on how the supply chain is governed.\n\nSources: Ruggie (2018), Regulation & Governance; Villena & Gioia (2020), Harvard Business Review"
   },
   {
-    "objectID": "slides/day16-advocacy.html#a-buyer-driven-commodity-chain-coffee",
-    "href": "slides/day16-advocacy.html#a-buyer-driven-commodity-chain-coffee",
+    "objectID": "slides/day16-advocacy.html#five-ways-to-govern-a-supply-chain",
+    "href": "slides/day16-advocacy.html#five-ways-to-govern-a-supply-chain",
     "title": "Global Business",
-    "section": "A buyer-driven commodity chain: coffee",
-    "text": "A buyer-driven commodity chain: coffee\n\n\n\nCoffee is a commodity — undifferentiated, sold on a global market — and, like many agricultural commodities, a buyer-driven chain\n~80% of the market is controlled by 5 brands that buy beans but don’t grow them\n\n\n\nGrowers capture little of the final value"
+    "section": "Five ways to govern a supply chain",
+    "text": "Five ways to govern a supply chain\nValue-chain governance: who sets the terms of production along a supply chain, and how they enforce them\n\n\n           MarketModularRelationalCaptiveHierarchy   Customers   Price   Suppliers  Lead firm  Turn-key supplier   Component suppliers  Lead firm  Relational supplier   Component suppliers  Lead firm   Captive suppliers  Integrated firm    LowHigh Degree of explicit coordination and power asymmetry  WHAT COORDINATES THE SUPPLY CHAIN Price Codifiedspecifications Trust and mutualdependence The lead firm’sinstructions Ownership andmanagement   LEAD FIRM’S REACH OVER SUPPLIERS’ PRACTICES Little: suppliershave many buyers Limited: supplierscan switch buyers Negotiated Strong: suppliersdepend on the buyer Direct, but costlyto the firm   EXAMPLES Crude oil, steel,generic chemicals Apple and Foxconn;electronics assembly Toyota and itskeiretsu suppliers Coffee roasters andsmallholder growers ExxonMobil: drillingthrough refining \n\n\nSource: redrawn from Gereffi, Humphrey & Sturgeon (2005), “The Governance of Global Value Chains,” Review of International Political Economy 12(1)"
   },
   {
-    "objectID": "slides/day16-advocacy.html#keck-sikkink-the-spotlight",
-    "href": "slides/day16-advocacy.html#keck-sikkink-the-spotlight",
+    "objectID": "slides/day16-advocacy.html#coffee-a-captive-supply-chain",
+    "href": "slides/day16-advocacy.html#coffee-a-captive-supply-chain",
     "title": "Global Business",
-    "section": "Keck & Sikkink: the spotlight",
-    "text": "Keck & Sikkink: the spotlight\n\nTransnational advocacy networks mobilize information and moral pressure across borders, working through spotlighting — making a firm’s conduct visible and costly to its brand\nBrief illustration — Starbucks vs. Ethiopia (2006–07): Ethiopia wanted to trademark its coffee-growing regions to capture more value for farmers; Starbucks initially resisted. A fair-trade advocacy campaign made the dispute costly to Starbucks’s brand, and the two sides settled on a licensing deal\nThe point isn’t the specific outcome — it’s the mechanism: would Ethiopia have had this leverage without an advocacy network willing to spotlight the dispute?"
+    "section": "Coffee: a captive supply chain",
+    "text": "Coffee: a captive supply chain\n\n\n\nWho gets the price of a jar of coffee?     GrowersExportersShippers &roastersRetailers       10%10%55%25%   01020304050  Share of the final retail price (%)\n\nSource: Ransom (2006), The No-Nonsense Guide to Fair Trade, p. 20\n\n\n\nCoffee is a commodity: undifferentiated, grown by many smallholders\nA handful of buyers: five firms controlled 75–80% of the U.S. coffee market (UNCTAD 2007)\nBrands buy the beans; they don’t grow them. Value sits downstream (Day 3’s smile curve)\n\n\nGrowers depend on a few buyers who set price and quality terms: a captive supply chain, where power sits with the lead firm.\nCaptive (Gereffi, Humphrey & Sturgeon) and buyer-driven (Gereffi’s earlier term) describe the same thing: buyers, not producers, govern the supply chain.\n\n\nIf the buyers hold the power in the supply chain, who can hold the buyers to account?"
   },
   {
-    "objectID": "slides/day16-advocacy.html#five-types-of-value-chain-governance",
-    "href": "slides/day16-advocacy.html#five-types-of-value-chain-governance",
+    "objectID": "slides/day16-advocacy.html#transnational-advocacy-networks",
+    "href": "slides/day16-advocacy.html#transnational-advocacy-networks",
     "title": "Global Business",
-    "section": "Five types of value-chain governance",
-    "text": "Five types of value-chain governance\n\n\n\nMarket: low cost of switching partners\nModular: suppliers make inputs with their own technology\nRelational: high trust, high asset specificity\nCaptive: small suppliers dependent on large buyers\nHierarchy: brought in-house\n\n\n\nAfter Gereffi, Humphrey & Sturgeon\n\nWhere a chain sits on this spectrum determines how much leverage the lead firm has — to enforce standards on suppliers, or to credibly claim it’s monitoring them."
+    "section": "Transnational advocacy networks",
+    "text": "Transnational advocacy networks\n\n\n\nSource: Keck & Sikkink (1998), Activists Beyond Borders\n\n\nTransnational advocacy network (TAN): activists, NGOs, unions, journalists, and sympathetic officials who work across borders on a shared cause\n\nBoomerang model: when their own government will not respond, domestic groups go around it\n\nPass information to allies abroad\nAllies press their own governments, international organizations, and other powerful actors\nThose actors bring pressure back on the unresponsive government\n\n\n\nBuilt to explain changes in human rights law; the same logic applies to labor standards, the environment, and firms.\n\n\nWhich of Ruggie’s three faces of power do TANs wield?\n\nSource: Keck & Sikkink (1999), pp. 89–93"
   },
   {
-    "objectID": "slides/day16-advocacy.html#when-firms-regulate-themselves",
-    "href": "slides/day16-advocacy.html#when-firms-regulate-themselves",
+    "objectID": "slides/day16-advocacy.html#four-tactics",
+    "href": "slides/day16-advocacy.html#four-tactics",
     "title": "Global Business",
-    "section": "When firms regulate themselves",
-    "text": "When firms regulate themselves\n\nCSR / self-regulation is private regulation: not encoded in law, but created and enforced through a firm’s own contracts, audits, and codes of conduct\nVillena & Gioia (2020) make the case that the real bottleneck isn’t the firm’s direct (Tier 1) suppliers — it’s the lower-tier suppliers several links removed, who are hardest to see and hardest to audit\nSelf-regulation’s credibility problem: a firm is essentially grading its own homework. What would make you trust an audit a company runs on itself?"
+    "section": "Four tactics",
+    "text": "Four tactics\n\n\n\nInformation politics“the ability to move politically usable information quickly and credibly to where it will have the most impact”\n\nAgainst a firm: worker testimony, audit findings, tracing a product to a factory\n\n\n\nSymbolic politics“the ability to call upon symbols, actions or stories that make sense of a situation or claim for an audience that is frequently far away”\n\nAgainst a firm: the image that makes a distant harm vivid to consumers\n\n\n\nLeverage politics“the ability to call upon powerful actors to affect a situation where weaker members of a network are unlikely to have influence”\n\nAgainst a firm: material (boycotts, buyers, investors) or moral, “the ‘mobilisation of shame’”\n\n\n\nAccountability politics“the effort to oblige more powerful actors to act on vaguer policies or principles they formally endorsed”\n\nAgainst a firm: holding a brand to its own code of conduct, exposing “the distance between discourse and practice”\n\n\n\n\nApply it: ExxonMobil in Aceh (Day 7). Acehnese student activists in the U.S. brought their case to Terry Collingsworth of the International Labor Rights Forum. He slipped into villages near the gas fields to interview victims and witnesses, then filed John Doe I v. ExxonMobil (2001) in federal court in Washington. Which of the four tactics did this network use? Why sue in Washington rather than in Indonesia?\n\nSources: Keck & Sikkink (1999), pp. 95–98; Coll (2012), Private Empire, ch. 4. “Against a firm” lines are our applications."
   },
   {
-    "objectID": "slides/day16-advocacy.html#a-hard-test-for-self-regulation",
-    "href": "slides/day16-advocacy.html#a-hard-test-for-self-regulation",
+    "objectID": "slides/day16-advocacy.html#the-boomerang-applied-to-pressure-firms",
+    "href": "slides/day16-advocacy.html#the-boomerang-applied-to-pressure-firms",
     "title": "Global Business",
-    "section": "A hard test for self-regulation",
-    "text": "A hard test for self-regulation\nPatagonia is arguably the best-case scenario for corporate self-regulation: a mission-driven firm, a founding member of the Fair Labor Association, a decade of supplier audits and codes of conduct — genuinely trying.\nAnd yet: in 2019, despite all of that, Patagonia’s own audits found debt bondage among migrant workers at a Tier 1 supplier — years after the company thought it had already solved this exact problem at its Tier 2 mills."
+    "section": "The boomerang, applied to pressure firms",
+    "text": "The boomerang, applied to pressure firms\n\n\n\n      Homegovernment  Growers &workers  TransnationalNGOs & activists  Consumers, media,investors  Lead firm(the brand)   ✕ weak enforcement;no reach overa foreign buyer   information, testimony  campaigns   shame,boycotts,divestment   prices,standards,contracts\n\n\n\n\nStarbucks and Ethiopia (2006–07)Ethiopia sought trademarks for its coffee names (Sidamo, Yirgacheffe); Starbucks resisted. NGOs campaigned; Starbucks relented and signed a licensing and promotion agreement.\n\n\nWhen does it work? (Keck & Sikkink 1999, pp. 97–98)\n\nIssues of bodily harm to vulnerable individuals, with “a short and clear causal chain” of responsibility\nTargets that value reputation: Starbucks’s brand depends on social responsibility\nNetworks with the “strength and density” to achieve leverage\n\n\n\nWould Folgers have made the same choice?"
   },
   {
-    "objectID": "slides/day16-advocacy.html#questions-to-carry-into-wednesday",
-    "href": "slides/day16-advocacy.html#questions-to-carry-into-wednesday",
+    "objectID": "slides/day16-advocacy.html#why-would-a-firm-regulate-itself",
+    "href": "slides/day16-advocacy.html#why-would-a-firm-regulate-itself",
     "title": "Global Business",
-    "section": "Questions to carry into Wednesday",
-    "text": "Questions to carry into Wednesday\n\nIf self-regulation fails even at the company trying hardest to make it work, what does that tell you about the other 99% of firms trying less hard?\nWhere does public regulation (like California’s transparency law) fit in — is it a backstop, or is it actually doing more of the work than it looks like?"
+    "section": "Why would a firm regulate itself?",
+    "text": "Why would a firm regulate itself?\n\n\n\nA certified coffee supply chain: a private certifier sets and monitors standards; NGOs build consumer demand\n\n\nCorporate social responsibility is private regulation: not encoded in law, but created and enforced through private contracts.\n\nWhy would a firm do this?\n\nProduct quality in high-end markets\nFinancial risk: investors price supply-chain scandals (ESG)\nBrand protection: well-known brands are prime targets of spotlight campaigns\n\n\n\nCertification (Fair Trade) tries to de-commodify the product, and covers only a small share of the global coffee market.\n\n\nA firm can write a code of conduct for its suppliers. But how can those standards actually be enforced?"
   },
   {
-    "objectID": "slides/day16-advocacy.html#looking-ahead",
-    "href": "slides/day16-advocacy.html#looking-ahead",
+    "objectID": "slides/day16-advocacy.html#villena-and-gioia-standards-cascades-dont-work",
+    "href": "slides/day16-advocacy.html#villena-and-gioia-standards-cascades-dont-work",
     "title": "Global Business",
-    "section": "Looking ahead",
-    "text": "Looking ahead\n\nWednesday (Day 17): Patagonia — Tackling Human Trafficking in Global Supply Chains — self-regulation’s best case, tested"
+    "section": "Villena and Gioia: Standards cascades don’t work",
+    "text": "Villena and Gioia: Standards cascades don’t work\n\n\n\nLead firmSets long-term sustainability goals and a supplier code\n\n\n→\n\n\nTier 1Contracts with the lead firm; expected to comply and to pass the standards on\n\n\n→\n\n\nTier 2No contract with the lead firm; supplies Tier 1\n\n\n→\n\n\nTier 3+Often unknown to the lead firm\n\n\n\nThe study: three multinationals chosen as sustainability leaders (automotive, electronics, pharmaceuticals/consumer products); 9 first-tier and 22 lower-tier suppliers in Mexico, China, Taiwan, and the U.S.\n\n\n\nMexico5 of 5 lower-tier suppliers had no environmental management system; turnover sometimes reached 100%\n\n\nChina & TaiwanAll 10 had marginal environmental practices, dangerous conditions, and chronic overtime\n\n\nUnited States3 of 7 had high concentrations of airborne chemicals and no systematic accident reporting\n\n\n\n“The hoped-for cascade effect was seldom occurring.” If the leaders cannot get standards past Tier 1, ordinary firms are likely doing worse.\nSource: Villena & Gioia (2020), p. 88"
+  },
+  {
+    "objectID": "slides/day16-advocacy.html#why-standards-stall-below-tier-1",
+    "href": "slides/day16-advocacy.html#why-standards-stall-below-tier-1",
+    "title": "Global Business",
+    "section": "Why standards stall below Tier 1",
+    "text": "Why standards stall below Tier 1\n\n\n\nThe buyer creates the pressure“The problem, ironically, often starts with the MNCs themselves”: orders beyond capacity, unrealistic deadlines\n\n\nTier 1 doesn’t comply either“We don’t comply with this requirement ourselves, so how could we ask our own suppliers to do so?”\n\n\nNo contract, no leverageA seat maker’s foam supplier also sells to electronics, appliance, and health care firms; automakers are a small fraction of its business\n\n\nNo spotlightLower-tier suppliers “receive relatively little attention and pressure from the media, NGOs, and other stakeholders”\n\n\nLow capacity, lax statesLittle expertise, and home regulation that is “nonexistent, lax, or not enforced at all”\n\n\nThe lead firm doesn’t know“The demon in this place… is the [lower-tier] suppliers that I know the least about.”\n\n\n\nBelow Tier 1, the lead firm’s relationship looks less like a captive supply chain and more like a market: the lead firm does not have the power or the authority to impose enforceable standards.\n\nSource: Villena & Gioia (2020), “A More Sustainable Supply Chain,” Harvard Business Review, p. 88"
+  },
+  {
+    "objectID": "slides/day16-advocacy.html#four-ways-to-reach-the-lower-tiers",
+    "href": "slides/day16-advocacy.html#four-ways-to-reach-the-lower-tiers",
+    "title": "Global Business",
+    "section": "Four ways to reach the lower tiers",
+    "text": "Four ways to reach the lower tiers\n\n\n\nDirectEvaluate Tier 1 on how it manages its own suppliers; survey suppliers; map the supply network with major Tier 1 suppliers\n\n\nIndirectTrain Tier 1 procurement staff; pilot with high performers; reward suppliers that cascade requirements (awards, long-term contracts, preferred status)\n\n\nCollectiveIndustry-wide standards and shared audits. Responsible Business Alliance members audit at least 25% of their high-risk suppliers’ facilities each year\n\n\nGlobalWork with NGOs and international institutions: UN Global Compact; CDP’s supply-chain disclosure program\n\n\n\nMajor firms share many of the same suppliers, so “a single MNC cannot be expected to fight alone” (p. 91). Collective approaches pool buyers’ leverage: a collective-action problem, solved privately rather than through public law. Every tool here is still voluntary.\n\nSource: Villena & Gioia (2020), pp. 89–92"
+  },
+  {
+    "objectID": "slides/day16-advocacy.html#what-private-regulation-can-and-cannot-do",
+    "href": "slides/day16-advocacy.html#what-private-regulation-can-and-cannot-do",
+    "title": "Global Business",
+    "section": "What private regulation can and cannot do",
+    "text": "What private regulation can and cannot do\n\n\n\n\n\n\n\nSource of leverage\n\n\nWorks best when…\n\n\nBreaks down when…\n\n\n\n\n\n\nAdvocacy networks\n\n\nInformation and shame: discursive power\n\n\nThe target is a reputation-sensitive brand; the harm is bodily and the causal chain short\n\n\nThe firm has no consumer-facing brand; the harm sits several tiers away\n\n\n\n\nFirm self-regulation\n\n\nThe lead firm’s authority, exercised through contracts\n\n\nThe supply chain is captive or hierarchical; the supplier depends on the buyer\n\n\nBelow Tier 1, where there is no contract; when the buyer’s own purchasing creates the pressure\n\n\n\n\n\nStart to model these issues as collective action problems (that is, a prisoner’s dilemma). Why might firms prefer to have some kind of standards on their conduct? And, what are different pathways (through advocacy networks, firms’ own self-regulation, and law) that can punish low standards and/or incentivize higher standards?"
+  },
+  {
+    "objectID": "slides/day16-advocacy.html#takeaways-and-looking-ahead",
+    "href": "slides/day16-advocacy.html#takeaways-and-looking-ahead",
+    "title": "Global Business",
+    "section": "Takeaways and looking ahead",
+    "text": "Takeaways and looking ahead\n\n\n\nSupply chains stretch a lead firm’s authority past its legal boundary. The firm governs suppliers through contracts while law governs each separate entity.\n\n\nHow a supply chain is governed determines where power sits, and so who can be pressured and who can impose standards.\n\n\nPrivate actors regulate from outside and from inside: advocacy networks through information and shame; firms through codes, audits, and certification. Their leverage fades with every tier.\n\n\n\nWednesday: Patagonia: Tackling Human Trafficking in Global Supply Chains. Bring the case and your notes."
   },
   {
     "objectID": "slides/day16-advocacy.html#questions",
@@ -1481,7 +1509,7 @@
     "href": "content/day15.html#materials-for-today",
     "title": "Day 15 — Did Apple Pay Too Little Tax?",
     "section": "Materials for today",
-    "text": "Materials for today\n\nBennedsen, Henry & Stabile, Did Apple Pay Too Little Tax? (A): Appealing the EU Ruling on Illegal State Aid © (INSEAD)\n\nOverview. Ireland gave Apple a tax arrangement that let it book enormous profits at almost no tax rate. The European Commission ruled this amounted to illegal state aid — an unfair subsidy Ireland gave one company — and ordered Apple to pay roughly €13 billion in back taxes. Both Apple and Ireland appealed, because Ireland didn’t want the money either: it wanted to keep being able to offer this kind of deal. The case puts you inside that appeal, sitting at the intersection of sovereignty, corporate power, and the limits of cooperation on tax.\nBy 2026 we know how the appeal ultimately turned out — the EU Court of Justice ruled decisively against Apple and Ireland in September 2024, upholding the full back-tax order. Work the case as of the moment it’s set (before that ruling), then use the actual outcome to test your own reasoning.\n\nCase overview available\nWant more background before class? Open the case overview (PDF) — more on the tax-competition dynamics behind the Apple/Ireland dispute. It doesn’t include the discussion questions; those are still distributed at the start of class."
+    "text": "Materials for today\n\nBennedsen, Roulet, Stabile & Henry, Apple Must Pay €13 Billion to Ireland in Back Taxes: Margrethe Vestager Vindicated © (INSEAD, rev. 2025)\n\nOverview. Ireland gave Apple a tax arrangement that let it book enormous profits at almost no tax rate. The European Commission ruled this amounted to illegal state aid — an unfair subsidy Ireland gave one company — and ordered Apple to pay roughly €13 billion in back taxes. Both Apple and Ireland appealed, because Ireland didn’t want the money either: it wanted to keep being able to offer this kind of deal. The case puts you inside that appeal, sitting at the intersection of sovereignty, corporate power, and the limits of cooperation on tax.\nBy 2026 we know how the appeal ultimately turned out — the EU Court of Justice ruled decisively against Apple and Ireland in September 2024, upholding the full back-tax order. Work the case as of the moment it’s set (before that ruling), then use the actual outcome to test your own reasoning.\n\nCase overview available\nWant more background before class? Open the case overview (PDF) — more on the tax-competition dynamics behind the Apple/Ireland dispute. It doesn’t include the discussion questions; those are still distributed at the start of class."
   },
   {
     "objectID": "content/day15.html#in-class",
