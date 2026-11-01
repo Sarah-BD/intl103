@@ -116,77 +116,119 @@
     "href": "slides/day20-tariffs.html#todays-plan",
     "title": "Global Business",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhen a government uses tariffs to redraw who supplies whom, who actually has the power to decide where production happens — the state that sets the tariff, or the firm that reroutes around it?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · A different public power\n\n\nProtecting industry/security vs. protecting workers\n\n\n\n\n2 · How tariffs work\n\n\nThe basic mechanics, who pays, and why governments use them anyway\n\n\n\n\n3 · The 2025–26 tariff shock\n\n\nScale, macro impact, and firm-level responses\n\n\n\n\n4 · The retreating multilateral order\n\n\nWhat the WTO was supposed to do, and why it isn’t doing it\n\n\n\n\n5 · Setting up Apple’s dilemma\n\n\nDe-risk or double-down: a firm weighing its own exposure to a supply chain it doesn’t fully control"
+    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhen can a government effectively use tariffs to push firms to restructure their supply chains, and at what costs?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · MNEs Drive Trade\n\n\nRevisiting stylized facts on trade and global supply chains\n\n\n\n\n2 · The economic case for trade\n\n\nWhy trade is welfare improving, and why a tariff creates deadweight loss\n\n\n\n\n3 · The Trump tariff trilemma\n\n\nLeverage, industrial policy, or revenue: why a tariff cannot be all three at once\n\n\n\n\n4 · From Trump 1 to Liberation Day\n\n\nWhat changed between the 2018–19 tariffs and the 2025 tariffs\n\n\n\n\n5 · What the tariffs did to supply chains\n\n\nBown (2026): what production shifted, what didn’t, and why\n\n\n\n\n6 · Who has power over supply chains?\n\n\nDiscussion: what governments can make firms do, what firms can resist, and when neither is in control"
   },
   {
-    "objectID": "slides/day20-tariffs.html#not-the-same-public-regulation-as-week-10",
-    "href": "slides/day20-tariffs.html#not-the-same-public-regulation-as-week-10",
+    "objectID": "slides/day20-tariffs.html#todays-reading-bown-2026",
+    "href": "slides/day20-tariffs.html#todays-reading-bown-2026",
     "title": "Global Business",
-    "section": "Not the same “public regulation” as Week 10",
-    "text": "Not the same “public regulation” as Week 10\n\nLast week, H&M and Rana Plaza asked: can public regulation protect workers in a supply chain that crosses borders?\nToday asks a related but distinct question: what happens when governments use trade policy to protect domestic industry and national security instead?\nSame tool — public power exercised over trade — different target, different logic. Don’t conflate the two"
+    "section": "Today’s reading: Bown (2026)",
+    "text": "Today’s reading: Bown (2026)\n\n\n\n“How Did Trump’s 2025 Trade War Affect the Decoupling of US-China Supply Chains?” Chad P. Bown, PIIE Working Paper 26-14, July 2026\n\n\nQuestion: are supply chains serving the U.S. market still leaving China? To where, how fast, and why?\nEvidence: product-level U.S. import data, comparing the 2018–19 and 2025 tariffs\nGenre: a policy working paper; it documents patterns and makes no causal claims\nRead for: which products moved, which didn’t, and where they went\n\n\n\n\n\nChad P. Bown, Peterson Institute for International Economics; former economist at the White House, World Bank, and WTO\n\n\nFollow his work:\n\nPodcast: Trade Talks\nBook: Keynes & Bown, How to Win a Trade War (2026)"
   },
   {
-    "objectID": "slides/day20-tariffs.html#the-basic-mechanics",
-    "href": "slides/day20-tariffs.html#the-basic-mechanics",
+    "objectID": "slides/day20-tariffs.html#back-to-the-stylized-facts",
+    "href": "slides/day20-tariffs.html#back-to-the-stylized-facts",
     "title": "Global Business",
-    "section": "The basic mechanics",
-    "text": "The basic mechanics\n\nA tariff is a tax on imports, paid at the border — usually by the importing firm, which typically passes some or all of the cost on to consumers or absorbs it in margins\nGovernments use tariffs to: raise revenue, protect domestic producers from foreign competition, retaliate in trade disputes, or — increasingly — pursue national-security and industrial-policy goals (reshoring critical production, denying rivals access to key inputs)\nWho actually “pays” a tariff is an empirical question, not a definitional one — it depends on how easily the good can be resourced elsewhere and how price-sensitive the buyer is"
+    "section": "Back to the stylized facts",
+    "text": "Back to the stylized facts\n\n\n\n~80% of global trade runs through multinationals’ production networks\nUNCTAD (2013), via Ruggie (2018)\n\n\n49.5% of U.S. goods imports (2024) were related-party trade: firm to own affiliate\nU.S. Census Bureau (2025), U.S. Goods Trade: Imports & Exports by Related Parties, 2024\n\n\n44% of all U.S. goods trade (imports + exports, 2024) was related-party\nU.S. Census Bureau (2025)\n\n\n\nA tariff is not a tax on “foreign countries.” It is a tax on consumers and on transactions inside firms’ own supply chains, many of them shipments from one part of a firm to another."
   },
   {
-    "objectID": "slides/day20-tariffs.html#why-governments-reach-for-tariffs-anyway",
-    "href": "slides/day20-tariffs.html#why-governments-reach-for-tariffs-anyway",
+    "objectID": "slides/day20-tariffs.html#example---anatomy-of-an-automobile-supply-chain",
+    "href": "slides/day20-tariffs.html#example---anatomy-of-an-automobile-supply-chain",
     "title": "Global Business",
-    "section": "Why governments reach for tariffs anyway",
-    "text": "Why governments reach for tariffs anyway\n\nTariffs are visible and fast — a government can act unilaterally, without needing a trading partner’s agreement\nThat speed is also the problem: tariffs imposed quickly invite retaliation, and firms on both sides have to react faster than they can actually rebuild supply chains"
+    "section": "Example - Anatomy of an automobile supply chain",
+    "text": "Example - Anatomy of an automobile supply chain\n\n\n\nRaw materials Steel, aluminum, copper; rare-earth magnets for motors and sensors\nWhere: global; China ~90% of rare earths and magnets\n\n\n→\n\n\nComponents Tier 2–3: castings, wiring harnesses, chips\nWhere: Mexico, China, across Asia\n\n\n→\n\n\nModules Tier 1: engines, transmissions, seats\nWhere: Mexico, Canada, Germany, Japan, Korea\n\n\n→\n\n\nFinal assembly Lead firm (automaker)\nWhere: U.S., Mexico, Canada\n\n\n\n\nTariffed in 2025: steel, aluminum and copper (Section 232)\n\n\n\n\n\nTariffed since 2018: parts from China, 25% (Section 301)\n\n\n\n\n\nTariffed in 2025: auto parts from all countries (Section 232)\n\n\n\n\n\nTariffed in 2025: imported vehicles (Section 232)\n\n\n\nA single component can cross the U.S.–Canada and U.S.–Mexico borders up to eight times before final assembly. Every crossing could create a tariff bill.\n\nSources: Bown (2026), pp. 6–8, 21–22, 28; Cato Institute, cited in eMarketer (2025), “Tariffs on Canada, Mexico could crash the US auto industry”"
   },
   {
-    "objectID": "slides/day20-tariffs.html#scale-and-macroeconomic-impact",
-    "href": "slides/day20-tariffs.html#scale-and-macroeconomic-impact",
+    "objectID": "slides/day20-tariffs.html#exercise-a-25-tariff-at-every-stage",
+    "href": "slides/day20-tariffs.html#exercise-a-25-tariff-at-every-stage",
     "title": "Global Business",
-    "section": "Scale and macroeconomic impact",
-    "text": "Scale and macroeconomic impact\n\nU.S. tariff actions in 2025 raised effective tariff rates to levels not seen in decades, touching a wide range of trading partners and sectors\nEffects reach beyond the directly tariffed goods: exchange rates, inflation expectations, and investment decisions all move in response, which is why this is a global macroeconomic story, not just a trade-policy footnote"
+    "section": "Exercise: a 25% tariff at every stage",
+    "text": "Exercise: a 25% tariff at every stage\n\n\nAssume car worth $10,000 ex-tariffs.\nEach border crossing requires 25% tariff on the value of its product at that stage.\nWhat does the finished car cost?\nStylized numbers. In current practice, vehicle supply chains in Mexico and Canada receive exemptions from the 2025 auto-parts tariff and compounding applies to inputs from outside of the USMCA.\n\n\n\n\n\n\nStage\n\n\nValue added\n\n\nValue at the border\n\n\n25% tariff\n\n\nCost after the border\n\n\n\n\n\n\nRaw materials\n\n\n$1,000\n\n\n$1,000\n\n\n$250\n\n\n$1,250\n\n\n\n\nComponents\n\n\n$2,000\n\n\n$3,250\n\n\n$813\n\n\n$4,063\n\n\n\n\nModules\n\n\n$3,000\n\n\n$7,063\n\n\n$1,766\n\n\n$8,828\n\n\n\n\nFinal assembly\n\n\n$4,000\n\n\n$12,828\n\n\n$3,207\n\n\n$16,035\n\n\n\n\nTotal\n\n\n$10,000\n\n\n\n\n$6,035\n\n\n+60%\n\n\n\n\n\n\nOne 25% tariff on the finished car: $12,500 (+25%)\nA 25% tariff at every border: $16,035 (+60%)\nTariffs compound: $1,000 of raw materials is taxed four times ($1,000 × 1.254 = $2,441)"
   },
   {
-    "objectID": "slides/day20-tariffs.html#firm-level-responses",
-    "href": "slides/day20-tariffs.html#firm-level-responses",
+    "objectID": "slides/day20-tariffs.html#trade-creates-efficiencies",
+    "href": "slides/day20-tariffs.html#trade-creates-efficiencies",
     "title": "Global Business",
-    "section": "Firm-level responses",
-    "text": "Firm-level responses\n\nReshoring — moving production back to (or closer to) the home market\nTariff engineering — redesigning a product or its classification to qualify for a lower tariff rate\nSupply-chain rerouting / friend-shoring — shifting sourcing to countries with better tariff treatment, even at higher production cost\nEach response has a cost and a time lag — which is exactly why firms that can’t move fast are the ones most exposed"
+    "section": "Trade Creates Efficiencies",
+    "text": "Trade Creates Efficiencies\n\n\n\nSpecialization\nCountries gain by producing what they are relatively best at (comparative advantage)\n\n\nScale\nGlobal markets spread fixed costs, lowering unit costs\n\n\nFragmentation\nMNEs locate each production stage where it is cheapest (vertical FDI, Day 3)\n\n\n\nThe result is lower prices and more variety for consumers and firms.\nBut the gains are diffuse (spread across everyone who buys) and the losses are concentrated (on import-competing workers and firms).\n\n\nIf trade raises total income, a tariff must lower it. By how much? Who loses?"
   },
   {
-    "objectID": "slides/day20-tariffs.html#what-the-wto-was-supposed-to-do",
-    "href": "slides/day20-tariffs.html#what-the-wto-was-supposed-to-do",
+    "objectID": "slides/day20-tariffs.html#why-a-tariff-creates-deadweight-loss",
+    "href": "slides/day20-tariffs.html#why-a-tariff-creates-deadweight-loss",
     "title": "Global Business",
-    "section": "What the WTO was supposed to do",
-    "text": "What the WTO was supposed to do\n\nThe World Trade Organization, and the GATT system before it, was built to make trade rules-based and predictable — negotiated tariff bindings, a dispute-settlement process, most-favored-nation treatment for all members\nThat system assumed most disputes would be resolved through adjudication, not unilateral action"
+    "section": "Why a tariff creates deadweight loss",
+    "text": "Why a tariff creates deadweight loss\n\n\n\n\n\nTariff: a tax on imports, paid by the importer at the border\n\nA: consumers → domestic producers\nC: consumers → government (revenue)\nB + D: deadweight loss\n\nB: inefficient domestic production\nD: forgone consumption\n\n\n\nMultiple peer reviewed articles have found that the 2018-19 tariffs cost the U.S.economy between $7.2-16.8 billion per year and households between about $400-830 per year. These costs are relatively small/diffuse, so might be worth paying if the government has a clear policy objective. Note that 2018-19 tariffs were more targeted than 2025 tariffs. \n\nFajgelbaum, Goldberg, Kennedy & Khandelwal (2020); Amiti, Redding & Weinstein (2019)"
   },
   {
-    "objectID": "slides/day20-tariffs.html#why-it-isnt-doing-that-job-right-now",
-    "href": "slides/day20-tariffs.html#why-it-isnt-doing-that-job-right-now",
+    "objectID": "slides/day20-tariffs.html#what-is-the-purpose-of-liberation-day-tariffs",
+    "href": "slides/day20-tariffs.html#what-is-the-purpose-of-liberation-day-tariffs",
     "title": "Global Business",
-    "section": "Why it isn’t doing that job right now",
-    "text": "Why it isn’t doing that job right now\n\nThe WTO’s dispute-settlement Appellate Body has been non-functional for years — member states, including the U.S., have blocked new appointments, leaving disputes with no final arbiter\nMajor economies increasingly bypass WTO channels entirely, acting unilaterally (tariffs, export controls) rather than litigating through a system many see as too slow or too weak to enforce its own rulings\nThis is the public regulation of trade in retreat — precisely the “who has power” question from Day 1, now playing out at the level of the international system itself: when the multilateral rulebook weakens, power shifts back to whichever states are willing to act unilaterally"
+    "section": "What is the purpose of “liberation day” tariffs?",
+    "text": "What is the purpose of “liberation day” tariffs?\n\n\nStated rationales:\n\nLeverage: threat to open foreign markets (reciprocity)\nIndustrial policy: bring production home\nRevenue: fund the Treasury\n\nTariffs cannot achieve all three (or even two) at once.\nOn the motives: Bown (2026), p. 2; see also Bown & Irwin (2025), “The Incoherent Case for Tariffs,” Foreign Affairs\n\n\n\n  Leverage requires a tariff you are willing to remove in a deal  Industrial policy requires a tariff firms believe is permanent, and imports that stop  Revenue requires a tariff that stays, and imports that keep coming   Will only reshore if you believe the tariffs are permanent & stable    If tariffs are used for leverage, they are removed in negotiations    A tariff that brings production home collects no revenue"
   },
   {
-    "objectID": "slides/day20-tariffs.html#key-takeaways",
-    "href": "slides/day20-tariffs.html#key-takeaways",
+    "objectID": "slides/day20-tariffs.html#rationales-vs.-realities",
+    "href": "slides/day20-tariffs.html#rationales-vs.-realities",
     "title": "Global Business",
-    "section": "Key takeaways",
-    "text": "Key takeaways\n\nTariffs are a different face of public power than labor or environmental regulation — aimed at protecting industry and security, not workers\nThe costs and benefits of a tariff depend on who can reroute around it — which is a question about firms’ flexibility as much as about government policy\nThe retreat of WTO-style rules-based trade governance means more of this is now settled by unilateral state power, not negotiated multilateral process"
+    "section": "Rationales vs. realities",
+    "text": "Rationales vs. realities\n\n\n\n\n\nGoal\n\n\nWhat the administration said\n\n\nWhat happened in 2025\n\n\n\n\n\n\nLeverage\n\n\nOpen foreign markets to U.S. exports\n\n\nCountry rates paused Apr. 9 for 90-day talks; most deals settled between 10% and the Liberation Day rate. China: 125%+ in April, cut after Geneva (May) and South Korea (Oct.)\n\n\n\n\nIndustrial policy\n\n\nReshore manufacturing. To Tim Cook: “We want you to build here.”\n\n\nNew Section 232 tariffs (steel, aluminum, autos, copper, lumber). But smartphones exempted twice; iPhone assembly moved to India\n\n\n\n\nRevenue\n\n\nReduce the fiscal deficit\n\n\nImports from China −28%; IEEPA tariffs ruled illegal (Feb. 2026), replaced under other authorities\n\n\n\n\nSource: Bown (2026), pp. 2–3, 6–8, 15"
   },
   {
-    "objectID": "slides/day20-tariffs.html#looking-ahead",
-    "href": "slides/day20-tariffs.html#looking-ahead",
+    "objectID": "slides/day20-tariffs.html#average-tariffs-over-time",
+    "href": "slides/day20-tariffs.html#average-tariffs-over-time",
     "title": "Global Business",
-    "section": "Looking ahead",
-    "text": "Looking ahead\n\nWednesday (Day 21): Apple’s Supply Chains — De-Risk or Double-Down on China? — a firm weighing whether to keep pushing diversification away from China or bet that China’s manufacturing advantages outweigh the tariff and political risk"
+    "section": "Average tariffs over time",
+    "text": "Average tariffs over time\n\n\n\n\nAverage U.S. tariff on China: 2018–19 3% → 21% · 2025 21% → 50%+ (125%+ in April)\n\n\nAverage U.S. tariff on everyone else: 2018–19 2% → 3% · 2025 3% → 18%\n\n\nSource: Bown (2026), Figure 1 and pp. 5–8"
   },
   {
-    "objectID": "slides/day20-tariffs.html#questions",
-    "href": "slides/day20-tariffs.html#questions",
+    "objectID": "slides/day20-tariffs.html#what-changed-in-2025",
+    "href": "slides/day20-tariffs.html#what-changed-in-2025",
     "title": "Global Business",
-    "section": "Questions?",
-    "text": "Questions?\n\nSee you Wednesday."
+    "section": "What changed in 2025",
+    "text": "What changed in 2025\n\n\n\n\n\n\n\nTrump 1 (2018–19)\n\n\nTrump 2 (2025)\n\n\n\n\n\n\nTarget\n\n\nChina (four product lists); steel, aluminum, solar panels, washers from all\n\n\nChina and everyone: all Chinese goods; country “Liberation Day” rates; sector tariffs\n\n\n\n\nLegal authority\n\n\nSection 301 (unfair trade practices); Section 232 (national security)\n\n\nMostly IEEPA (emergency powers) + Section 232; IEEPA tariffs ruled illegal, Feb. 2026\n\n\n\n\nWhat was spared\n\n\nConsumer goods (phones, laptops): delayed “for Christmas season,” never tariffed\n\n\nShifting exemptions (Annex II), incl. smartphones\n\n\n\n\nThe message to firms\n\n\n“Many Tariffed companies will be leaving China for Vietnam and other such countries in Asia.” (May 2019)\n\n\n“I don’t want you building in India … We want you to build here.” (to Tim Cook, May 2025)\n\n\n\n\nSource: Bown (2026), pp. 2–8, 11"
+  },
+  {
+    "objectID": "slides/day20-tariffs.html#decoupling-from-china-in-direct-trade",
+    "href": "slides/day20-tariffs.html#decoupling-from-china-in-direct-trade",
+    "title": "Global Business",
+    "section": "Decoupling from China, in direct trade",
+    "text": "Decoupling from China, in direct trade\n\n\n\n2025 imports: China −28%; rest of world +9% (Trump 1, year 1: China −3%)\nChina’s import share: 22% → 9% (2018–25)\nGainers: Taiwan, Vietnam, Mexico\n\nTrade diversion: sourcing shifts to untariffed suppliers\nDecoupling: severing economic ties\nDe-risking: reducing critical dependencies while trade continues\nSource: Bown (2026), Figure 2 and pp. 8–9"
+  },
+  {
+    "objectID": "slides/day20-tariffs.html#exiting-china-doesnt-solve-tariff-exposure---e.g.-playstation-5",
+    "href": "slides/day20-tariffs.html#exiting-china-doesnt-solve-tariff-exposure---e.g.-playstation-5",
+    "title": "Global Business",
+    "section": "Exiting China doesn’t solve tariff exposure - e.g. PlayStation 5",
+    "text": "Exiting China doesn’t solve tariff exposure - e.g. PlayStation 5\n\n\n\n\n\n\nNot exempt: the April 2025 electronics carve-out covered smartphones and computers, not consoles\nAssembly moved: China 86% → &lt;5% of U.S. console imports; Vietnam 75% (2025)\nTariffs followed: Vietnam 20%, Japan 15% (Aug. 2025); 12.5% for all three (July 2026)\nPrices rose: +$50 (Aug. 2025), +$100 (Apr. 2026)\nRising semiconductor demand also to blame for some of price increase\n\n\n\nSony moved assembly out of China, but cotninued reliance on parts plus tariff expansion to Vietnam and Japan mean its tariff exposure remains high\n\nSources: Bown (2026); Bloomberg (Dec. 2025); U.S. executive orders (2025); Global Trade Alert (2026); Sony (2025–26)"
+  },
+  {
+    "objectID": "slides/day20-tariffs.html#supply-chain-restructuring-depends-on-low-tariff-alternative",
+    "href": "slides/day20-tariffs.html#supply-chain-restructuring-depends-on-low-tariff-alternative",
+    "title": "Global Business",
+    "section": "Supply chain restructuring depends on low tariff alternative",
+    "text": "Supply chain restructuring depends on low tariff alternative\n\n\nSmartphones\n\nChina ~80% of U.S. imports (2024)\nApr.–Dec. 2025: 40% China, 46% India\nIndian assembly capacity already built\n\nClothing\n\nAlternatives also tariffed: India +28 pts, Cambodia +17, Vietnam +16 (China +29)\nSmall tariff differential → little shifting\n\n\nShifting requires an existing alternative and a large differential.\n\nSource: Bown (2026), Figure 4 and pp. 12–16, 26"
+  },
+  {
+    "objectID": "slides/day20-tariffs.html#shifts-in-imports-not-always-due-to-decoupling",
+    "href": "slides/day20-tariffs.html#shifts-in-imports-not-always-due-to-decoupling",
+    "title": "Global Business",
+    "section": "Shifts in imports not always due to decoupling",
+    "text": "Shifts in imports not always due to decoupling\n\n\n\n1 A growing denominator: the AI build-out\n\nAI inputs (chips, servers): ~14% of U.S. imports; +65% in 2025 (+$183B)\nLarger than all import growth (+$144B): other imports fell\nSourced from Taiwan and Mexico, never China → China’s share falls\n\n\n\n\n\n\n\n\n2 Shifts among the rest of the world\n\nCars (gasoline engine): Mexico’s import share +11 pts (2018–25)\nAt the expense of Japan (−8) and Canada (−7), not China\nChina was ~1% of U.S. vehicle imports to begin with\n\n\n\n\n\n\nSource: Bown (2026), Figure 5 and pp. 17–23"
+  },
+  {
+    "objectID": "slides/day20-tariffs.html#governments-firms-and-the-limits-of-both",
+    "href": "slides/day20-tariffs.html#governments-firms-and-the-limits-of-both",
+    "title": "Global Business",
+    "section": "Governments, firms, and the limits of both",
+    "text": "Governments, firms, and the limits of both\n\n\n\nWhat the USG can do\n\nPrice locations: tariffs and exemptions\n“Build here” (Trump to Cook, May 2025)\nApple: $600B U.S. pledge; “no charge” under planned 100% chip tariff (Aug. 2025)\nNvidia, AMD: 15% of China chip sales for export licenses (Aug. 2025)\n\n\n\nWhat firms can do\n\nChoose among locations: Apple → India, not the U.S.\nExploit prior hedges: laptops, consoles → Vietnam\nLobby for exemptions: smartphones, twice\nWait: tariffs are bargained away, paused, or struck down\n\n\n\nWhen neither is in control\n\nClothing: no differential, no shift\nRare earths: China ~90% of production; 2025 export curbs nearly halted global auto output\nEcosystems: ~8 years to move 10% of Apple’s production\nChinese parts flow through new assembly sites\n\n\n\nSources: Bown (2026), pp. 2–3, 15–16, 28; AFP, “Apple to hike investment in US to $600 bn over four years” (Aug. 7, 2025); NPR, “Trump says Nvidia will hand the U.S. 15% of its H20 chip sales to China” (Aug. 11, 2025); Friedman et al. (2024), p. 9"
+  },
+  {
+    "objectID": "slides/day20-tariffs.html#takeaways",
+    "href": "slides/day20-tariffs.html#takeaways",
+    "title": "Global Business",
+    "section": "Takeaways",
+    "text": "Takeaways\n\n\nMNE supply chains organize trade. Tariffs tax those supply chains; U.S. buyers bore the 2018–19 costs; the deadweight loss is small but real; firms not sure how to restructure supply chains in face of uncertainty\nThe tariff trilemma: tariffs could be used for leverage, industrial policy, or revenue, but not all three; uncertainty over what rationale matters most makes it hard for firms to respond\n2025 shifted final assembly where alternatives existed and differentials were large (smartphones, laptops), not elsewhere (clothing)\nDirect imports from China fell far more than Chinese content\n\n\nWednesday: Apple’s Supply Chains: De-Risk or Double-Down on China? The case ends in early 2024; think about how Liberation Day tariffs relate."
   },
   {
     "objectID": "slides/day16-advocacy.html#todays-plan",
@@ -844,14 +886,14 @@
     "href": "content/day20.html",
     "title": "Day 20 — Tariffs, sourcing & the power to redraw supply chains",
     "section": "",
-    "text": "Lecture and discussion: tariffs, economic statecraft, and the retreat of the WTO trading order. A different face of public power than Week 10’s H&M case — there, governments regulate to protect workers abroad; here, governments regulate to protect domestic industry and security."
+    "text": "Lecture and discussion: why trade is a multinational story, why tariffs create deadweight loss, the tariff trilemma (leverage, industrial policy, or revenue), and what the 2018–19 and 2025 tariffs did to supply chains. We end with a discussion of power: what governments can make firms do, what firms can resist, and when neither is in control."
   },
   {
     "objectID": "content/day20.html#materials-for-today",
     "href": "content/day20.html#materials-for-today",
     "title": "Day 20 — Tariffs, sourcing & the power to redraw supply chains",
     "section": "Materials for today",
-    "text": "Materials for today\n\nBown 2026, “How Did Trump’s 2025 Trade War Affect the Decoupling of US-China Supply Chains?,” PIIE Working Paper 26-14\n(Additional context covered in lecture, not an assigned reading: a short framing of the WTO/multilateral trading order’s retreat.)"
+    "text": "Materials for today\n\nBown 2026, “How Did Trump’s 2025 Trade War Affect the Decoupling of US-China Supply Chains?,” PIIE Working Paper 26-14"
   },
   {
     "objectID": "content/day20.html#slides",
