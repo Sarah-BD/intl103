@@ -865,14 +865,14 @@
     "href": "content/day22.html",
     "title": "Day 22 — National security & FDI: CFIUS",
     "section": "",
-    "text": "Lecture and discussion: National security & FDI: CFIUS."
+    "text": "Lecture and discussion: what makes foreign investment a national security risk, how investment screening spread from a handful of countries to forty, and how CFIUS works and has grown since 1975. We look at new research on how firms decide whether to file for review, then turn to securitization: why a tool built to depoliticize investment keeps expanding, and how to tell a credible security threat from a pretext."
   },
   {
     "objectID": "content/day22.html#materials-for-today",
     "href": "content/day22.html#materials-for-today",
     "title": "Day 22 — National security & FDI: CFIUS",
     "section": "Materials for today",
-    "text": "Materials for today\n\nCongressional Research Service, CFIUS report"
+    "text": "Materials for today\n\nCongressional Research Service (2020), The Committee on Foreign Investment in the United States (CFIUS)"
   },
   {
     "objectID": "content/day22.html#slides",
@@ -2181,70 +2181,126 @@
     "href": "slides/day22-cfius.html#todays-plan",
     "title": "Global Business",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhen does foreign investment stop being just business and start being a national-security problem — and who gets to decide?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · Open, with guardrails\n\n\nWhat CFIUS is — and isn’t\n\n\n\n\n2 · The legal test\n\n\nWhen CFIUS can actually act\n\n\n\n\n3 · A widening aperture\n\n\nWhat now counts as “national security”\n\n\n\n\n4 · Lattice & semiconductors\n\n\nStrategic acquisitions and Made in China 2025"
+    "text": "Today’s Plan\n\n\n\n\nToday’s Big Question\n\n\nWhen does foreign ownership become a national security threat, and how should firms respond to increasing securitization of investment policy?\n\n\n\n\n\n\n\n\nSection\n\n\nWhat we’ll cover\n\n\n\n\n\n\n1 · What makes FDI a security risk?\n\n\nThree traditional risks and three emerging concerns\n\n\n\n\n2 · The proliferation of investment screening\n\n\nThe expansion of screening authorities globally\n\n\n\n\n3 · How CFIUS works\n\n\nThe history of CFIUS rules; who sits on the committee and how review works today\n\n\n\n\n4 · Risk-based regulation shifts key decisions to firms\n\n\nHow firms decide when to file with the committee (new research)\n\n\n\n\n5 · Securitization\n\n\nWhy a tool built to depoliticize investment keeps expanding\n\n\n\n\n6 · Credible threat or pretext?\n\n\nDiscussion: a four-question test applied to three foreign acquisitions"
   },
   {
-    "objectID": "slides/day22-cfius.html#what-cfius-is",
-    "href": "slides/day22-cfius.html#what-cfius-is",
+    "objectID": "slides/day22-cfius.html#is-this-a-national-security-threat",
+    "href": "slides/day22-cfius.html#is-this-a-national-security-threat",
     "title": "Global Business",
-    "section": "What CFIUS is",
-    "text": "What CFIUS is\n\n\n\nThe Committee on Foreign Investment in the United States reviews foreign acquisitions of U.S. businesses for national-security risk\nThe U.S. keeps an open investment environment — CFIUS is a guardrail, not a wall\nAs developing economies (read: China) do more outward FDI, developed countries have grown more worried"
+    "section": "Is this a national security threat?",
+    "text": "Is this a national security threat?\n\n\n\n\n\n\nYear\n\n\nThe deal\n\n\nWhat the U.S. government did\n\n\n\n\n\n\n2017\n\n\nA Chinese state-backed fund buys a U.S. maker of programmable chips (Lattice)\n\n\nBlocked by the president\n\n\n\n\n2019\n\n\nA Chinese gaming company owns a U.S. dating app (Grindr) that collects users’ HIV status\n\n\nForced to sell\n\n\n\n\n2020\n\n\nA Chinese company buys U.S. hotel-management software used in hotels that U.S. personnel stay at on work trips (StayNTouch)\n\n\nDivestment by the president\n\n\n\n\n2024\n\n\nA Chinese-backed crypto miner buys land near a nuclear missile base in Wyoming (MineOne)\n\n\nOrdered to sell the land\n\n\n\n\n2023–25\n\n\nA Japanese steelmaker buys U.S. Steel (Nippon Steel)\n\n\nBlocked by Biden; approved by Trump with a “golden share”\n\n\n\n\n\nWith a neighbor: rank these from most to least threatening. What would have to be true for each one to harm U.S. security?\n\nSource: CRS, CFIUS (IF10177, Aug. 2026), Table 1; Grindr: CFIUS order to Beijing Kunlun Tech (2019)"
   },
   {
-    "objectID": "slides/day22-cfius.html#when-can-cfius-act",
-    "href": "slides/day22-cfius.html#when-can-cfius-act",
+    "objectID": "slides/day22-cfius.html#six-ways-foreign-ownership-can-create-risk",
+    "href": "slides/day22-cfius.html#six-ways-foreign-ownership-can-create-risk",
     "title": "Global Business",
-    "section": "When can CFIUS act?",
-    "text": "When can CFIUS act?\nCFIUS can intervene only if:\n\nNo other law is adequate to address the national-security threat, and\nThere is credible evidence the foreign investor might take action that threatens to impair U.S. national security\n\nRemedies run from mitigation agreements and conditions up to blocking a deal or ordering divestment."
+    "section": "Six ways foreign ownership can create risk",
+    "text": "Six ways foreign ownership can create risk\n\n\n\n\nTraditional risks\n\n\nLeverage: a foreign owner controls goods or services the country depends on, and could delay, deny, or attach conditions to supply\n\n\nTechnology leakage: sensitive know-how moves abroad\n\n\nEspionage or sabotage: physical, logical, or cyber access to critical systems\n\n\n\n\nEmerging concerns\n\n\nState-directed investors: buyers guided by government goals, not only profit\n\n\nDual-use technology: AI, chips, data, and biotech have both civilian and military uses\n\n\nSupply-chain security: control of key inputs, minerals, ports, and logistics\n\n\n\nSources: Moran (2009), Three Threats: An Analytical Framework for the CFIUS Process; Bauerle Danzman (2026), Investment Screening: An Introduction for Policymakers"
   },
   {
-    "objectID": "slides/day22-cfius.html#what-counts-as-national-security",
-    "href": "slides/day22-cfius.html#what-counts-as-national-security",
+    "objectID": "slides/day22-cfius.html#national-security-is-not-a-fixed-concept",
+    "href": "slides/day22-cfius.html#national-security-is-not-a-fixed-concept",
     "title": "Global Business",
-    "section": "What counts as national security?",
-    "text": "What counts as national security?\n\n\nThe definition has expanded well beyond defense — now reaching:\n\nCritical technology\nCritical infrastructure\nSensitive personal data"
+    "section": "National security is not a fixed concept",
+    "text": "National security is not a fixed concept\n\n\n\n\n\nWhat counts: weapons → defense suppliers (1970s–90s) → infrastructure (2000s) → dual-use tech (2010s) → data-rich firms (today)\nScreening regimes covering sensitive personal data: 0 of 18 (2010) → 18 of 40 (2025)\n\n\n\n\n\n\n\n\n\nWho invests has changed: China becomes a major source. How goods are made creates new chokepoints.\n\nSources: Bauerle Danzman & Meunier (2026), “The Paradox of Managed Openness,” ISA; PRISM dataset; UNCTAD WIR 2025; SIA 2021; USGS 2025; IEA 2025"
   },
   {
-    "objectID": "slides/day22-cfius.html#blocks-are-bipartisan",
-    "href": "slides/day22-cfius.html#blocks-are-bipartisan",
+    "objectID": "slides/day22-cfius.html#from-16-to-40-economies-and-growing",
+    "href": "slides/day22-cfius.html#from-16-to-40-economies-and-growing",
     "title": "Global Business",
-    "section": "Blocks are bipartisan",
-    "text": "Blocks are bipartisan\n\nTightening foreign-investment review is one of the few areas of sustained bipartisan agreement."
+    "section": "From 16 to 40 economies, and growing",
+    "text": "From 16 to 40 economies, and growing\n\n\n\n\n\n\n\n16 → 40 economies screen (2007–2025); +16 since 2019\n\n\nEurope: 8 → 29. New EU rules: every member state must screen by 2028\n\n\nWhy: China as an investor; technology widens what is “sensitive”; countries copy each other\n\n\nSource: PRISM dataset (Bauerle Danzman & Meunier 2023, 2025 update); Bauerle Danzman & Meunier, “If You Can’t Beat Them, Join Them”"
   },
   {
-    "objectID": "slides/day22-cfius.html#the-lattice-semiconductor-case",
-    "href": "slides/day22-cfius.html#the-lattice-semiconductor-case",
+    "objectID": "slides/day22-cfius.html#cfius-developed-piecemeal-over-50-years",
+    "href": "slides/day22-cfius.html#cfius-developed-piecemeal-over-50-years",
     "title": "Global Business",
-    "section": "The Lattice Semiconductor case",
-    "text": "The Lattice Semiconductor case\n\n\n\nChinese growth and technological upgrading, backed by industrial policy — Made in China 2025 ($100–150B)\nState-owned venture capital + SOEs used to buy strategic Western assets, especially semiconductors\nA 2015–17 wave of attempted chip acquisitions; the Lattice deal was ultimately blocked"
+    "section": "CFIUS Developed Piecemeal over 50 Years",
+    "text": "CFIUS Developed Piecemeal over 50 Years\n\n\n\n\n1975\n\n\n\n\n\nExecutive order (Ford). CFIUS created to monitor foreign investment; no power to blockTrigger: OPEC petrodollars; Congress weighing restrictions\n\n\n\n\n1988\n\n\n\n\n\nExon-Florio. President may block deals that threaten national securityTrigger: Japanese purchases, e.g., Fujitsu–Fairchild\n\n\n\n\n1992\n\n\n\n\n\nByrd Amendment. Mandatory investigation of foreign-government-controlled buyers\n\n\n\n\n2007\n\n\n\n\n\nFINSA. CFIUS in statute; critical infrastructure; reports to CongressTrigger: Dubai Ports World (2006)\n\n\n\n\n2018\n\n\n\n\n\nFIRRMA. Minority stakes in tech, infrastructure & data firms; real estate; mandatory filingsTrigger: Chinese tech acquisitions\n\n\n\n\n2022\n\n\n\n\n\nEO 14083 (Biden). New factors: supply chains, tech leadership, cyber, data\n\n\n\n\n2025\n\n\n\n\n\nAmerica First Investment Policy (Trump). Restrict China; “fast track” for allies. Golden share in U.S. Steel\n\n\n\n\nThe pattern: each crisis widens CFIUS’s reach. No reform has narrowed it.\n\nSources: CRS, CFIUS (IF10177, Aug. 2026) and CRS report (Feb. 2020, assigned); Bauerle Danzman (2025), “A Tool Is Not a Strategy,” JIEL"
   },
   {
-    "objectID": "slides/day22-cfius.html#why-semiconductors",
-    "href": "slides/day22-cfius.html#why-semiconductors",
+    "objectID": "slides/day22-cfius.html#cfiuss-structure",
+    "href": "slides/day22-cfius.html#cfiuss-structure",
     "title": "Global Business",
-    "section": "Why semiconductors?",
-    "text": "Why semiconductors?\nStrategic acquisitions are central to competitiveness because the industry consolidates as R&D costs rise — as the technology matures, breakthroughs get harder and costlier, so buying capability can beat building it."
+    "section": "CFIUS’s Structure",
+    "text": "CFIUS’s Structure\n\n\n\nAn interagency committee\n\n\nTreasury (chair)\n\n\n\nState\n\n\nDefense\n\n\nJustice\n\n\nHomeland Security\n\n\nCommerce\n\n\nEnergy\n\n\nU.S. Trade Representative\n\n\nScience & Technology Policy (OSTP)\n\n\n\nNon-voting: Labor; Director of National Intelligence (threat assessment)Observers: five White House offices, e.g., National Security Council\n\n\nEach case: Treasury + a co-lead agency with the relevant expertise\nThe co-lead monitors mitigation agreements (234 active, end of 2025)\n\n\n\n\nWhat it can review\n\n\nControl of a U.S. business by a foreign person\nMinority, non-passive stakes in TID firms: critical Technology, critical Infrastructure, sensitive personal Data\nReal estate near military sites, ports, and airports\n\nFiling is mandatory only if a foreign government takes a substantial interest in a TID firm, or the firm makes export-controlled critical technology. Otherwise it is voluntary.\n\nThe clock\n\n\n\nDeclaration30 days\n\n\n\n\n\nReview45 days\n\n\nInvestigation45 (+15) days\n\n\nPresident15 days\n\n\n\nShort-form declaration, or a full notice that goes to review; only the president can block\n\nSource: CRS, CFIUS (IF10177, Aug. 2026)"
   },
   {
-    "objectID": "slides/day22-cfius.html#key-takeaways",
-    "href": "slides/day22-cfius.html#key-takeaways",
+    "objectID": "slides/day22-cfius.html#filings-and-outcomes-20082025",
+    "href": "slides/day22-cfius.html#filings-and-outcomes-20082025",
     "title": "Global Business",
-    "section": "Key takeaways",
-    "text": "Key takeaways\n\nCFIUS polices the line between open investment and national-security risk\nThe bar to act is legally narrow, but the definition of security keeps widening\nSemiconductors show why who owns critical technology is now a security question"
+    "section": "Filings and outcomes, 2008–2025",
+    "text": "Filings and outcomes, 2008–2025\n\n\n\n\n\n\n\nYear\n\n\nNotices\n\n\nDeclarations\n\n\nInvestigations(% of notices)\n\n\nWithdrawn\n\n\nMitigated\n\n\nPresidential decisions\n\n\n\n\n\n\n2008\n\n\n155\n\n\n—\n\n\n23 (15%)\n\n\n23\n\n\n2\n\n\n0\n\n\n\n\n2010\n\n\n93\n\n\n—\n\n\n35 (38%)\n\n\n12\n\n\n8\n\n\n0\n\n\n\n\n2012\n\n\n114\n\n\n—\n\n\n45 (39%)\n\n\n22\n\n\n5\n\n\n1\n\n\n\n\n2014\n\n\n147\n\n\n—\n\n\n52 (35%)\n\n\n12\n\n\n9\n\n\n0\n\n\n\n\n2016\n\n\n172\n\n\n—\n\n\n79 (46%)\n\n\n27\n\n\n17\n\n\n1\n\n\n\n\n2017\n\n\n237\n\n\n—\n\n\n172 (73%)\n\n\n74\n\n\n30\n\n\n1\n\n\n\n\n2018\n\n\n229\n\n\n—\n\n\n158 (69%)\n\n\n66\n\n\n37\n\n\n1\n\n\n\n\n2019\n\n\n231\n\n\n94\n\n\n113 (49%)\n\n\n30\n\n\n28\n\n\n1\n\n\n\n\n2020\n\n\n187\n\n\n126\n\n\n88 (47%)\n\n\n29\n\n\n16\n\n\n2\n\n\n\n\n2021\n\n\n272\n\n\n164\n\n\n130 (48%)\n\n\n74\n\n\n26\n\n\n0\n\n\n\n\n2022\n\n\n286\n\n\n154\n\n\n163 (57%)\n\n\n88\n\n\n41\n\n\n0\n\n\n\n\n2023\n\n\n233\n\n\n109\n\n\n128 (55%)\n\n\n57\n\n\n35\n\n\n0\n\n\n\n\n2024\n\n\n209\n\n\n116\n\n\n116 (56%)\n\n\n49\n\n\n25\n\n\n2\n\n\n\n\n2025\n\n\n207\n\n\n140\n\n\n114 (55%)\n\n\n58\n\n\n25\n\n\n2\n\n\n\n\nShaded: FIRRMA (2018); short-form declarations began with its pilot program. Withdrawn 2024–25 counts withdrawals during investigation; most withdrawn notices are refiled. Sources: U.S. Treasury, CFIUS covered-transactions table, 2008–2023; CFIUS Annual Reports to Congress, CY2019 and CY2025 (via CRS IF10177, Aug. 2026)\n\n\n\nVolume: ~200–290 notices a year since 2017, plus 100–160 declarations\nScrutiny: investigated share 15% → 55%+\nMitigation is the main tool: 2 deals (2008) → 16–41 a year since 2017\nBlocks stay rare: 0–2 a year\n\n\nThe legal test: the president may block only on credible evidence of a threat that no other law can address"
   },
   {
-    "objectID": "slides/day22-cfius.html#looking-ahead",
-    "href": "slides/day22-cfius.html#looking-ahead",
+    "objectID": "slides/day22-cfius.html#presidential-blocks-rare-and-mostly-china",
+    "href": "slides/day22-cfius.html#presidential-blocks-rare-and-mostly-china",
     "title": "Global Business",
-    "section": "Looking ahead",
-    "text": "Looking ahead\n\nWednesday (Day 23): the TikTok case — data, algorithms, and forced divestiture"
+    "section": "Presidential blocks: rare, and mostly China",
+    "text": "Presidential blocks: rare, and mostly China\n\n\n\n\n\n\nYear\n\n\nBuyer\n\n\nU.S. target\n\n\nSector\n\n\n\n\n\n\n1990\n\n\nCATIC (China)\n\n\nMAMCO\n\n\nAerospace\n\n\n\n\n2012\n\n\nRalls / Sany (China)\n\n\nWind farms near a Navy site\n\n\nEnergy\n\n\n\n\n2016\n\n\nFujian Grand Chip (China)\n\n\nAixtron (U.S. business)\n\n\nSemiconductors\n\n\n\n\n2017\n\n\nCanyon Bridge (China-backed)\n\n\nLattice\n\n\nSemiconductors\n\n\n\n\n2018\n\n\nBroadcom (Singapore)\n\n\nQualcomm\n\n\nSemiconductors\n\n\n\n\n2020\n\n\nBeijing Shiji (China)\n\n\nStayNTouch\n\n\nSoftware\n\n\n\n\n2020*\n\n\nByteDance (China)\n\n\nMusical.ly (TikTok)\n\n\nSocial media\n\n\n\n\n2024\n\n\nMineOne (China-backed)\n\n\nLand near missile base\n\n\nReal estate\n\n\n\n\n2025*\n\n\nNippon Steel (Japan)\n\n\nU.S. Steel\n\n\nSteel\n\n\n\n\n2025\n\n\nSuirui (China)\n\n\nJupiter Systems\n\n\nAV equipment\n\n\n\n\n2026\n\n\nHieFo (China)\n\n\nEMCORE assets\n\n\nSemiconductors\n\n\n\n\n* Order not enforced. Source: CRS, CFIUS (IF10177, Aug. 2026), Table 1\n\n\n\n11 blocks in 50 years\n9 of 11 involve Chinese buyers\n4 of 11 in semiconductors\nTwo not enforced: TikTok (ByteDance) and U.S. Steel"
   },
   {
-    "objectID": "slides/day22-cfius.html#questions",
-    "href": "slides/day22-cfius.html#questions",
+    "objectID": "slides/day22-cfius.html#the-paper-navigating-uncertainty",
+    "href": "slides/day22-cfius.html#the-paper-navigating-uncertainty",
     "title": "Global Business",
-    "section": "Questions?",
-    "text": "Questions?\n\nSee you Wednesday."
+    "section": "The paper: “Navigating Uncertainty”",
+    "text": "The paper: “Navigating Uncertainty”\n\n\n“Navigating Uncertainty: Learning and Compliance in CFIUS Reviews of Cross-Border Deals” Bauerle Danzman (Indiana), Li (LSE), Shim (UT Dallas) & Tomashevskiy (Rutgers) · working paper, 2026\n\n\n\nPuzzle\nMost filings are voluntary and costly, and not filing usually goes unpunished. Why do firms volunteer for review, and which deals do they file?\n\n\nArgument\nGovernment defines “risk” with classified information and changes its view across administrations. So compliance becomes learning: firms infer the unwritten standard from reviews of comparable firms\n\n\nData\n25,757 foreign acquisitions involving a publicly traded party (1995–2022); an original dataset of 1,054 CFIUS reviews from SEC disclosures, law firms, and news\n\n\nMethod\nDecision-theoretic model → hypotheses. Linear probability and Poisson models with home-country and industry fixed effects\n\n\nFindings\nFirms file more after recent reviews of same-industry and same-country deals, and (more tentatively) as a presidential election nears\n\n\nImplication\nUncertainty produces precautionary filing for safe harbor, which undercuts the efficiency of risk-based regulation"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#from-the-model-to-testable-hypotheses",
+    "href": "slides/day22-cfius.html#from-the-model-to-testable-hypotheses",
+    "title": "Global Business",
+    "section": "From the model to testable hypotheses",
+    "text": "From the model to testable hypotheses\n\n\n\n\n\n\nProposition (model)\n\n\nLogic\n\n\nTestable hypothesis\n\n\nMeasure\n\n\n\n\n\n\nP1 · Optimal filing\n\n\nFile when the expected chance of a post-closing review exceeds a threshold: the cost of filing relative to the cost of being reviewed (and forced to sell) later\n\n\nBigger deals, state-owned buyers, and cheaper reviews → more filing\n\n\nControls: deal size, state ownership, FDI, trade, UN votes\n\n\n\n\nP2 · Learning from peers and enforcement\n\n\nThe standard is classified, so firms infer it: each peer filing or government-initiated review raises the next firm’s estimate that its deal is risky\n\n\nH1: more recent reviews of same-country deals → more filingH2: more recent reviews of same-industry deals → more filing\n\n\nDecay-weighted count of prior reviews (half-life ~6 years)\n\n\n\n\nP3 · Political turnover\n\n\nSafe harbor protects a cleared deal from the next administration; if a successor may be as hawkish or more, its insurance value rises near elections\n\n\nH3: filing rises as the next presidential election nears\n\n\nYears to next election (4 → 0)\n\n\n\n\nSource: Bauerle Danzman, Li, Shim & Tomashevskiy (2026), Propositions 1–3 and Hypotheses 1–3"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#results-firms-learn-from-peers-and-hedge-against-elections",
+    "href": "slides/day22-cfius.html#results-firms-learn-from-peers-and-hedge-against-elections",
+    "title": "Global Business",
+    "section": "Results: firms learn from peers and hedge against elections",
+    "text": "Results: firms learn from peers and hedge against elections\n\n\n\n\\[\\text{CFIUS Filing}_i = \\beta_0 + \\beta_1\\,\\text{Co-national}_i + \\beta_2\\,\\text{Co-industrial}_i + \\beta_3\\,\\text{Years to Election}_i + \\beta_4 Z_i + \\gamma + \\tau + \\chi + u_i\\]\n\n\n\n\n\n\n\n\n\nModel 1LPM\n\n\nModel 2LPM\n\n\nModel 3PPML\n\n\nModel 4PPML\n\n\n\n\n\n\nCo-national reviews (H1)\n\n\n0.0006***(0.0002)\n\n\n0.0005***(0.0002)\n\n\n0.0084**(0.0034)\n\n\n0.0071**(0.0036)\n\n\n\n\nCo-industrial reviews (H2)\n\n\n0.0013***(0.0005)\n\n\n0.0012**(0.0005)\n\n\n0.0127***(0.0032)\n\n\n0.0127***(0.0034)\n\n\n\n\nYears to election (H3)\n\n\n−0.0026*(0.0013)\n\n\n−0.0026*(0.0013)\n\n\n−0.1092***(0.0379)\n\n\n−0.1034***(0.0389)\n\n\n\n\nAcquirer’s own prior filings\n\n\n\n\n0.0083***(0.0027)\n\n\n\n\n0.0848***(0.0211)\n\n\n\n\nState-owned investor\n\n\n0.0550***(0.0146)\n\n\n0.0510***(0.0148)\n\n\n0.8932***(0.1519)\n\n\n0.7815***(0.1800)\n\n\n\n\nCost-of-review controls; period shocks; home & industry FE\n\n\nYes\n\n\nYes\n\n\nYes\n\n\nYes\n\n\n\n\nObservations\n\n\n24,607\n\n\n24,607\n\n\n22,725\n\n\n22,725\n\n\n\n\nTable 1, Bauerle Danzman et al. (2026). SEs clustered by industry. * p&lt;0.1, ** p&lt;0.05, *** p&lt;0.01. γ: crisis/COVID/Trump-term indicators; τ: home-country FE; χ: industry FE\n\n\n\nSubstantive effects (Model 1)\n\n\nSame industry: 25th → 75th percentile of recent reviews raises the chance of filing 1.49% → 2.54% (+71%)\n\n\nSame home country: 1.64% → 2.62% (+60%)\n\n\nElection: a deal announced just before an election is ~1 point more likely to be filed than one four years earlier (~45% of the 2.3% base rate)\n\n\nState-owned buyers: +5 points, more than double the base rate"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#from-normal-politics-to-emergency-politics",
+    "href": "slides/day22-cfius.html#from-normal-politics-to-emergency-politics",
+    "title": "Global Business",
+    "section": "From normal politics to emergency politics",
+    "text": "From normal politics to emergency politics\n\n\n\nNon-politicized Not a public issue. Quiet, technocratic, expert-run\n\n\n→\n\n\nPoliticized Public debate; normal politics of lobbying and bargaining\n\n\n→\n\n\nSecuritized Framed as an existential threat; emergency measures that bypass normal rules\n\n\nSecuritization: a speech act frames an issue as a security threat. If the audience accepts it, the issue leaves normal politics, and the government can act without the usual debate.\n\nThe CFIUS paradox: created in 1975 to depoliticize foreign investment by moving fights out of Congress into a quiet, confidential review. That same discretion and secrecy make it easy to securitize.\n\nBuzan, Wæver & de Wilde (1998), Security: A New Framework for Analysis; Bauerle Danzman (2025), “Securitized Political Economy,” EJIR"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#once-securitized-business-goes-quiet",
+    "href": "slides/day22-cfius.html#once-securitized-business-goes-quiet",
+    "title": "Global Business",
+    "section": "Once securitized, business goes quiet",
+    "text": "Once securitized, business goes quiet\n\n\n\nNews articles mentioning CFIUS, 1981–2021 (Factiva). Source: Bauerle Danzman (2025), EJIR\n\n\n\n\n\n\nIssue (2017–20)\n\n\nLobbying\n\n\n% via associations\n\n\n\n\n\n\nCFIUS/FIRRMA\n\n\n$0.58B\n\n\n61%\n\n\n\n\nSection 232/301 tariffs\n\n\n$1.20B\n\n\n57%\n\n\n\n\nTrans-Pacific Partnership\n\n\n$3.33B\n\n\n48%\n\n\n\n\n\nOnly 4 of 27 witnesses at FIRRMA hearings came from tech or finance\nFirms disengage, or lobby quietly through associations in technical rulemaking\n\n\n“Certain American companies need to decide whose national security they really care about: America’s or China’s?” Rep. Robert Pittenger, FIRRMA sponsor (2018)"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#why-screening-expands-and-rarely-contracts",
+    "href": "slides/day22-cfius.html#why-screening-expands-and-rarely-contracts",
+    "title": "Global Business",
+    "section": "Why screening expands, and rarely contracts",
+    "text": "Why screening expands, and rarely contracts\n\n\n\nFive mechanisms of expansion\n\n\n1 Functional adaptation: governments respond to newly recognized risks\n\n\n2 Strategic emulation: states copy their peers’ screening rules\n\n\n3 Bureaucratic expansion: agencies tasked with finding threats tend to find them\n\n\n4 Executive discretion: leaders discover screening is a useful political tool\n\n\n5 Securitization ratchet: expanding is easy; narrowing exposes leaders to blame\n\nSource: Bauerle Danzman & Meunier (2026), “The Paradox of Managed Openness,” ISA\n\n\n\nDiscretion with little oversight\n\n\nNo court review of the president’s decision itself\nRalls v. CFIUS (2014): the buyer gets to see the unclassified evidence, but not to challenge the outcome\nEvidence is often classified; decisions are not explained publicly\nCongress receives confidential reports\n\n\nSo who checks whether a stated security risk is real?"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#a-four-question-test",
+    "href": "slides/day22-cfius.html#a-four-question-test",
+    "title": "Global Business",
+    "section": "A four-question test",
+    "text": "A four-question test\n\n\n\n\n\nQuestion\n\n\nMore credible if…\n\n\nRed flag if…\n\n\n\n\n\n\n1. What is the mechanism?\n\n\nNames a specific risk: leverage, leakage, espionage, state direction, dual-use, supply chain\n\n\nThe concern is jobs, prices, prestige, or “competitiveness”\n\n\n\n\n2. Is the asset hard to replace?\n\n\nFew alternative suppliers; sensitive technology, data, or location\n\n\nWidely available output; many domestic producers\n\n\n\n\n3. Does the risk come from this buyer?\n\n\nTies to an adversary state; the ability and incentive to misuse the asset\n\n\nAn ally is treated like an adversary; similar deals are approved\n\n\n\n\n4. Is the remedy a last resort and proportionate?\n\n\nOther laws can’t do the job; mitigation tried first; conditions target the harm\n\n\nPoliticians announce the outcome before review; conditions concern headquarters, names, or plants\n\n\n\n\nBuilt from Moran (2009); the statutory test (credible evidence, no other adequate law); OECD (2009), Guidelines for Recipient Country Investment Policies Relating to National Security"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#apply-the-test",
+    "href": "slides/day22-cfius.html#apply-the-test",
+    "title": "Global Business",
+    "section": "Apply the test",
+    "text": "Apply the test\n\n\n\n\n\n\n\n\nCanyon Bridge → Lattice (2017)\n\n\nDubai Ports World → P&O (2006)\n\n\nNippon Steel → U.S. Steel (2023–25)\n\n\n\n\n\n\nBuyer\n\n\nFund backed by Chinese state capital\n\n\nOwned by the UAE government, a U.S. security partner\n\n\nJapanese firm; Japan is a U.S. treaty ally\n\n\n\n\nAsset\n\n\nProgrammable chips used by the U.S. government\n\n\nTerminal operations at six U.S. ports; security stays with Coast Guard and Customs\n\n\nA steelmaker; China makes ~60% of world steel, the U.S. under 6%\n\n\n\n\nStated concern\n\n\nTechnology transfer; Chinese government role; chip supply-chain integrity\n\n\nTerrorism risk at ports\n\n\nSteel as a critical supply chain (not listed in Biden’s own 2022 order)\n\n\n\n\nWhat happened\n\n\nBlocked by the president\n\n\nCleared by CFIUS; congressional backlash; DP World sold the U.S. operations; Congress passed FINSA\n\n\nBiden opposed it before review ended; blocked Jan. 2025. Trump approved June 2025 with a golden share: presidential veto over HQ, name, plant closures, offshoring\n\n\n\n\n\nYour verdict on each: credible threat or pretext? Which of the four questions decides it?\n\nSources: CRS IF10177 (2026); U.S. Treasury statement on Lattice (Sept. 2017); Bauerle Danzman, Atlantic Council (Jan. 2024; Jan. 2025; June 2025)"
+  },
+  {
+    "objectID": "slides/day22-cfius.html#takeaways",
+    "href": "slides/day22-cfius.html#takeaways",
+    "title": "Global Business",
+    "section": "Takeaways",
+    "text": "Takeaways\n\n\nFDI creates security risk through specific mechanisms: leverage, leakage, and espionage, plus state direction, dual-use technology, and supply chains\nScreening has spread and widened: 16 → 40 economies; broader definitions and lower standards of evidence; lists rarely shrink\nCFIUS grew crisis by crisis, from monitoring (1975) to minority stakes, real estate, and mandatory filings\nFirms guess what counts as risk by watching their peers’ reviews, and over-file when politics is uncertain\nSecuritization: a tool built to depoliticize investment gives presidents broad discretion with little oversight. Credible threats name a mechanism, a hard-to-replace asset, a risky buyer, and a proportionate remedy\n\n\nWednesday: TikTok (Friedman & Bauerle Danzman 2021). Apply the four questions to data, algorithms, and a forced sale."
   },
   {
     "objectID": "slides/day26-geoeconomics.html#todays-plan",
